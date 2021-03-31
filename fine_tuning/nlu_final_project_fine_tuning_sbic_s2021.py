@@ -32,6 +32,17 @@ import numpy as np
 import torch
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
+# if torch.cuda.is_available():
+#     print(torch.cuda.get_device_name(0))
+#     torch_device = 'cuda'
+#     torch.set_default_tensor_type(torch.cuda.DoubleTensor)
+# else:
+#     torch_device = 'cpu'
+#     torch.set_default_tensor_type(torch.DoubleTensor)
+
+# float_dtype = np.float64
+# print(f"TORCH DEVICE: {torch_device}")
+
 # [TODO] update this for whichever model type is desired
 
 model_checkpoint = "bert-base-cased"
@@ -83,10 +94,10 @@ encoded_dataset['train']['offensiveYN'], encoded_dataset['train']['labels']
 from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
 
 
-num_labels = 3 # The original 'offensiveYN' outcome is a categorical variable with three levels
-model = AutoModelForSequenceClassification.from_pretrained(model_checkpoint, num_labels=num_labels)
-model.eval()
-model.to('cuda')
+# num_labels = 3 # The original 'offensiveYN' outcome is a categorical variable with three levels
+# model = AutoModelForSequenceClassification.from_pretrained(model_checkpoint, num_labels=num_labels)
+# model.eval()
+# model.to('cuda')
 
 # [TODO] update this with whatever metric is desired
 
@@ -131,7 +142,8 @@ def compute_metrics(pred):
 #     train_dataset=encoded_dataset['train'],
 #     eval_dataset=encoded_dataset['validation'],
 #     tokenizer=tokenizer,
-#     compute_metrics=lambda x: compute_metrics(x, metric)
+#     # compute_metrics=lambda x: compute_metrics(x, metric)
+#     compute_metrics=compute_metrics
 # )
 
 
@@ -139,12 +151,13 @@ def compute_metrics(pred):
 """# Hyperparameter Tuning"""
 
 def model_init():
+
+    num_labels = 3
     model = AutoModelForSequenceClassification.from_pretrained(
         model_checkpoint, num_labels=num_labels)
-
-
     model.eval()
     model.to('cuda')
+
     return model
 
 trainer = Trainer(
@@ -157,7 +170,15 @@ trainer = Trainer(
     compute_metrics=compute_metrics
 )
 
-best_run = trainer.hyperparameter_search(n_trials=10, direction="maximize")
+def my_hp_space(trial):
+    return {
+        "learning_rate": trial.suggest_float("learning_rate", 1e-4, 1e-2, log=True),
+        "num_train_epochs": trial.suggest_int("num_train_epochs", 1, 5),
+        "seed": trial.suggest_int("seed", 1, 40),
+        "per_device_train_batch_size": trial.suggest_categorical("per_device_train_batch_size", [8]),
+    }
+
+best_run = trainer.hyperparameter_search(n_trials=10, direction="maximize", hp_space=my_hp_space)
 
 for n, v in best_run.hyperparameters.items():
     setattr(trainer.args, n, v)
