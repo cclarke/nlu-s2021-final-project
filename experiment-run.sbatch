@@ -16,7 +16,7 @@ module load anaconda3/2020.07
 
 echo "Loading activate"
 set +u
-source activate transformers-dev
+source activate nlu-final-project
 set -u
 
 
