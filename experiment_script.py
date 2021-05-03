@@ -185,17 +185,6 @@ def model_init():
     return model
 
 
-def my_hp_space(trial):
-    return {
-        "learning_rate": trial.suggest_float("learning_rate", 1e-5, 1e-2, log=True),
-        "num_train_epochs": trial.suggest_int("num_train_epochs", 1, 5),
-        "seed": trial.suggest_int("seed", 1, 40),
-        "per_device_train_batch_size": trial.suggest_categorical(
-            "per_device_train_batch_size", [batch_size]
-        ),  # constant batch size
-    }
-
-
 def train(encoded_dataset, tokenizer):
     args = TrainingArguments(
         output_dir=RUN_OUTPUTS,
@@ -203,6 +192,8 @@ def train(encoded_dataset, tokenizer):
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
         weight_decay=0.01,
+        learning_rate=1.218154152691866e-05,
+        num_train_epochs=2,
         load_best_model_at_end=True,
         metric_for_best_model=metric_name,
         greater_is_better=True,
@@ -216,14 +207,10 @@ def train(encoded_dataset, tokenizer):
         compute_metrics=compute_metrics,
     )
     logging.info("Constructed trainer")
-    best_run = trainer.hyperparameter_search(
-        n_trials=5, direction="maximize", hp_space=my_hp_space
-    )
-    for n, v in best_run.hyperparameters.items():
-        setattr(trainer.args, n, v)
-    trainer.train()
-    return best_run, trainer
 
+    trainer.train()
+    
+    return best_run, 
 
 def make_chunks(data1, data2, chunk_size):
     while data1 and data2:
@@ -357,7 +344,7 @@ if __name__ == "__main__":
         )
 
         logging.info("Training...")
-        best_run, trainer = train(dataset, tokenizer)
+        trainer = train(dataset, tokenizer)
         trainer.save_model(args.model_output)
     if args.evaluate:
         logging.info(f"Evaluating with dataset {args.eval_dataset}")
