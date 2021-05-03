@@ -1,0 +1,10 @@
+{
+    "average_fscore_support": "binary",
+    "training_dataset": "jigsaw_toxicity_pred",
+    "training_dataset_split": "None",
+    "model_checkpoint": "bert-base-cased",
+    "run_outputs": "",
+    "train_features_column": "comment_text",
+    "num_labels": 2,
+    "train_labels_column": "toxic"
+}

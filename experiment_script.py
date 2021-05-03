@@ -20,26 +20,14 @@ optional arguments:
   -ed {EMBO/biolang,empathetic_dialogues,conv_ai_3,air_dialogue,ted_talks_iwslt,tweet_eval}, --eval-dataset {EMBO/biolang,empathetic_dialogues,conv_ai_3,air_dialogue,ted_talks_iwslt,tweet_eval}
                         Dataset to evaluate on
   --eval-all            Whether to run evaluation on all datasets. Overrides all other eval commands
-  -tg, --training-globals    
-                        A path to a file containing a TrainingGlobals object, representing global variables for model training
-  -eg, --eval-globals    
-                        A path to a file containing an EvalGlobals object, representing global variables for model evaluation
+  -tc, --training-config    
+                        A path to a file containing a JSON blob containing config settings for model training
+  -cd, --cache_dir      A path to a directory to use as a cache directory for loading datasets from Hugging Face
 
 """
 
 metric_name = "f1"
-AVERAGE_FSCORE_SUPPORT = "micro"
 batch_size = 2
-EVALUATION_DATASET = "air_dialogue"
-TRAINING_DATASET = "social_bias_frames"
-TRAINING_DATASET_SPLIT = None
-DATASETS_DIR = "/scratch/amq259/datasets"
-# MODEL_CHECKPOINT = "bert-base-cased"
-MODEL_CHECKPOINT = "/scratch/pw1329/nlu-s2021-final-project/models/rtgender-model-new/"
-RUN_OUTPUTS = ""
-TRAIN_FEATURES_COLUMN = "post"
-NUM_LABELS = 3
-relabel_training = None
 
 
 from transformers import (
@@ -53,6 +41,7 @@ from transformers import (
 
 from datasets import load_dataset, Dataset
 import numpy as np
+import json
 import torch
 from sklearn.metrics import (
     accuracy_score,
@@ -130,6 +119,14 @@ cols_removed = {
     "air_dialogue": ["action", "correct_sample", "dialogue", "expected_action", "intent", "search_info", "timestamps"]
 }
 
+def set_training_global_vars():
+
+    pass
+
+def set_eval_global_vars():
+    
+    pass
+
 def clean_text():
     pass
 
@@ -165,29 +162,21 @@ def _preprocess_dataset(dataset_name, data, sentence_col, tokenizer):
     return data
 
 
-def compute_metrics(pred):
+def compute_metrics(pred, average_fscore_support):
     preds, labels = pred
     preds = np.argmax(preds, axis=1)
     precision, recall, f1, _ = precision_recall_fscore_support(
-        labels, preds, average=AVERAGE_FSCORE_SUPPORT
+        labels, preds, average=average_fscore_support
     )
     acc = accuracy_score(labels, preds)
     return {"accuracy": acc, "f1": f1, "precision": precision, "recall": recall}
 
 
-def model_init():
-    model = AutoModelForSequenceClassification.from_pretrained(
-        MODEL_CHECKPOINT, num_labels=4
-    )
-    model.train()
-    if USE_CUDA:
-        model.to("cuda")
-    return model
 
 
-def train(encoded_dataset, tokenizer):
+def train(model, encoded_dataset, tokenizer, run_output_dir, average_fscore_support):
     args = TrainingArguments(
-        output_dir=RUN_OUTPUTS,
+        output_dir=run_output_dir,
         evaluation_strategy="epoch",
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
@@ -199,18 +188,18 @@ def train(encoded_dataset, tokenizer):
         greater_is_better=True,
     )
     trainer = Trainer(
-        model_init=model_init,
+        model=model,
         args=args,
         train_dataset=encoded_dataset["train"],
         eval_dataset=encoded_dataset["validation"],
         tokenizer=tokenizer,
-        compute_metrics=compute_metrics,
+        compute_metrics=lambda pred: compute_metrics(pred, average_fscore_support),
     )
     logging.info("Constructed trainer")
 
     trainer.train()
     
-    return best_run, 
+    return trainer
 
 def make_chunks(data1, data2, chunk_size):
     while data1 and data2:
@@ -284,19 +273,11 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
-        "-tg",
-        "--training-globals",
+        "-tc",
+        "--training-config",
         default="",
         required=True,
-        help="A path to a file containing a TrainingGlobals object, representing global variables for model training",
-    )
-
-    parser.add_argument(
-        "-eg",
-        "--eval-globals",
-        default="",
-        required=True,
-        help="A path to a file containing an EvalGlobals object, representing global variables for model evaluation",
+        help="A path to a file containing a JSON blob containing config settings for model training",
     )
 
     args = parser.parse_args()
@@ -320,16 +301,34 @@ if __name__ == "__main__":
         torch.cuda.empty_cache()
     batch_size = int(args.batch_size)
     logging.info(f"Using batch_size {batch_size}")
+
+    logging.info(f"Loading dictionary of training parameters from {args.training_globals}")
+
+    with open(args.training_config, 'r') as f:
+
+        training_config_dict = json.load(f)
+
+    AVERAGE_FSCORE_SUPPORT = training_config_dict['average_fscore_support']
+    TRAINING_DATASET = training_config_dict['training_dataset']
+    TRAINING_DATASET_SPLIT = None if training_config_dict['training_dataset_split'] == 'None' else training_config_dict['training_dataset_split']
+    MODEL_CHECKPOINT = training_config_dict['model_checkpoint']
+    RUN_OUTPUTS = training_config_dict['run_outputs']
+    TRAIN_FEATURES_COLUMN = training_config_dict['train_features_column']
+    NUM_LABELS = training_config_dict['num_labels']
+    TRAIN_LABELS_COLUMN = training_config_dict['train_labels_column']
+
     logging.info("Loading tokenizer")
     tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased", use_fast=True)
     if args.train:
+        CACHE_DIR = args.cache_dir
+        relabel_training = training_relabel_funcs[TRAINING_DATASET]
         if args.train_dataset:
             TRAINING_DATASET = args.train_dataset
         logging.info(
             f"Loading dataset {TRAINING_DATASET} with split {TRAINING_DATASET_SPLIT}"
         )
         dataset = load_dataset(
-            TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=DATASETS_DIR
+            TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR
         )
         logging.info(f"Relabeling dataset column {TRAIN_LABELS_COLUMN}")
         dataset = dataset.map(
@@ -344,8 +343,19 @@ if __name__ == "__main__":
         )
 
         logging.info("Training...")
-        trainer = train(dataset, tokenizer)
+
+        
+
+        pretrained_model = AutoModelForSequenceClassification.from_pretrained(
+            MODEL_CHECKPOINT, num_labels=NUM_LABELS
+        )
+
+        if USE_CUDA:
+            pretrained_model.to("cuda")
+
+        trainer = train(pretrained_model, dataset, tokenizer, RUN_OUTPUTS, AVERAGE_FSCORE_SUPPORT)
         trainer.save_model(args.model_output)
+
     if args.evaluate:
         logging.info(f"Evaluating with dataset {args.eval_dataset}")
         if args.model_input:
