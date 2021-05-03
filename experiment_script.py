@@ -20,6 +20,10 @@ optional arguments:
   -ed {EMBO/biolang,empathetic_dialogues,conv_ai_3,air_dialogue,ted_talks_iwslt,tweet_eval}, --eval-dataset {EMBO/biolang,empathetic_dialogues,conv_ai_3,air_dialogue,ted_talks_iwslt,tweet_eval}
                         Dataset to evaluate on
   --eval-all            Whether to run evaluation on all datasets. Overrides all other eval commands
+  -tg, --training-globals    
+                        A path to a file containing a TrainingGlobals object, representing global variables for model training
+  -eg, --eval-globals    
+                        A path to a file containing an EvalGlobals object, representing global variables for model evaluation
 
 """
 
@@ -291,6 +295,23 @@ if __name__ == "__main__":
         default=False,
         help="Whether to run evaluation on all datasets. Overrides all other eval commands",
     )
+
+    parser.add_argument(
+        "-tg",
+        "--training-globals",
+        default="",
+        required=True,
+        help="A path to a file containing a TrainingGlobals object, representing global variables for model training",
+    )
+
+    parser.add_argument(
+        "-eg",
+        "--eval-globals",
+        default="",
+        required=True,
+        help="A path to a file containing an EvalGlobals object, representing global variables for model evaluation",
+    )
+
     args = parser.parse_args()
     if not args.train and not args.evaluate:
         print("Not training AND not evaluating. Exiting.")
