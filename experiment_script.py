@@ -322,7 +322,6 @@ if __name__ == "__main__":
     if TRAINING_DATASET == 'jigsaw_toxicity_pred':
         
         DATA_DIR = training_config_dict['jigsaw_dataset_dir']
-        TRAIN_VAL_SPLIT = training_config_dict['train_val_split']
 
 
 
