@@ -55,7 +55,7 @@ import logging
 from datetime import datetime
 from relabel_funcs import (
     relabel_sbic_offensiveness, 
-    relabel_rt_gender, 
+    split_relabel_rt_gender, 
     filter_relabel_sbic_targetcategory,
     split_relabel_jigsaw_toxic,
     split_relabel_jigsaw_severetoxic,
@@ -80,7 +80,7 @@ training_dataset_cols = {
 training_relabel_funcs = {
     "relabel_sbic_offensiveness": relabel_sbic_offensiveness,
     "filter_relabel_sbic_targetcategory": filter_relabel_sbic_targetcategory,
-    "peixian/rtGender": relabel_rt_gender,
+    "split_relabel_rt_gender": split_relabel_rt_gender,
     "mdGender": "",
     "split_relabel_jigsaw_toxic": split_relabel_jigsaw_toxic,
     "split_relabel_jigsaw_severetoxic": split_relabel_jigsaw_severetoxic,

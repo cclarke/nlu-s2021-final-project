@@ -1,0 +1,11 @@
+{
+    "average_fscore_support": "binary",
+    "training_dataset": "peixian/rtGender",
+    "training_dataset_split": "None",
+    "model_checkpoint": "bert-base-cased",
+    "run_outputs": "/scratch/ccc779/rtgender_opgender_model",
+    "train_features_column": "response_text",
+    "num_labels": 2,
+    "train_labels_column": "op_gender",
+    "training_relabel_func_name": "split_relabel_rt_gender"
+}

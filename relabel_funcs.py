@@ -127,16 +127,28 @@ def return_social_bias_frames(predictions):
 # -----------------------rtGender-------------------
 
 # Each dataset should have two functions, one that relabels the dataset, and another that turns the vector into a single score
-def relabel_rt_gender(toxicity):
-    # rtGender has 4 types: ['Negative', 'Positive', 'Neutral', 'Mixed']
-    if sentiment == "Negative":
-        return 0
-    elif sentiment == "Neutral":
-        return 1
-    elif sentiment == "Mixed":
-        return 2
-    else:
-        return 3
+def split_relabel_rt_gender(dataset):
+
+    def relabel_func(column):
+
+        relabel_dict = {
+            'M': 0,
+            'W': 1
+        }
+
+        return [relabel_dict[elt] for elt in column]
+
+    dataset = dataset.map(lambda x: {'labels': relabel_func(x['op_gender'])},  batched=True)
+    train_test = dataset['train'].train_test_split(test_size=0.20)
+    train_val = train_test['train'].train_test_split(test_size=0.25)
+    dataset = DatasetDict({
+        'train': train_val['train'],
+        'test': train_test['test'],
+        'validation': train_val['test']}
+    )
+
+    return dataset
+
 
 
 def return_rt_gender(predictions):
