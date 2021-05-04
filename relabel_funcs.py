@@ -11,16 +11,29 @@ def _softmax_and_relabel(predictions, categorical_labels):
 # -----------------------Social Bias Frames-------------------
 
 # Each dataset should have two functions, one that relabels the dataset, and another that turns the vector into a single score
-def relabel_social_bias_frames(toxicity):
-    if offensive:
-        if offensive == "0.0":
-            return 0
-        elif offensive == "0.5":
-            return 1
-        else:
-            return 2
-    else:
-        return 0
+def relabel_sbic_offensiveness(dataset):
+
+    def relabel_func(column):
+
+        relabel_dict = {
+            '0.0': 0, # not offensive
+            '0.5': 1, # maybe offiensive
+            '1.0': 2, # offensive
+            '': None # missing value
+        }
+
+        return [relabel_dict[elt] for elt in column]
+
+    dataset = dataset.map(lambda x: {'labels': relabel_func(x['offensiveYN'])},  batched=True)
+
+    new_features = dataset['train'].features.copy()
+    new_features["labels"] = dataset.ClassLabel(names=['no', 'maybe', 'yes'])
+
+    dataset['train'] = dataset['train'].cast(new_features)
+    dataset['validation'] = dataset['validation'].cast(new_features)
+    dataset['test'] = dataset['test'].cast(new_features)
+
+    return dataset
 
 
 def return_social_bias_frames(predictions):

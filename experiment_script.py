@@ -53,7 +53,7 @@ import random
 import argparse
 import logging
 from datetime import datetime
-from relabel_funcs import relabel_social_bias_frames, relabel_rt_gender
+from relabel_funcs import relabel_sbic_offensiveness, relabel_rt_gender
 import time
 
 logging.basicConfig(level=logging.INFO)
@@ -71,10 +71,11 @@ training_dataset_cols = {
 
 # mapping of training datasets to functions to relabel
 training_relabel_funcs = {
+    "relabel_sbic_offensiveness": relabel_sbic_offensiveness,
     "peixian/rtGender": relabel_rt_gender,
     "mdGender": "",
     "jigsaw_toxicity_pred": lambda x: x,
-    "social_bias_frames": relabel_social_bias_frames,
+    # "social_bias_frames": relabel_sbic_offensiveness,
     "peixian/equity_evaluation_corpus": lambda x: 0 if x == "male" else 1,
 }
 
@@ -119,16 +120,6 @@ cols_removed = {
     "air_dialogue": ["action", "correct_sample", "dialogue", "expected_action", "intent", "search_info", "timestamps"]
 }
 
-def set_training_global_vars():
-
-    pass
-
-def set_eval_global_vars():
-    
-    pass
-
-def clean_text():
-    pass
 
 def loader(dataset_name, tokenizer, cache_dir):
     assert dataset_name in dataset_cols
@@ -242,8 +233,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "-nc",
         "--no-cuda",
-        action="store_false",
-        default=True,
+        action="store_true",
+        default=False,
         help="Whether to use cuda or not. Defaults to true. Turn off for debugging purposes",
     )
     parser.add_argument(
@@ -289,7 +280,7 @@ if __name__ == "__main__":
             "Asked for evaluation but we are not training a model or loading one. Please supply a model or train one."
         )
 
-    USE_CUDA = args.no_cuda
+    USE_CUDA = not args.no_cuda
 
     logging.info("Initializing seeds and setting values")
     logging.info(f"Use cuda? {USE_CUDA}")
@@ -299,8 +290,6 @@ if __name__ == "__main__":
     np.random.seed(0)
     if USE_CUDA:
         torch.cuda.empty_cache()
-    batch_size = int(args.batch_size)
-    logging.info(f"Using batch_size {batch_size}")
 
     logging.info(f"Loading dictionary of training parameters from {args.training_globals}")
 
@@ -316,12 +305,13 @@ if __name__ == "__main__":
     TRAIN_FEATURES_COLUMN = training_config_dict['train_features_column']
     NUM_LABELS = training_config_dict['num_labels']
     TRAIN_LABELS_COLUMN = training_config_dict['train_labels_column']
+    TRAINING_RELABEL_FUNC_NAME = training_config_dict['training_relabel_func_name']
 
     logging.info("Loading tokenizer")
     tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased", use_fast=True)
     if args.train:
         CACHE_DIR = args.cache_dir
-        relabel_training = training_relabel_funcs[TRAINING_DATASET]
+        relabel_training = training_relabel_funcs[TRAINING_RELABEL_FUNC_NAME]
         if args.train_dataset:
             TRAINING_DATASET = args.train_dataset
         logging.info(
@@ -330,10 +320,10 @@ if __name__ == "__main__":
         dataset = load_dataset(
             TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR
         )
-        logging.info(f"Relabeling dataset column {TRAIN_LABELS_COLUMN}")
-        dataset = dataset.map(
-            lambda x: {"labels": relabel_training(x[TRAIN_LABELS_COLUMN])}
-        )
+
+        logging.info(f"Relabeling dataset column {TRAIN_LABELS_COLUMN} using {TRAINING_RELABEL_FUNC_NAME}")
+        dataset = relabel_training(dataset)
+
         logging.info(f"Tokenizing dataset column {TRAIN_FEATURES_COLUMN}")
         dataset = dataset.map(
             lambda x: tokenizer(
@@ -342,10 +332,10 @@ if __name__ == "__main__":
             batched=True,
         )
 
+        logging.info(f"Dropping rows in training data where label is missing")
+        dataset = dataset.filter(lambda row: not (row['labels'] is None))
+
         logging.info("Training...")
-
-        
-
         pretrained_model = AutoModelForSequenceClassification.from_pretrained(
             MODEL_CHECKPOINT, num_labels=NUM_LABELS
         )

@@ -6,5 +6,6 @@
     "run_outputs": "/scratch/ccc779/social_bias_frames",
     "train_features_column": "post",
     "num_labels": 3,
-    "train_labels_column": "offensiveYN"
+    "train_labels_column": "offensiveYN",
+    "training_relabel_func_name": "relabel_sbic_offensiveness"
 }
