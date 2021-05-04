@@ -36,6 +36,34 @@ def relabel_sbic_offensiveness(dataset):
 
     return dataset
 
+def relabel_sbic_targetcategory(dataset):
+
+    def relabel_func(column):
+
+        relabel_dict = {
+            'body': 0, 
+            'culture': 1, 
+            'disabled': 2, 
+            'gender': 3, 
+            'race': 4, 
+            'social': 5, 
+            'victim': 6,
+            '': None # missing value
+        }
+
+        return [relabel_dict[elt] for elt in column]
+
+    dataset = dataset.map(lambda x: {'labels': relabel_func(x['targetCategory'])},  batched=True)
+
+    new_features = dataset['train'].features.copy()
+    new_features["labels"] = datasets.ClassLabel(names=['no', 'maybe', 'yes'])
+
+    dataset['train'] = dataset['train'].cast(new_features)
+    dataset['validation'] = dataset['validation'].cast(new_features)
+    dataset['test'] = dataset['test'].cast(new_features)
+
+    return dataset
+
 
 def return_social_bias_frames(predictions):
     # predictions for social bias frames is a 3 size vector with [not offensive, maybe offensive, offensive]

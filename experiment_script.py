@@ -53,7 +53,7 @@ import random
 import argparse
 import logging
 from datetime import datetime
-from relabel_funcs import relabel_sbic_offensiveness, relabel_rt_gender
+from relabel_funcs import relabel_sbic_offensiveness, relabel_rt_gender, relabel_sbic_targetcategory
 import time
 
 logging.basicConfig(level=logging.INFO)
@@ -72,6 +72,7 @@ training_dataset_cols = {
 # mapping of training datasets to functions to relabel
 training_relabel_funcs = {
     "relabel_sbic_offensiveness": relabel_sbic_offensiveness,
+    "relabel_sbic_targetcategory": relabel_sbic_targetcategory,
     "peixian/rtGender": relabel_rt_gender,
     "mdGender": "",
     "jigsaw_toxicity_pred": lambda x: x,
