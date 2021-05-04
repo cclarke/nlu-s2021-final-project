@@ -3,7 +3,7 @@
     "training_dataset": "social_bias_frames",
     "training_dataset_split": "None",
     "model_checkpoint": "bert-base-cased",
-    "run_outputs": "/scratch/ccc779/social_bias_frames",
+    "run_outputs": "/scratch/ccc779/sbic_offensiveness_model",
     "train_features_column": "post",
     "num_labels": 3,
     "train_labels_column": "offensiveYN",
