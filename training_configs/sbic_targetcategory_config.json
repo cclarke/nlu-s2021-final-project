@@ -7,5 +7,5 @@
     "train_features_column": "post",
     "num_labels": 7,
     "train_labels_column": "targetCategory",
-    "training_relabel_func_name": "relabel_sbic_targetcategory"
+    "training_relabel_func_name": "filter_relabel_sbic_targetcategory"
 }
