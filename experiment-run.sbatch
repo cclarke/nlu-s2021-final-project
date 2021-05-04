@@ -16,8 +16,8 @@ module load anaconda3/2020.07
 
 echo "Loading activate"
 set +u
-source activate nlu-final-project
+conda activate nlu-final-project
 set -u
 
 
-python $(realpath ./experiment_script.py) $@
+./experiment_script.py $@
