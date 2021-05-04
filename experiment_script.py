@@ -336,6 +336,9 @@ if __name__ == "__main__":
             f"Loading dataset {TRAINING_DATASET} with split {TRAINING_DATASET_SPLIT}"
         )
         dataset = load_dataset(
+            TRAINING_DATASET, 'responses', split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR,
+            data_dir=DATA_DIR
+        ) if TRAINING_DATASET == 'peixian/rtGender' else load_dataset(
             TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR,
             data_dir=DATA_DIR
         )
