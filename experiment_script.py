@@ -282,6 +282,8 @@ if __name__ == "__main__":
 
     USE_CUDA = not args.no_cuda
 
+    logging.getLogger().setLevel(logging.INFO)
+
     logging.info("Initializing seeds and setting values")
     logging.info(f"Use cuda? {USE_CUDA}")
     gc.collect()
