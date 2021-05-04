@@ -53,7 +53,14 @@ import random
 import argparse
 import logging
 from datetime import datetime
-from relabel_funcs import relabel_sbic_offensiveness, relabel_rt_gender, relabel_sbic_targetcategory
+from relabel_funcs import (
+    relabel_sbic_offensiveness, 
+    relabel_rt_gender, 
+    relabel_sbic_targetcategory,
+    split_relabel_jigsaw_toxic,
+    split_relabel_jigsaw_severetoxic,
+    split_relabel_jigsaw_identityhate
+)
 import time
 
 logging.basicConfig(level=logging.INFO)
@@ -75,8 +82,9 @@ training_relabel_funcs = {
     "relabel_sbic_targetcategory": relabel_sbic_targetcategory,
     "peixian/rtGender": relabel_rt_gender,
     "mdGender": "",
-    "jigsaw_toxicity_pred": lambda x: x,
-    # "social_bias_frames": relabel_sbic_offensiveness,
+    "split_relabel_jigsaw_toxic": split_relabel_jigsaw_toxic,
+    "split_relabel_jigsaw_severetoxic": split_relabel_jigsaw_severetoxic,
+    "split_relabel_jigsaw_identityhate": split_relabel_jigsaw_identityhate,
     "peixian/equity_evaluation_corpus": lambda x: 0 if x == "male" else 1,
 }
 
@@ -309,6 +317,14 @@ if __name__ == "__main__":
     NUM_LABELS = training_config_dict['num_labels']
     TRAIN_LABELS_COLUMN = training_config_dict['train_labels_column']
     TRAINING_RELABEL_FUNC_NAME = training_config_dict['training_relabel_func_name']
+    DATA_DIR = None
+
+    if TRAINING_DATASET == 'jigsaw_toxicity_pred':
+        
+        DATA_DIR = training_config_dict['jigsaw_dataset_dir']
+        TRAIN_VAL_SPLIT = training_config_dict['train_val_split']
+
+
 
     logging.info("Loading tokenizer")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_CHECKPOINT, use_fast=True)
@@ -321,7 +337,8 @@ if __name__ == "__main__":
             f"Loading dataset {TRAINING_DATASET} with split {TRAINING_DATASET_SPLIT}"
         )
         dataset = load_dataset(
-            TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR
+            TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR,
+            data_dir=DATA_DIR
         )
 
         logging.info(f"Tokenizing dataset column {TRAIN_FEATURES_COLUMN}")

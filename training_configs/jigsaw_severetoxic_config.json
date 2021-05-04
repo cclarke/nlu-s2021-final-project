@@ -3,10 +3,10 @@
     "training_dataset": "jigsaw_toxicity_pred",
     "training_dataset_split": "None",
     "model_checkpoint": "bert-base-cased",
-    "run_outputs": "/scratch/ccc779/jigsaw_toxic_model",
+    "run_outputs": "/scratch/ccc779/jigsaw_severetoxic_model",
     "train_features_column": "comment_text",
     "num_labels": 2,
-    "train_labels_column": "toxic",
-    "training_relabel_func_name": "split_relabel_jigsaw_toxic",
+    "train_labels_column": "severe_toxic",
+    "training_relabel_func_name": "split_relabel_jigsaw_severetoxic",
     "jigsaw_dataset_dir": "/home/ccc779/jigsaw_data"
 }

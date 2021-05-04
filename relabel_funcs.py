@@ -1,5 +1,6 @@
 from torch.nn import Softmax
 import datasets
+from datasets import DatasetDict
 
 
 def _softmax_and_relabel(predictions, categorical_labels):
@@ -7,6 +8,45 @@ def _softmax_and_relabel(predictions, categorical_labels):
     m = Softmax(dim=0)
     sm = m(predictions)
     return sm, categorical_labels[sm.argmax().item()]
+
+
+def split_relabel_jigsaw_toxic(dataset):
+
+    dataset = dataset.rename_column("toxic", "labels")
+    train_val = dataset['train'].train_test_split(test_size=0.25)
+    dataset = DatasetDict({
+        'train': train_val['train'],
+        'test': dataset['test'],
+        'validation': train_val['test']}
+    )
+
+    return dataset
+
+def split_relabel_jigsaw_severetoxic(dataset):
+
+    dataset = dataset.rename_column("severe_toxic", "labels")
+    train_val = dataset['train'].train_test_split(test_size=0.25)
+    dataset = DatasetDict({
+        'train': train_val['train'],
+        'test': dataset['test'],
+        'validation': train_val['test']}
+    )
+
+    return dataset
+
+def split_relabel_jigsaw_identityhate(dataset):
+
+    dataset = dataset.rename_column("identity_hate", "labels")
+    train_val = dataset['train'].train_test_split(test_size=0.25)
+    dataset = DatasetDict({
+        'train': train_val['train'],
+        'test': dataset['test'],
+        'validation': train_val['test']}
+    )
+
+    return dataset
+
+
 
 
 # -----------------------Social Bias Frames-------------------
