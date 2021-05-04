@@ -1,4 +1,5 @@
 from torch.nn import Softmax
+import datasets
 
 
 def _softmax_and_relabel(predictions, categorical_labels):
@@ -27,7 +28,7 @@ def relabel_sbic_offensiveness(dataset):
     dataset = dataset.map(lambda x: {'labels': relabel_func(x['offensiveYN'])},  batched=True)
 
     new_features = dataset['train'].features.copy()
-    new_features["labels"] = dataset.ClassLabel(names=['no', 'maybe', 'yes'])
+    new_features["labels"] = datasets.ClassLabel(names=['no', 'maybe', 'yes'])
 
     dataset['train'] = dataset['train'].cast(new_features)
     dataset['validation'] = dataset['validation'].cast(new_features)
