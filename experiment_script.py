@@ -293,7 +293,7 @@ if __name__ == "__main__":
     if USE_CUDA:
         torch.cuda.empty_cache()
 
-    logging.info(f"Loading dictionary of training parameters from {args.training_globals}")
+    logging.info(f"Loading dictionary of training parameters from {args.training_config}")
 
     with open(args.training_config, 'r') as f:
 
