@@ -16,7 +16,7 @@ module load anaconda3/2020.07
 
 echo "Loading activate"
 set +u
-conda activate nlu-final-project
+source activate nlu-final-project
 set -u
 
 
