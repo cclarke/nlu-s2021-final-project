@@ -5,7 +5,7 @@
     "model_checkpoint": "bert-base-cased",
     "run_outputs": "/scratch/ccc779/sbic_targetcategory_model",
     "train_features_column": "post",
-    "num_labels": 7,
+    "num_labels": 8,
     "train_labels_column": "targetCategory",
     "training_relabel_func_name": "filter_relabel_sbic_targetcategory"
 }
