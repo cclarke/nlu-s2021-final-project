@@ -76,27 +76,33 @@ def relabel_sbic_offensiveness(dataset):
 
     return dataset
 
-def relabel_sbic_targetcategory(dataset):
+def filter_relabel_sbic_targetcategory(dataset):
 
     def relabel_func(column):
 
         relabel_dict = {
-            'body': 0, 
-            'culture': 1, 
-            'disabled': 2, 
-            'gender': 3, 
-            'race': 4, 
-            'social': 5, 
-            'victim': 6,
-            '': None # missing value
+            '': 0, # no target category, but still offensive or maybe offensive (since we're filtering out non-offensive rows)
+            'body': 1, 
+            'culture': 2, 
+            'disabled': 3, 
+            'gender': 4, 
+            'race': 5, 
+            'social': 6, 
+            'victim': 7,
         }
 
         return [relabel_dict[elt] for elt in column]
 
+    # Filter out rows where at least some individual or group is the target of the offensive speech 
+    dataset = dataset.filter(lambda row: not (row['whoTarget'] == ''))
+
+    # relabel targetCategory
     dataset = dataset.map(lambda x: {'labels': relabel_func(x['targetCategory'])},  batched=True)
 
     new_features = dataset['train'].features.copy()
-    new_features["labels"] = datasets.ClassLabel(names=['no', 'maybe', 'yes'])
+    new_features["labels"] = datasets.ClassLabel(names=[
+        'none','body', 'culture', 'disabled', 'gender', 'race', 'social', 'victim'
+        ])
 
     dataset['train'] = dataset['train'].cast(new_features)
     dataset['validation'] = dataset['validation'].cast(new_features)

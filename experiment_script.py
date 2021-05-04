@@ -56,7 +56,7 @@ from datetime import datetime
 from relabel_funcs import (
     relabel_sbic_offensiveness, 
     relabel_rt_gender, 
-    relabel_sbic_targetcategory,
+    filter_relabel_sbic_targetcategory,
     split_relabel_jigsaw_toxic,
     split_relabel_jigsaw_severetoxic,
     split_relabel_jigsaw_identityhate
@@ -79,7 +79,7 @@ training_dataset_cols = {
 # mapping of training datasets to functions to relabel
 training_relabel_funcs = {
     "relabel_sbic_offensiveness": relabel_sbic_offensiveness,
-    "relabel_sbic_targetcategory": relabel_sbic_targetcategory,
+    "relabel_sbic_targetcategory": filter_relabel_sbic_targetcategory,
     "peixian/rtGender": relabel_rt_gender,
     "mdGender": "",
     "split_relabel_jigsaw_toxic": split_relabel_jigsaw_toxic,
