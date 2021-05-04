@@ -310,7 +310,7 @@ if __name__ == "__main__":
     TRAINING_RELABEL_FUNC_NAME = training_config_dict['training_relabel_func_name']
 
     logging.info("Loading tokenizer")
-    tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased", use_fast=True)
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_CHECKPOINT, use_fast=True)
     if args.train:
         CACHE_DIR = args.cache_dir
         relabel_training = training_relabel_funcs[TRAINING_RELABEL_FUNC_NAME]
