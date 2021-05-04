@@ -323,16 +323,15 @@ if __name__ == "__main__":
             TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR
         )
 
-        logging.info(f"Relabeling dataset column {TRAIN_LABELS_COLUMN} using {TRAINING_RELABEL_FUNC_NAME}")
-        dataset = relabel_training(dataset)
-
         logging.info(f"Tokenizing dataset column {TRAIN_FEATURES_COLUMN}")
         dataset = dataset.map(
             lambda x: tokenizer(
                 x[TRAIN_FEATURES_COLUMN], truncation=True, padding=True
-            ),
-            batched=True,
+            )
         )
+
+        logging.info(f"Relabeling dataset column {TRAIN_LABELS_COLUMN} using {TRAINING_RELABEL_FUNC_NAME}")
+        dataset = relabel_training(dataset)
 
         logging.info(f"Dropping rows in training data where label is missing")
         dataset = dataset.filter(lambda row: not (row['labels'] is None))
