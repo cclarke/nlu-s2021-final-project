@@ -11,7 +11,7 @@ set -euox pipefail
 #SBATCH --output=nlu_experiment%A_%a.out
 
 module purge
-module load cuda/10.2.89
+module load cuda/11.2.0
 module load anaconda3/2020.07
 
 echo "Loading activate"
