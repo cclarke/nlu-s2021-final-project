@@ -147,7 +147,7 @@ def _preprocess_dataset(dataset_name, data, sentence_col, tokenizer):
             data[split] = Dataset.from_dict({'input_text': np.concatenate(data[split]['input_text']).ravel().tolist()})
     assert len(data['train']['input_text']) >= first_length 
     data = data.map(
-        lambda x: tokenizer(x["input_text"], padding="max_length", truncation=True),
+        lambda x: tokenizer(x["input_text"], padding=True, truncation=True),
         batched=True,
     )
     return data
