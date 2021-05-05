@@ -361,8 +361,7 @@ if __name__ == "__main__":
         dataset = dataset.map(
             lambda x: tokenizer(
                 x[TRAIN_FEATURES_COLUMN], truncation=True, padding=True
-            ),
-            batched=True
+            )
         )
 
         logging.info(f"Relabeling dataset column {TRAIN_LABELS_COLUMN} using {TRAINING_RELABEL_FUNC_NAME}")
