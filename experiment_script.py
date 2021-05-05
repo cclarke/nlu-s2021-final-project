@@ -324,6 +324,10 @@ if __name__ == "__main__":
         
         DATA_DIR = training_config_dict['jigsaw_dataset_dir']
 
+    if TRAINING_DATASET == 'peixian/rtGender':
+
+        RTGENDER_SUBCORPUS = training_config_dict['rtgender_subcorpus']
+
 
 
     logging.info("Loading tokenizer")
