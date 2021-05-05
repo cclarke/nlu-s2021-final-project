@@ -10,6 +10,19 @@ def _softmax_and_relabel(predictions, categorical_labels):
     return sm, categorical_labels[sm.argmax().item()]
 
 
+def relabel_md_gender_convai_binary(dataset):
+
+    dataset = dataset.rename_column("binary_label", "labels")
+
+    return dataset
+
+
+def relabel_md_gender_convai_ternary(dataset):
+
+    dataset = dataset.rename_column("ternary_label", "labels")
+
+    return dataset
+
 def split_relabel_eec(dataset):
 
     def relabel_func(column):

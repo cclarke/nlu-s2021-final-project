@@ -1,0 +1,12 @@
+{
+    "average_fscore_support": "micro",
+    "training_dataset": "md_gender_bias",
+    "training_dataset_split": "None",
+    "model_checkpoint": "bert-base-cased",
+    "run_outputs": "/scratch/ccc779/md_gender_convai_ternary_model",
+    "train_features_column": "text",
+    "num_labels": 3,
+    "train_labels_column": "ternary_label",
+    "training_relabel_func_name": "relabel_md_gender_convai_ternary",
+    "subcorpus": "convai2_inferred"
+}
