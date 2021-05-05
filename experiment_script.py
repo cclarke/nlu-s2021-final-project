@@ -62,7 +62,8 @@ from relabel_funcs import (
     split_relabel_jigsaw_identityhate,
     split_relabel_eec,
     relabel_md_gender_convai_binary,
-    relabel_md_gender_convai_ternary
+    relabel_md_gender_convai_ternary,
+    relabel_md_gender_wizard
 )
 import time
 
@@ -90,7 +91,8 @@ training_relabel_funcs = {
     "split_relabel_jigsaw_identityhate": split_relabel_jigsaw_identityhate,
     "split_relabel_eec": split_relabel_eec,
     "relabel_md_gender_convai_binary": relabel_md_gender_convai_binary,
-    "relabel_md_gender_convai_ternary": relabel_md_gender_convai_ternary
+    "relabel_md_gender_convai_ternary": relabel_md_gender_convai_ternary,
+    "relabel_md_gender_wizard": relabel_md_gender_wizard
 }
 
 
