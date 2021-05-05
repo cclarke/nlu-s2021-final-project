@@ -1,0 +1,1 @@
+sbatch --gres=gpu:1 --mem=32GB --nodes=1 --cpus-per-task=2 --time=8:00:00 experiment-run.sbatch --train --training-config $HOME/nlu-s2021-final-project/training_configs/mdgender_convai_ternary_config.json --cache-dir /scratch/ccc779
