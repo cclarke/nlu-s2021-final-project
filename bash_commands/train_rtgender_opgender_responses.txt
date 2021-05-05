@@ -1,1 +1,1 @@
-sbatch --gres=gpu:1 --mem=32GB --nodes=1 --cpus-per-task=2 --time=48:00:00 experiment-run.sbatch --train --training-config $HOME/nlu-s2021-final-project/training_configs/rtgender_opgender_responses_config.json --cache-dir /scratch/ccc779
+sbatch --gres=gpu:1 --mem=32GB --nodes=1 --cpus-per-task=2 --time=96:00:00 experiment-run.sbatch --train --training-config $HOME/nlu-s2021-final-project/training_configs/rtgender_opgender_responses_config.json --cache-dir /scratch/ccc779
