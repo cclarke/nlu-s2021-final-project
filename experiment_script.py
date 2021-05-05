@@ -59,7 +59,8 @@ from relabel_funcs import (
     filter_relabel_sbic_targetcategory,
     split_relabel_jigsaw_toxic,
     split_relabel_jigsaw_severetoxic,
-    split_relabel_jigsaw_identityhate
+    split_relabel_jigsaw_identityhate,
+    split_relabel_eec
 )
 import time
 
@@ -85,7 +86,7 @@ training_relabel_funcs = {
     "split_relabel_jigsaw_toxic": split_relabel_jigsaw_toxic,
     "split_relabel_jigsaw_severetoxic": split_relabel_jigsaw_severetoxic,
     "split_relabel_jigsaw_identityhate": split_relabel_jigsaw_identityhate,
-    "peixian/equity_evaluation_corpus": lambda x: 0 if x == "male" else 1,
+    "split_relabel_eec": split_relabel_eec,
 }
 
 

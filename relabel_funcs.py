@@ -10,6 +10,32 @@ def _softmax_and_relabel(predictions, categorical_labels):
     return sm, categorical_labels[sm.argmax().item()]
 
 
+def split_relabel_eec(dataset):
+
+    def relabel_func(column):
+
+        relabel_dict = {
+            '': 0,
+            'anger': 1,
+            'fear': 2,
+            'joy': 3,
+            'sadness': 4
+        }
+
+        return [relabel_dict[elt] for elt in column]
+
+    dataset = dataset.map(lambda x: {'labels': relabel_func(x['emotion'])},  batched=True)
+    train_test = dataset['train'].train_test_split(test_size=0.20)
+    train_val = train_test['train'].train_test_split(test_size=0.25)
+    dataset = DatasetDict({
+        'train': train_val['train'],
+        'test': train_test['test'],
+        'validation': train_val['test']}
+    )
+
+    return dataset
+
+
 def split_relabel_jigsaw_toxic(dataset):
 
     dataset = dataset.rename_column("toxic", "labels")

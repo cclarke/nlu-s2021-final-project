@@ -1,0 +1,11 @@
+{
+    "average_fscore_support": "micro",
+    "training_dataset": "peixian/equity_evaluation_corpus",
+    "training_dataset_split": "None",
+    "model_checkpoint": "bert-base-cased",
+    "run_outputs": "/scratch/ccc779/eec_emotion_model",
+    "train_features_column": "sentence",
+    "num_labels": 5,
+    "train_labels_column": "emotion",
+    "training_relabel_func_name": "split_relabel_eec"
+}
