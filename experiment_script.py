@@ -319,14 +319,15 @@ if __name__ == "__main__":
     TRAIN_LABELS_COLUMN = training_config_dict['train_labels_column']
     TRAINING_RELABEL_FUNC_NAME = training_config_dict['training_relabel_func_name']
     DATA_DIR = None
+    SUBCORPUS = None
 
     if TRAINING_DATASET == 'jigsaw_toxicity_pred':
         
         DATA_DIR = training_config_dict['jigsaw_dataset_dir']
 
-    if TRAINING_DATASET == 'peixian/rtGender':
+    if TRAINING_DATASET in set(['peixian/rtGender', 'md_gender_bias']):
 
-        RTGENDER_SUBCORPUS = training_config_dict['rtgender_subcorpus']
+        SUBCORPUS = training_config_dict['subcorpus']
 
 
 
@@ -341,10 +342,10 @@ if __name__ == "__main__":
             f"Loading dataset {TRAINING_DATASET} with split {TRAINING_DATASET_SPLIT}"
         )
         dataset = load_dataset(
-            TRAINING_DATASET, RTGENDER_SUBCORPUS, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR,
-            data_dir=DATA_DIR
-        ) if TRAINING_DATASET == 'peixian/rtGender' else load_dataset(
             TRAINING_DATASET, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR,
+            data_dir=DATA_DIR
+        ) if  SUBCORPUS is None else load_dataset(
+            TRAINING_DATASET, SUBCORPUS, split=TRAINING_DATASET_SPLIT, cache_dir=CACHE_DIR,
             data_dir=DATA_DIR
         )
 

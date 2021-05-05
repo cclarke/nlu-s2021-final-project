@@ -8,5 +8,5 @@
     "num_labels": 2,
     "train_labels_column": "op_gender",
     "training_relabel_func_name": "split_relabel_rt_gender",
-    "rtgender_subcorpus": "annotations"
+    "subcorpus": "annotations"
 }
