@@ -415,7 +415,8 @@ if __name__ == "__main__":
                     logging.info("Opening file and writing")
                     now = datetime.now()
                     current_time = now.strftime("%H:%M:%S")
-                    filename = f"{current_time}-{dataset_name}-{split}-partial-predictions-eval.out"
+                    fname_model_prefix = args.model_input.replace('/', '_')
+                    filename = f"{fname_model_prefix}-{current_time}-{dataset_name}-{split}-partial-predictions-eval.out"
                     logging.info(f"Opening file {filename} to write results")
                     with open(filename, "w") as outfile:
                         outfile.write("PARTIAL PREDICTIONS BELOW\n")
@@ -447,7 +448,7 @@ if __name__ == "__main__":
                             end_time = time.time()
                             logging.info(f"Time for evaluation {end_time - start_time}")
 
-                    filename = f"{current_time}-{dataset_name}-{split}-eval.out"
+                    filename = f"{fname_model_prefix}-{current_time}-{dataset_name}-{split}-eval.out"
                     with open(filename, "w") as outfile:
                         outfile.write("FULL PREDICTIONS BELOW\n")
                         outfile.write(f"args: {args}\n")
