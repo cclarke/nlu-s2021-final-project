@@ -285,7 +285,6 @@ if __name__ == "__main__":
         "-tc",
         "--training-config",
         default="",
-        required=True,
         help="A path to a file containing a JSON blob containing config settings for model training",
     )
 
