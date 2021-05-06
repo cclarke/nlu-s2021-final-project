@@ -50,7 +50,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-i2",
         "--input2",
-        help="""Second input file. Optional. If given, runs the covariance between the two files. """,
+        help="""Second input file. Optional. If given, runs the correlation between the two files. """,
         default=None,
     )
 
@@ -61,4 +61,4 @@ if __name__ == "__main__":
         df2 = read_outfile(args.input2)
         print(df2.describe())
         combined_df = df1.merge(df2, on="sentence", suffixes=("_df1", "_df2"))
-        print(combined_df.cov())
+        print(combined_df.corr())
