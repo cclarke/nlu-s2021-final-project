@@ -1,0 +1,1 @@
+sbatch --mem=32GB --nodes=1 --cpus-per-task=2 --time=8:00:00 experiment-run.sbatch -e -mi Cameron/BERT-rtgender-opgender-annotations --training-config $HOME/nlu-s2021-final-project/training_configs/rtgender_opgender_annotations_config.json -ed ted_talks_iwslt --cache-dir /scratch/ccc779

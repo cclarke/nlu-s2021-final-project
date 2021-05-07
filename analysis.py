@@ -4,7 +4,7 @@ import pandas as pd
 import torch.tensor as pt_tensor
 
 import pandas as pd
-import relabel_funcs
+import analysis_relabel_funcs
 from analysis import read_dfs
 import torch
 from sklearn.preprocessing import StandardScaler
@@ -60,12 +60,24 @@ if __name__ == "__main__":
         help="""Second input file. Optional. If given, runs the correlation between the two files. """,
         default=None,
     )
+    parser.add_argument("-o", "--output-filename", required=True, help="""Output file name """)
 
     args = parser.parse_args()
-    df1 = read_outfile(args.input1)
-    print(df1.describe())
-    if args.input2:
-        df2 = read_outfile(args.input2)
-        print(df2.describe())
-        combined_df = df1.merge(df2, on="sentence", suffixes=("_df1", "_df2"))
-        print(combined_df.corr())
+
+    filename = args.output_filename
+
+    with open(filename, "w") as output_file:
+
+        df1 = read_outfile(args.input1)
+        df1_describe = df1.describe()
+
+        output_file.write(f"Description of data at {args.input1}\n{df1_describe}\n\n")
+
+        if args.input2:
+            df2 = read_outfile(args.input2)
+            df2_describe = df2.describe()
+            output_file.write(f"Description of data at {args.input2}\n{df2_describe}\n\n")
+
+            combined_df = df1.merge(df2, on="sentence", suffixes=("_df1", "_df2"))
+            corr_df = combined_df.corr()
+            output_file.write(f"Correlations:\n{corr_df}")
