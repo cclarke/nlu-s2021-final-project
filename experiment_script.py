@@ -160,6 +160,7 @@ cols_removed = {
         "facet_desc",
         "question_id",
         "question",
+        "answer",
     ],
     "tweet_eval": ["label"],
     "empathetic_dialogues": [
@@ -225,12 +226,11 @@ def _preprocess_dataset(dataset_name, data, sentence_col, tokenizer, cache_dir="
     preprocess_function = dataset_preprocess.get(dataset_name, lambda x: x)
     data = concate(dataset_name, data, cache_dir)
     data = data.map(lambda x: {"input_text": preprocess_function(x[sentence_col])})
-    first_length = len(data["train"]["input_text"])
-    data = data["train"].remove_columns(cols_removed[dataset_name])
-    data["train"] = Dataset.from_dict(
-        {"input_text": np.concatenate(data["train"]["input_text"]).ravel().tolist()}
-    )
-    assert len(data["train"]["input_text"]) >= first_length
+    data["train"] = data["train"].remove_columns(cols_removed[dataset_name])
+    if dataset_name == "air_dialogue":
+        data['train'] = Dataset.from_dict(
+            {"input_text": np.concatenate(data["train"]["input_text"]).ravel().tolist()}
+        )
     data = data.map(
         lambda x: tokenizer(x["input_text"], padding=True, truncation=True),
         batched=True,
