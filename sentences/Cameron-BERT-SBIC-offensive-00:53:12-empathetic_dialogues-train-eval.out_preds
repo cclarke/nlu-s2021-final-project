@@ -1,0 +1,66 @@
+
+                                                                                         sentence      prediction0      prediction1     prediction2
+14004   hit:1093_conv:2186,3,grateful,Family gave me some money to fix the house we just bought.   tensor(-3.0034)  tensor(-2.0531)  tensor(5.1914)
+95872                                                                   What about your parents?   tensor(-2.9998)  tensor(-2.0198)  tensor(5.2041)
+70304                               My best friend and I moved away so I hadly ever see them now   tensor(-2.9952)  tensor(-2.0124)  tensor(5.1624)
+19757                                                                Idk ourselves maybe? lol :D   tensor(-2.9921)  tensor(-2.0007)  tensor(5.1740)
+88390                                                                Hope you have a great time!   tensor(-2.9780)  tensor(-2.0017)  tensor(5.1661)
+106829                                    My friend gave me his old computer because mine broke.   tensor(-2.9649)  tensor(-1.9385)  tensor(5.0669)
+91653                                       I watched as the knife cut my buddies arm wide open.   tensor(-2.9645)  tensor(-2.0416)  tensor(5.1750)
+25013                                                      is she being billed for data though ?   tensor(-2.9554)  tensor(-1.9522)  tensor(5.0824)
+123971                                                                                             tensor(-2.9415)  tensor(-1.9842)  tensor(5.1028)
+143678                                       I was turning and the bike tipped over_comma_ lucky   tensor(-2.9411)  tensor(-2.0151)  tensor(5.1022)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
+
+                                                                                       sentence     prediction0      prediction1      prediction2
+157028                                                                                  ha ha.   tensor(3.3351)  tensor(-2.4892)  tensor(-0.5380)
+51761                                    I hope it didn't hurt your standing with the company.   tensor(2.7121)  tensor(-2.4707)  tensor(-0.2372)
+86316                                                                            but I am not.   tensor(2.1736)  tensor(-2.3622)   tensor(0.2531)
+31134                                                        and I guess everyone made me one!   tensor(1.4413)  tensor(-2.3620)   tensor(0.6286)
+123293                                                                                           tensor(5.5454)  tensor(-2.3361)  tensor(-2.9589)
+112083                                                                         ,322,I'm sorry.   tensor(5.5380)  tensor(-2.3327)  tensor(-2.9107)
+30613                                                    I bought so much junk food yesterday.   tensor(5.4990)  tensor(-2.3287)  tensor(-2.8709)
+33132   hit:2467_conv:4934,4,trusting,I left my friend my house key while we went on vacation.   tensor(5.6104)  tensor(-2.3242)  tensor(-3.0130)
+116285                                           My cousins that were older than me helped me.   tensor(5.6344)  tensor(-2.3208)  tensor(-3.0518)
+138597                                               I just had a little baby girl 3 weeks ago   tensor(5.5868)  tensor(-2.3185)  tensor(-3.0066)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
+
+                                                                                                           sentence     prediction0      prediction1      prediction2
+43896                                                                                                  yes indeed!   tensor(5.6677)  tensor(-2.0739)  tensor(-3.3365)
+91627                                                                                 Yuck thats disgusting_comma_   tensor(5.6375)  tensor(-2.0864)  tensor(-3.3157)
+88873                                                                                                                tensor(5.6860)  tensor(-2.0852)  tensor(-3.3111)
+57659                                                                                                                tensor(5.5438)  tensor(-2.0309)  tensor(-3.3083)
+173452  No we haven't seen him or he won't return none of the family calls he took our $500 and disappeared_comma_   tensor(5.6925)  tensor(-2.1100)  tensor(-3.3039)
+22188                                                      I was trying to be frugal and just used a free service.   tensor(5.6290)  tensor(-2.0870)  tensor(-3.3036)
+135338                                                          I know how animals are the same as family members.   tensor(5.6815)  tensor(-2.1307)  tensor(-3.3002)
+81923                                                                                  i cant even trust an alarm.   tensor(5.6911)  tensor(-2.1257)  tensor(-3.2998)
+34794                                                                 Oh yeah_comma_ do you love basketball a lot?   tensor(5.6764)  tensor(-2.1159)  tensor(-3.2991)
+66131                                        So my kid loves to play with stupid model cars and stupid tiny legos.   tensor(5.6814)  tensor(-2.1305)  tensor(-3.2988)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN

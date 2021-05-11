@@ -1,0 +1,44 @@
+
+                                                                                                sentence      prediction0     prediction1
+48903                                                              I will do my best and for sure will.   tensor(-5.2590)  tensor(4.9489)
+114164  I'm so humbled by all the gifts we've received for our new baby... totally was not expecting it   tensor(-5.1594)  tensor(4.8818)
+166613                                    but when you collected them all there was no greater feeling.   tensor(-5.1583)  tensor(4.8381)
+84367                                       I'm afraid I'd be the oldest one there and not know anyone.   tensor(-5.1576)  tensor(4.8510)
+42379                                                                  So that makes it easier to stick   tensor(-5.1567)  tensor(4.8192)
+114529                                                     I feel very lucky to have parents like them!   tensor(-5.1557)  tensor(4.8459)
+146390                                                                  I do love Fifa the game though.   tensor(-5.1551)  tensor(4.8617)
+173262                                                     Yeah that is a pretty good mindset to go by.   tensor(-5.1546)  tensor(4.8803)
+34761                                      I went to Mcdonald's and they completely messed up my order.   tensor(-5.1545)  tensor(4.8632)
+81287    We waited a very long time to have kids and once I was pregnant_comma_ it was so hard to wait.   tensor(-5.1544)  tensor(4.8405)                                                             sentence prediction0 prediction1
+202519                                did you call the exterminator?          NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN
+202525                                          What is the test on?          NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN
+
+                                                                                                                sentence     prediction0      prediction1
+30507                                                                                            That;s the scary part.   tensor(4.8819)  tensor(-4.7404)
+114836                                                                               Man that's going to be so awesome!   tensor(4.8880)  tensor(-4.7384)
+190592                                                                                             that was nice of him   tensor(4.8720)  tensor(-4.7379)
+83135                                                          yeah our minds can play tricks on us when we're nervous.   tensor(4.8915)  tensor(-4.7378)
+128050                                                                            I get anxious for new things as well.   tensor(4.8899)  tensor(-4.7376)
+160388                                                                                     Did you find anything great?   tensor(4.9059)  tensor(-4.7375)
+121764  it's important to find somebody who you will be able to trust and also somebody who will love you for being you   tensor(4.8505)  tensor(-4.7375)
+117702                                                                                         I am mad about tomorrow.   tensor(4.8636)  tensor(-4.7374)
+138563                                                                                                 what should I do   tensor(4.8990)  tensor(-4.7371)
+176504                                                                                                   Hang in there!   tensor(4.9055)  tensor(-4.7371)                                                             sentence prediction0 prediction1
+202519                                did you call the exterminator?          NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN
+202525                                          What is the test on?          NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN

@@ -1,0 +1,44 @@
+
+                                                                                                                                                                       sentence      prediction0     prediction1
+147426                                                                                                                              That stinks _comma_ cheer up and try again   tensor(-3.4342)  tensor(3.7478)
+175564                                                                                                                                     I wouldn't worry too much about it.   tensor(-3.4338)  tensor(3.7504)
+190345                                                                                      I heard this god awful howling the other night at like 2am right outside my window   tensor(-3.4283)  tensor(3.7281)
+85453                                                                                                                                                I feel your pain totally.   tensor(-3.4258)  tensor(3.7171)
+81384                                                                                                                         I still get scared when seeing the white walkers   tensor(-3.4188)  tensor(3.6949)
+32728                                                                                                        hit:2452_conv:4905,1,anxious,Public speaking makes me so nervous!   tensor(-3.4188)  tensor(3.6949)
+88585                                                                                                                                                           so embarrasing   tensor(-3.4188)  tensor(3.6949)
+88034                                                                                                                                        You must be so excited and proud!   tensor(-3.4188)  tensor(3.6949)
+87988   im straight but the way my dad raised me _comma_ he said to respect all sexes _comma_ and what ever religion i choose was up to me _comma_ i have never gone to church   tensor(-3.4188)  tensor(3.6949)
+122685                                                                                                                                             I was pleased with my meal.   tensor(-3.4188)  tensor(3.6949)                                                             sentence prediction0 prediction1
+202519                                did you call the exterminator?          NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN
+202525                                          What is the test on?          NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN
+
+                                                                                        sentence     prediction0      prediction1
+116988                                                                                            tensor(4.7503)  tensor(-5.9412)
+136076                                                      I think I was there for her a great   tensor(4.7342)  tensor(-5.9383)
+60712                             I will hopefully be able to start earlier and get off earlier   tensor(4.7342)  tensor(-5.9383)
+156238                                                          Think what a gift that must be!   tensor(4.7259)  tensor(-5.9379)
+109703                                               but I really expected a lot more from her.   tensor(4.7308)  tensor(-5.9377)
+40443                                                           It's pretty interesting so far.   tensor(4.7314)  tensor(-5.9373)
+59849               Yeah_comma_ just make sure that you aren't in too much of a rush like that.   tensor(4.6924)  tensor(-5.9348)
+67327   Entered my dog into obedience training_comma_ and he graduated at the top of his class!   tensor(4.6811)  tensor(-5.9340)
+14056                                                              The price went down by $200.   tensor(4.6751)  tensor(-5.9340)
+107494                                                           They must bring you great joy.   tensor(4.6819)  tensor(-5.9330)                                                             sentence prediction0 prediction1
+202519                                did you call the exterminator?          NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN
+202525                                          What is the test on?          NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN
