@@ -175,8 +175,7 @@ I'm not one to pick a place because they give you a lot of food, but if you like
 Old school.....traditional \"mom 'n pop\" quality and perfection. | tensor([ 7.7951, -1.2955, -2.6106, -3.0846, -0.1166, -0.6892, -2.2683, -0.2220])
 The best fish and chips you'll ever enjoy and equally superb fried shrimp. | tensor([ 6.9311, -0.7189, -2.3798, -1.7276,  0.0585,  0.1221, -2.4082, -1.3502])
 A great out of the way, non-corporate, vestige of Americana. | tensor([ 6.9733, -3.2458, -1.4361, -3.5959, -0.3767,  2.0353, -1.0421, -1.9022])
-You will love it. | tensor([ 8.3175e+00, -1.8822e+00, -2.1095e+00, -2.6842e+00,  2.9121e-03,
-        -1.1465e+00, -2.3972e+00, -6.9170e-01])
+You will love it. | tensor([ 8.3175e+00, -1.8822e+00, -2.1095e+00, -2.6842e+00,  2.9121e-03,        -1.1465e+00, -2.3972e+00, -6.9170e-01])
 Good fish sandwich. | tensor([ 8.4089, -2.1146, -2.3295, -2.5649,  0.2349, -1.6629, -2.0777, -0.8108])
 After a morning of Thrift Store hunting, a friend and I were thinking of lunch, and he suggested Emil's after he'd seen Chris Sebak do a bit on it and had tried it a time or two before, and I had not. | tensor([ 5.9665, -1.2128, -2.0233, -3.0517, -1.2892,  0.9532, -1.8558,  0.8441])
 He said they had a decent Reuben, but to be prepared to step back in time.\n\nWell, seeing as how I'm kind of addicted to late 40's and early 50's, and the whole Rat Pack scene, stepping back in time is a welcomed change in da burgh...as long as it doesn't involve 1979, which I can see all around me every day.\n\nAnd yet another shot at finding a decent Reuben in da burgh... | tensor([ 8.4539, -1.8354, -2.1955, -1.9415, -0.5973, -2.1229, -2.1775, -0.3769])
@@ -200,8 +199,7 @@ A little too thick on the bread, but overall, tasty and definitely filling. | te
 Not too skimpy on the meat. | tensor([ 8.3377, -1.9692, -2.5240, -2.6098, -0.1225, -1.1119, -1.9153, -0.8594])
 I seriously CRAVE a true, good NY Reuben, but since I can't afford to travel right now, what I find in da burgh will have to do. | tensor([ 8.5129, -2.1315, -2.0020, -2.3596, -0.4822, -1.8009, -1.9046, -0.8090])
 But as we sat and ate, burgers came out to an adjoining table. | tensor([ 7.6850, -1.6273, -2.3994, -1.6023,  0.1760, -1.2263, -1.9077, -1.4292])
-Those were some big thick burgers. | tensor([ 6.9867e+00, -1.4534e-01, -2.6695e+00, -2.7047e+00,  6.3722e-01,
-        -6.9865e-03, -2.9063e+00, -1.2517e+00])
+Those were some big thick burgers. | tensor([ 6.9867e+00, -1.4534e-01, -2.6695e+00, -2.7047e+00,  6.3722e-01,        -6.9865e-03, -2.9063e+00, -1.2517e+00])
 A steak went past for the table behind us. | tensor([ 8.2674, -2.5236, -2.0867, -2.3916, -0.1558, -1.1112, -1.5196, -1.4089])
 That was HUGE! | tensor([ 8.3289, -2.1080, -2.3801, -2.8207,  0.9219, -1.8036, -2.0813, -0.5251])
 And when we asked about it, the waitress said 'Yeah, it's huge and really good, and he only charges $12.99 for it, ain't that nuts?' | tensor([ 8.1382, -1.3147, -2.4744, -2.4063, -0.7643, -0.8780, -2.4617, -0.4535])
@@ -403,8 +401,7 @@ I suppose it didn't leave much of an impression on me. | tensor([ 8.5452, -2.029
 I have to say that the dessert was really good! | tensor([ 7.6575, -1.2767, -2.8032, -2.9461,  1.5012, -2.1074, -2.5558,  0.3451])
 The cherry pecan pie! | tensor([ 6.3405, -1.5893, -2.6117, -3.4114,  1.1870,  1.3012, -2.4993, -0.9030])
 I have not seen this concoction anywhere else | tensor([ 8.5154, -1.8583, -1.8218, -2.1401, -0.7690, -2.0910, -2.1154, -0.3062])
-but this was awesome! | tensor([ 8.4918e+00, -2.0627e+00, -2.1276e+00, -2.6689e+00,  1.4492e-03,
-        -1.6807e+00, -2.4075e+00, -3.5260e-01])
+but this was awesome! | tensor([ 8.4918e+00, -2.0627e+00, -2.1276e+00, -2.6689e+00,  1.4492e-03,        -1.6807e+00, -2.4075e+00, -3.5260e-01])
 The cherries were not the sweet canned variety, but a pie worthy tart topped with sugar. | tensor([ 4.2170, -0.5288, -3.4980, -2.0896,  5.0502, -1.0110, -2.6941, -0.5172])
 I think I want to make this pie with my parents next harvest of our cherry tree!\n\nMy first impression is \"Eh.\"   | tensor([ 7.9354, -0.4950, -2.3115, -3.5409, -0.6476, -1.7377, -1.9595,  0.2876])
 I am learning how crazy Pittsburghers are over breakfast! | tensor([ 0.3858, -0.3481,  0.2628, -2.6817, -3.9379,  4.4033,  1.3561,  0.4375])
@@ -1008,8 +1005,7 @@ Seriously, I'd rather eat at the OG. | tensor([ 8.3390, -1.0256, -2.5270, -1.915
 Talk about overpriced. | tensor([ 8.5197, -2.0941, -2.2329, -2.0581, -0.6994, -1.9520, -1.4331, -1.0422])
 $18 for a fairly basic pasta with some obviously frozen chicken chopped up over it. | tensor([ 7.4569, -1.3154, -2.4316, -2.1603, -0.2348, -0.9149, -2.1844, -0.5559])
 The latter was terrible, thin and flabby and rather unappealing. | tensor([ 3.4487,  1.2659, -2.7302,  0.3832,  2.7054, -0.2523, -3.3878, -1.4902])
-The pasta itself was ok, as was the sauce. | tensor([ 7.9046e+00, -1.8997e+00, -2.2989e+00, -2.5755e+00,  4.4574e-01,
-        -1.0974e+00, -2.8901e+00, -6.3937e-03])
+The pasta itself was ok, as was the sauce. | tensor([ 7.9046e+00, -1.8997e+00, -2.2989e+00, -2.5755e+00,  4.4574e-01,        -1.0974e+00, -2.8901e+00, -6.3937e-03])
 The desserts are pretty good. | tensor([ 2.9428, -1.0701, -2.9848, -2.1097,  6.8060, -1.3441, -2.4282, -0.2588])
 But honestly, that is a $10 dish whose price has been inflated. | tensor([ 8.4849, -2.3721, -2.1624, -2.8231, -0.2555, -1.7566, -1.2034, -0.9328])
 I've decided where I stand with Emmert Dental. | tensor([ 8.5653, -2.3636, -2.0805, -2.3722, -0.2204, -2.2151, -1.1877, -1.1799])
@@ -1141,8 +1137,7 @@ No sodas.\n\nThen I got to the window. | tensor([ 6.2505, -1.9824, -1.6544, -3.0
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 We just started a new batch.\"\n\nLeft with:  Big mac, medium fries, no coke.\n\nActually, now that I think about it, this was one of my better experiences there... | tensor([ 8.4780, -1.7591, -2.3501, -2.7011, -0.7748, -1.4314, -1.8320, -0.4554])
 We had the worst possible experience at the Eat N Park at Waterfront on 2/12/10 at around 10pm. | tensor([ 1.2067,  2.1978, -1.6707,  2.0925, -2.0144, -2.5853, -0.7977,  2.4078])
-Our waitress (Annemarie) was inattentive and got us the wrong order. | tensor([-3.0301e-03, -1.1265e+00, -1.5577e+00, -2.1927e+00,  7.6011e+00,
-        -1.4460e+00, -1.8973e+00,  4.7208e-01])
+Our waitress (Annemarie) was inattentive and got us the wrong order. | tensor([-3.0301e-03, -1.1265e+00, -1.5577e+00, -2.1927e+00,  7.6011e+00,        -1.4460e+00, -1.8973e+00,  4.7208e-01])
 We ended up with a dish we had not even ordered and still got charged for it on the check. | tensor([ 7.9614, -2.1213, -1.9899, -2.5392,  0.5131, -1.6367, -2.0904, -0.5828])
 \n\nOne of my friends ordered a Buffalo Chicken Sandwich, which according to the menu description, should've had lettuce and tomato in it. | tensor([ 0.9109, -2.6947,  0.1594, -1.9753, -0.9112,  7.2541, -1.6122, -1.2280])
 But the sandwich that arrived on our table had none of those ingredients. | tensor([ 8.0212, -2.0389, -2.2822, -2.3237,  0.0473, -1.6422, -2.0495, -0.7742])
@@ -1200,8 +1195,7 @@ This Starbucks is teeny-tiny!\n\nSeating inside is VERY limited. | tensor([ 8.52
 This is a Starbucks to grab and go and continue your shopping at the Waterfront.\n\nBaristas are friendly and fast. | tensor([ 6.8641, -1.3811, -2.8180, -2.0861, -0.0782, -1.1800, -0.9192, -0.2642])
 As far as Starbucks go, this is a pretty nice one.   | tensor([ 8.4893, -2.4887, -2.0081, -2.0183, -0.9153, -1.7559, -1.2326, -0.9776])
 The baristas are friendly and while I was here, a lot of regulars must have come in, because they bantered away with almost everyone.   | tensor([ 8.4652, -1.9965, -2.7456, -1.5392, -0.1526, -1.9649, -2.0348, -0.7036])
-The bathroom was clean and well maintained and the trash wasn't overflowing in the canisters around the store.   | tensor([ 9.1164e-01,  6.2497e-03, -1.8410e+00, -4.7055e+00, -3.4651e-04,
-         4.0859e+00, -5.1136e-02,  2.1363e+00])
+The bathroom was clean and well maintained and the trash wasn't overflowing in the canisters around the store.   | tensor([ 9.1164e-01,  6.2497e-03, -1.8410e+00, -4.7055e+00, -3.4651e-04,         4.0859e+00, -5.1136e-02,  2.1363e+00])
 The pastries looked fresh, but I didn't partake. | tensor([ 7.7301, -2.7192, -2.3812, -2.8105,  1.5672, -1.9813, -2.1666, -0.4554])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The noise level was also at a nice working level - not too loud, music just barely audible.\n\nI do wish there was more seating.   | tensor([ 8.4216, -1.7983, -2.8118, -1.1941, -0.4662, -2.3863, -2.0587, -0.1524])
@@ -1248,8 +1242,7 @@ She's incredibly nice and leads me to the felt. | tensor([ 8.5213, -2.0847, -2.5
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 This is not the first time I've been hard up to find help. | tensor([ 8.4549, -1.9618, -1.9198, -2.1614, -0.9940, -2.2972, -2.0237,  0.2660])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I tell her she was hard to find, and she tells me that they're \"low on payroll\" and can't have any one the floor BUT HER!   | tensor([ 8.4876e+00, -1.8182e+00, -2.5155e+00, -2.6904e+00, -4.7612e-03,
-        -1.8794e+00, -1.6924e+00, -6.1318e-01])
+I tell her she was hard to find, and she tells me that they're \"low on payroll\" and can't have any one the floor BUT HER!   | tensor([ 8.4876e+00, -1.8182e+00, -2.5155e+00, -2.6904e+00, -4.7612e-03,        -1.8794e+00, -1.6924e+00, -6.1318e-01])
 In that WHOLE store, JUST HER!   | tensor([ 7.4838, -1.7599, -2.9847, -2.9903,  1.3820, -0.0691, -2.4154, -0.8117])
 That's ridic!\n\nNot a month ago I was, again, in a slight hurry and stood in line for about 15 minutes to check out, with 2 employees at the register and 6 people per line, I gave up and walked out. | tensor([ 8.5056, -2.0534, -2.4022, -1.8028, -0.3406, -2.3797, -1.7494, -0.4932])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -1318,8 +1311,7 @@ It took to long to get the burger for some reason, 25 minutes, I realized cooked
 Definitely did not look like the picture on the website. | tensor([ 8.6741, -2.2697, -2.1355, -2.5852, -0.1594, -1.9834, -1.5660, -0.8303])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Oh well! | tensor([ 8.2700, -2.1585, -2.1818, -2.8521,  0.3123, -1.2659, -2.3080, -0.5423])
-Ah, Steak n Shake, you hit the spot after a night of drinking. | tensor([ 8.4556e+00, -1.8947e+00, -2.5893e+00, -2.5379e+00,  3.1197e-03,
-        -2.0639e+00, -1.9395e+00, -2.0161e-01])
+Ah, Steak n Shake, you hit the spot after a night of drinking. | tensor([ 8.4556e+00, -1.8947e+00, -2.5893e+00, -2.5379e+00,  3.1197e-03,        -2.0639e+00, -1.9395e+00, -2.0161e-01])
 Open 24 hours, drive thru or dine in, with wonderful, cheap greasy burgers, chicken fingers, breakfast sandwiches, and shoestring fries. | tensor([ 8.5065, -2.4770, -2.3063, -2.3140, -0.2943, -1.7746, -1.2676, -1.0875])
 You're faster (and cheaper!) than Eat N Park. | tensor([ 2.1515,  3.6277, -2.8612,  1.8947, -0.3684, -0.5960, -2.1041, -0.9747])
 Plus your employees wear those adorable bow ties. | tensor([ 8.5604, -2.5285, -2.2375, -2.7178, -0.0148, -1.8944, -0.9702, -1.4618])
@@ -1351,8 +1343,7 @@ Are you kidding me? | tensor([ 8.6026, -2.0465, -2.0012, -2.7601, -0.3104, -2.20
 What's not to like! | tensor([ 4.5473, -1.0136, -2.1329, -1.7288,  2.8608, -1.2128, -2.8303,  0.4180])
 The food was actually pretty good! | tensor([ 8.3927, -1.7609, -1.2282, -2.3834, -1.2259, -1.5590, -2.4525, -0.5298])
 I liked it a lot. | tensor([ 8.2098, -1.5563, -2.4581, -2.5883, -0.1955, -1.1971, -2.6914, -0.0130])
-Since it was happy hour I also \"splurged\" on a chocolate covered strawberry shake. | tensor([ 8.3647e+00, -1.4251e+00, -2.5459e+00, -2.1375e+00, -3.8938e-01,
-        -2.1976e+00, -2.3000e+00, -3.1888e-04])
+Since it was happy hour I also \"splurged\" on a chocolate covered strawberry shake. | tensor([ 8.3647e+00, -1.4251e+00, -2.5459e+00, -2.1375e+00, -3.8938e-01,        -2.1976e+00, -2.3000e+00, -3.1888e-04])
 It was meh. | tensor([ 8.5245, -2.1971, -2.2229, -2.5379,  0.2510, -2.1548, -2.1370, -0.2289])
 Could have gone without it. | tensor([ 8.3200, -2.3782, -2.3031, -2.2979, -0.1675, -1.5419, -1.8851, -0.5620])
 The overpowering taste of artificial strawberry really turned me off, but the hot fudge saved it. | tensor([ 8.2120, -1.5659, -2.6776, -2.1920, -0.0338, -2.0052, -2.3039, -0.1093])
@@ -1450,8 +1441,7 @@ I've had pretty good experiences inside, it's usually the drive-thru where thing
 This location is terrible. | tensor([ 8.3891, -1.7058, -1.7431, -2.9343, -1.0387, -1.3672, -2.4908,  0.3189])
 The drive-thru workers are rude and they give you crap food. | tensor([ 0.9356, -1.1826, -0.7134, -2.7658, -0.7295,  0.2445,  4.5908, -1.5190])
 I waited 5 minutes before being able to order, even when there was only 1 car ahead of me. | tensor([ 8.6157, -1.5726, -2.6708, -2.5607,  0.2793, -2.3955, -1.9286, -0.2514])
-Then the lady proceeded to ask me if I would like anything on my burger, and (thinking the pictures on the menu are what they're supposed to look like | tensor([ 8.4537e+00, -1.8058e+00, -2.5318e+00, -2.4828e+00,  4.7726e-03,
-        -1.9547e+00, -2.0000e+00, -3.4398e-01])
+Then the lady proceeded to ask me if I would like anything on my burger, and (thinking the pictures on the menu are what they're supposed to look like | tensor([ 8.4537e+00, -1.8058e+00, -2.5318e+00, -2.4828e+00,  4.7726e-03,        -1.9547e+00, -2.0000e+00, -3.4398e-01])
 and they would never false advertise) | tensor([ 8.2562, -2.3030, -1.6390, -2.5465, -0.1546, -1.3998, -1.8192, -1.1543])
 I asked \"doesn't it come with the fixings like in the picture?\" she then told me it only comes with cheese. | tensor([ 5.9848, -0.0577, -2.3738, -2.6792,  2.8074, -1.7099, -2.9172, -0.2170])
 So I then went on to tell her what I wanted on my burger. | tensor([ 6.3757, -1.4580, -3.0108, -3.0973,  4.0841, -1.9210, -2.4549, -0.0134])
@@ -1497,13 +1487,11 @@ Gabriel Brothers are a real discount shopper's challenge and I'm afraid I didn't
 Filene's was still up and running in June 2007 when I left town. | tensor([ 8.5587, -1.9665, -2.2236, -2.2024, -0.7456, -2.3965, -1.7982, -0.1055])
 Love this store! | tensor([ 7.4366, -0.2240, -2.6043, -2.4956,  0.0969, -0.8277, -3.1121,  0.1791])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Don't always have much luck with the sales, but I always find something I like here. | tensor([ 7.7947e+00, -1.9830e+00, -1.2998e+00, -2.9046e+00, -1.7523e+00,
-        -7.8133e-04, -2.6991e+00,  1.7035e-01])
+Don't always have much luck with the sales, but I always find something I like here. | tensor([ 7.7947e+00, -1.9830e+00, -1.2998e+00, -2.9046e+00, -1.7523e+00,        -7.8133e-04, -2.6991e+00,  1.7035e-01])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 This isn't your average Marshall's or TJ Max. | tensor([ 8.5895, -2.0680, -2.3233, -2.0416, -0.3745, -2.4886, -1.5893, -0.5305])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I think the green dress I'm wearing is from Filene's! | tensor([ 8.5156e+00, -2.1714e+00, -2.2504e+00, -2.4347e+00,  3.5684e-03,
-        -2.2073e+00, -1.7623e+00, -7.1224e-01])
+I think the green dress I'm wearing is from Filene's! | tensor([ 8.5156e+00, -2.1714e+00, -2.2504e+00, -2.4347e+00,  3.5684e-03,        -2.2073e+00, -1.7623e+00, -7.1224e-01])
 Another store which has gone the way of the Dodo bird. | tensor([ 8.3232, -2.4882, -1.6919, -1.7189, -0.6682, -2.0929, -1.9203, -0.4615])
 Actually there was nothing basement like about it. | tensor([ 8.6301, -1.7356, -2.2578, -2.5435, -0.5433, -1.8373, -2.1631, -0.1475])
 What will be done with the empty space that is the question? | tensor([ 8.6061, -2.1852, -1.9488, -2.2933, -0.3071, -2.2381, -1.8622, -0.6228])
@@ -1624,8 +1612,7 @@ And sometimes they used vulgar language which was just unnecessary since they wo
 Also there was no table service, and the only bartender was a bitch. | tensor([ 8.1506, -2.1285, -3.1110, -2.6819,  1.6399, -1.9281, -1.9396, -0.7719])
 I'll probably be back, but only for a special occasion when I can afford it. | tensor([ 8.4808, -1.8794, -2.2396, -2.3445, -0.4636, -1.7159, -2.2140, -0.3599])
 I usually have nothing but good things to say about this place. | tensor([ 8.5619, -2.0230, -1.7573, -2.0608, -0.8622, -1.9470, -2.1042, -0.6015])
-I've dealt with Fran and others and have had very good experiences. | tensor([ 8.4896e+00, -2.0458e+00, -2.4773e+00, -2.6551e+00, -1.0321e-01,
-        -1.8948e+00, -2.0855e+00, -6.6226e-03])
+I've dealt with Fran and others and have had very good experiences. | tensor([ 8.4896e+00, -2.0458e+00, -2.4773e+00, -2.6551e+00, -1.0321e-01,        -1.8948e+00, -2.0855e+00, -6.6226e-03])
 However, this time was very different. | tensor([ 8.4801, -2.1264, -2.0422, -2.8034, -0.1918, -1.2461, -2.3344, -0.3173])
 I called to find out how much they might charge to install some brakes and rotors that I had, i was reffered to Mark, the mechanic. | tensor([ 8.6377, -1.8234, -2.3007, -2.0215, -0.6664, -2.2827, -2.0121, -0.3597])
 I made the appointment with him for Tuesday Sept 30th, he quoted me between $179 - $200 for the work (though the first person I spoke to quoted $150-$179) and told me to bring it at 8am and it would be finished the same day.when I brought it on Tuesday, Septempber 30th at 8 am, Mark forgets that i even made the appointment with him (or didnt bother to make a note of it) saying, \"oh, I thought you were supposed to bring this by yesterday\". | tensor([ 8.3368, -1.7542, -2.2586, -1.4596, -0.7885, -2.5403, -2.2215,  0.1178])
@@ -1816,8 +1803,7 @@ For $14, it wasn't worth it. | tensor([ 8.4529, -2.1104, -2.3373, -2.7923,  0.04
 \nAfter dinner we proceeded to play games, which entails shoving people to get through areas and waiting in line to play anything. | tensor([ 8.2180, -2.4134, -2.2522, -1.1810, -1.4655, -1.6912, -1.6698, -0.1063])
 \nAll in all, I didn't like my experience at Dave and Busters. | tensor([ 8.5689, -1.8697, -2.2112, -2.4219, -1.1682, -1.2121, -1.9259, -0.3859])
 I remembered it being a fun place to go and unwind as an adult. | tensor([ 6.6039,  0.8748, -3.1713, -1.6195, -0.6707, -2.2656, -3.2930,  2.2746])
-but between all the kids and the crappy service, can't recommend this place. | tensor([ 8.4963e+00, -1.2694e+00, -2.2041e+00, -2.4808e+00, -1.1096e+00,
-        -2.1293e+00, -2.1266e+00,  7.4831e-03])
+but between all the kids and the crappy service, can't recommend this place. | tensor([ 8.4963e+00, -1.2694e+00, -2.2041e+00, -2.4808e+00, -1.1096e+00,        -2.1293e+00, -2.1266e+00,  7.4831e-03])
 If anyone asks me to go back, I may elect to stay home and poke my eyes with a fork. | tensor([ 8.5221, -1.9929, -1.4021, -2.0987, -1.6808, -2.1119, -1.6493, -0.3549])
 Dave and Buster's has to be split up into separate experiences to rate it. | tensor([ 8.5371, -1.5859, -2.2710, -1.8971, -0.8886, -2.1107, -2.3350, -0.1415])
 \n\nDining: 2 stars\n\nI had a party of 20 coming in; I had called ahead of time, and arrived early. | tensor([ 8.5914, -2.3213, -2.1890, -2.6546, -0.4026, -2.2790, -1.1964, -0.6475])
@@ -1843,8 +1829,7 @@ The staff on the floor is helpful and fast to fix games that have problems, and 
 The ticket prizes are cheap as expected, but kind of fun, and the people in the ticket shop were always nice and quick to help.\n\n\nOverall: | tensor([ 8.2987, -2.5014, -2.4147, -1.4240, -0.5480, -1.7050, -1.3360, -1.0012])
 3 Stars\n\nIf you want to hang out here | tensor([ 8.6136, -2.2371, -2.1522, -2.2393, -0.1214, -2.2125, -1.5843, -1.0273])
 , I would suggest eating somewhere else, and then playing games and having fun here, but only order beer at the bar and don't expect a smile. | tensor([ 8.6642, -1.8161, -2.1630, -1.8719, -0.7874, -2.2731, -2.2013, -0.3110])
-Chuckie Cheese for grown ups... | tensor([ 8.3750e+00, -1.7039e+00, -2.2839e+00, -2.5639e+00,  5.7751e-03,
-        -1.6658e+00, -2.2814e+00, -4.9854e-01])
+Chuckie Cheese for grown ups... | tensor([ 8.3750e+00, -1.7039e+00, -2.2839e+00, -2.5639e+00,  5.7751e-03,        -1.6658e+00, -2.2814e+00, -4.9854e-01])
 Yeah, that could sum up my review for sure (but I'll try to make it a bit more interesting than that).\n\nFirst let me say that this isn't my first trip to a Dave & Buster's. | tensor([ 8.6392, -1.6166, -2.3753, -2.2105, -0.5822, -1.9439, -1.8763, -0.6364])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Second, I actually experience all of it while here. | tensor([ 8.5144, -2.1461, -2.3022, -2.7128, -0.3220, -1.4701, -2.1491, -0.2493])
@@ -1885,8 +1870,7 @@ No bar out in the dining area right now and the pool tables were absent as well.
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 If you wanted a drink you had to go back into the game room.\n\nSpeaking of the game room, by far the best part. | tensor([ 8.3778, -1.6640, -2.5742, -1.7799, -0.9562, -2.1980, -1.9864,  0.2262])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-With the meal I ordered I got the $20 play card (the best part of the meal, super charge it for $3 more | tensor([ 8.4210e+00, -1.7093e+00, -2.6867e+00, -2.0332e+00, -1.3388e-01,
-        -2.2877e+00, -2.1942e+00,  1.1982e-03])
+With the meal I ordered I got the $20 play card (the best part of the meal, super charge it for $3 more | tensor([ 8.4210e+00, -1.7093e+00, -2.6867e+00, -2.0332e+00, -1.3388e-01,        -2.2877e+00, -2.1942e+00,  1.1982e-03])
 and it's even better). | tensor([ 8.1759, -2.1891, -2.2046, -2.6186,  0.4776, -1.0901, -2.5031, -0.6483])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The game room  you can tell is in need of an update.   | tensor([ 8.6435, -2.2841, -2.2357, -2.1022, -0.4233, -1.9480, -1.7134, -0.6899])
@@ -1911,8 +1895,7 @@ I was excited! | tensor([ 8.3688, -1.7041, -2.1743, -2.8820, -0.0407, -1.4009, -
 I haven't been to this Dave and Buster's since I was younger and was ready to go back and play me some games! | tensor([ 8.4478, -1.4747, -1.6767, -2.2557, -1.1729, -1.3412, -2.7851, -0.1427])
 I went with my cousins, mind you, we hadn't ate all day and were very hungry. | tensor([ 8.1822, -1.4897, -0.7359, -2.3635, -1.9888, -1.2855, -1.9543, -1.0941])
 So, we decided to do the Eat & Play Combo, naturally. | tensor([ 8.5824, -1.9463, -2.4010, -2.2948, -0.5184, -1.8141, -1.9572, -0.4107])
-Here's where it gets bad. | tensor([ 8.4561e+00, -1.6642e+00, -2.1616e+00, -2.5809e+00, -6.5558e-01,
-        -1.6963e+00, -2.3922e+00, -5.9823e-03])
+Here's where it gets bad. | tensor([ 8.4561e+00, -1.6642e+00, -2.1616e+00, -2.5809e+00, -6.5558e-01,        -1.6963e+00, -2.3922e+00, -5.9823e-03])
 First of all, we get a very snobby hostess that shows us to our table. | tensor([ 0.3931,  0.7476, -2.7203, -1.2743,  7.2009, -0.9320, -1.0567, -1.8662])
 Then, we wait...and wait...and finally after about 25 mins we get a waitress. | tensor([ 0.8369, -2.2879, -2.0744, -1.6185,  7.9225, -0.9096, -1.9333, -0.4842])
 Her name was Ashley. | tensor([ 8.1137, -1.8049, -2.8590, -3.4082,  1.2803, -1.8035, -1.9607, -0.0091])
@@ -1924,8 +1907,7 @@ yea, right. | tensor([ 8.2572, -2.2389, -2.4958, -3.1796,  0.8742, -1.2259, -1.9
 Mind you, our food still hasn't came yet. | tensor([ 5.0099, -2.5550,  2.7756, -2.4794, -3.3832,  0.3428, -0.1983, -2.2471])
 I see other people getting their food that had come in after us. | tensor([ 8.2806, -1.8646, -0.8325, -2.2477, -1.6469, -1.2977, -2.3491, -0.5854])
 I was frustrated. | tensor([ 8.6952, -2.1757, -2.2470, -2.7179, -0.1384, -2.1016, -1.4094, -0.8057])
-After waiting 45 mins for our food, I asked to speak with a manager. | tensor([ 8.5633e+00, -2.2277e+00, -2.0490e+00, -2.4842e+00,  5.6408e-03,
-        -2.1971e+00, -1.6298e+00, -8.8962e-01])
+After waiting 45 mins for our food, I asked to speak with a manager. | tensor([ 8.5633e+00, -2.2277e+00, -2.0490e+00, -2.4842e+00,  5.6408e-03,        -2.1971e+00, -1.6298e+00, -8.8962e-01])
 One of the servers who I asked replied rudely with \"Well, he's really busy right now. | tensor([ 8.5030, -2.2719, -2.1117, -1.5422, -0.7446, -2.4766, -1.1988, -0.9858])
 I doubt he'll be able to come out and talk to you\". | tensor([ 8.5378, -2.3834, -1.7423, -2.2030, -0.8039, -1.5867, -1.7205, -1.1225])
 Finally, 15 mins later... | tensor([ 8.4892, -2.0296, -2.3947, -2.3959,  0.2092, -2.1942, -2.0255, -0.3181])
@@ -1988,8 +1970,7 @@ Needless to say, the line in the game room was just as long, and they still only
 It was a Saturday! | tensor([ 6.1990, -1.6060, -1.7889, -2.4267,  1.4130, -1.4649, -2.4027, -0.1844])
 After we finally got our cards we had to wait yet again to get a beer. | tensor([ 8.6212, -2.4618, -2.0282, -2.3421, -0.2081, -2.1568, -1.5135, -0.9258])
 2 bartenders on staff while the bar was completely full. | tensor([ 8.1925, -2.4314, -2.6363, -2.3836,  1.6799, -2.5129, -1.7251, -0.6100])
-It took us almost an hour before we actually could start gaming. | tensor([ 8.5629e+00, -1.6225e+00, -2.3579e+00, -2.3721e+00, -6.0932e-01,
-        -2.0505e+00, -2.1496e+00, -5.2037e-03])
+It took us almost an hour before we actually could start gaming. | tensor([ 8.5629e+00, -1.6225e+00, -2.3579e+00, -2.3721e+00, -6.0932e-01,        -2.0505e+00, -2.1496e+00, -5.2037e-03])
 The floors were filthy with trash, and the bathrooms: repulsive! | tensor([ 4.5971, -0.1720, -2.8703, -2.8746, -0.7620, -1.2052, -0.4350,  2.0052])
 I had to use the restrooms twice during our visit, and not only did both bathrooms I used have no toilet paper in them, but there was TP all over the floors, and the sinks were less than cleanly. | tensor([ 4.0513,  0.5011, -3.8631,  2.3766, -1.6604, -2.7514, -1.5476,  2.2424])
 My boyfriend mentioned that the guys restroom was no better, as it smelled like pee and the paper towel dispenser didn't work. | tensor([ 7.9088, -1.0013, -2.6980, -2.0696, -0.8232, -1.9499, -2.3834,  0.8460])
@@ -2010,8 +1991,7 @@ I've had okay food, but super long wait times for a simple chicken fingers & fri
 It's your basic sandwiches, salads, appetizers & a few pastas. | tensor([ 8.1072, -1.8667, -2.3656, -2.1967,  0.0628, -1.0574, -2.2654, -1.1895])
 I believe all sandwiches & burgers are around $10 & served with fries. | tensor([ 8.4234, -2.1840, -2.0099, -2.3469, -0.1198, -1.9382, -2.0359, -0.8134])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-You can get the Eat & Play deal which includes food from a specific menu + a game card. | tensor([ 8.1376e+00, -2.1379e+00, -2.2729e+00, -1.7557e+00, -7.6834e-03,
-        -1.6519e+00, -2.0769e+00, -8.0541e-01])
+You can get the Eat & Play deal which includes food from a specific menu + a game card. | tensor([ 8.1376e+00, -2.1379e+00, -2.2729e+00, -1.7557e+00, -7.6834e-03,        -1.6519e+00, -2.0769e+00, -8.0541e-01])
 Besides the game card deal, if you wanted to make D&B a date night you might be better off heading to another place to eat in Waterfront for amazing food.. but to each their own.   | tensor([ 8.4695, -2.1695, -2.3013, -1.8316, -0.5783, -1.9905, -1.8458, -0.4062])
 Try it once I suppose. | tensor([ 8.4722, -2.1685, -1.5891, -2.3603, -0.6995, -1.4469, -2.3825, -0.3446])
 The brownie sundae that i devoured last night was satisfying (2 brownies, 2 scoops of ice cream.. | tensor([ 1.1178, -2.1932, -0.1800, -2.2468, -1.5416,  7.6627, -2.0224, -0.8805])
@@ -2061,8 +2041,7 @@ but it used to be so much better with the funnest games and diverse groups of pe
 Now, it is run down and many of the games are app related games (Fruit Ninja) and 3D Experience rides. | tensor([ 8.5739, -1.7888, -2.0720, -2.0553, -0.8052, -1.7033, -1.9221, -0.5783])
 With such \"games\", you can't even earn tickets and they take a lot of tokens! | tensor([ 7.3620, -2.1986, -1.9666, -0.8167, -1.1357, -1.0650, -1.2469, -1.0505])
 Last time I went, back in the winter, many of the games were broken, which made for a negative player experience. | tensor([ 8.5608, -1.8100, -2.2154, -2.5489, -1.0898, -1.7216, -1.8992, -0.0618])
-I would go to D&B to play some games again in the future, but it is no longer one of my favorite places to go due to the decline of fun games where you can earn tickets. | tensor([ 8.3306e+00, -1.8642e+00, -2.2409e+00, -1.1376e+00, -1.2092e+00,
-        -1.8564e+00, -2.4110e+00,  4.0819e-03])
+I would go to D&B to play some games again in the future, but it is no longer one of my favorite places to go due to the decline of fun games where you can earn tickets. | tensor([ 8.3306e+00, -1.8642e+00, -2.2409e+00, -1.1376e+00, -1.2092e+00,        -1.8564e+00, -2.4110e+00,  4.0819e-03])
 I was here on 10/3 and I have to say this was a horrible experience.   | tensor([ 8.3565, -1.6753, -1.8549, -2.5055, -1.0293, -2.6140, -2.3018,  1.0185])
 Me and a friend went here to eat and play a couple games afterwards. | tensor([ 8.0954, -1.9618, -1.3495, -2.2627, -1.3995, -0.7993, -2.7414,  0.0882])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -2192,8 +2171,7 @@ It seems there are so many breweries out there that offer great beer, and slack 
 Unfortunately Rock Bottom is one that falls into that category. | tensor([ 7.6235, -1.7833, -0.9775, -3.5116, -1.2488, -1.5666, -2.5583,  1.7979])
 Let's be honest, when you go to a brewery, you want the full experience. | tensor([ 5.3576,  1.0744, -1.4460, -1.7863, -0.2200, -3.2151, -3.1260,  1.8071])
 If it was only about the beer, I'd go buy a growler and take it home. | tensor([ 8.5953, -1.4905, -2.5019, -2.6552, -0.0486, -2.5095, -1.9267, -0.2628])
-\n\nSo, about the beer.... | tensor([ 8.3359e+00, -1.8097e+00, -2.3777e+00, -2.7362e+00,  3.3561e-03,
-        -1.9192e+00, -2.0703e+00, -2.2915e-01])
+\n\nSo, about the beer.... | tensor([ 8.3359e+00, -1.8097e+00, -2.3777e+00, -2.7362e+00,  3.3561e-03,        -1.9192e+00, -2.0703e+00, -2.2915e-01])
 The Jagoff IPA is with out a doubt one of the best IPAs I have ever had! | tensor([ 8.4882, -2.0653, -2.2062, -2.0246, -0.6773, -2.3936, -1.8645, -0.1799])
 They only I can think of that I think is better is Dogfish Head, but that's a matter of opinion. | tensor([ 8.4993, -1.9377, -1.6273, -2.9177, -1.2318, -0.4893, -1.9811, -0.8008])
 The beer selection is constantly changing, and they always have some excellent seasonal beers. | tensor([ 8.3940, -2.1477, -1.4136, -2.4750, -1.6514, -0.7800, -2.0520, -0.7373])
@@ -2249,8 +2227,7 @@ No way!\n\nThe tab was reasonable - we DID have a Living Social deal that took $
 We'll hit the Improv again - we have before - but, we'll head somewhere else afterwards. | tensor([ 7.9561, -2.1178, -1.7510, -2.5614, -1.1356, -1.7353, -1.9383,  0.7150])
 I must admit, I do like the brews. | tensor([ 6.4082, -2.6030,  2.8751, -2.3504, -2.2981, -2.3107, -2.7770, -0.0555])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I also like the white cheddar mash potatoes. | tensor([ 1.8487e+00, -2.0855e-03, -1.7508e+00,  6.8847e-02,  1.7406e+00,
-         2.3941e+00, -2.8948e+00, -1.1991e+00])
+I also like the white cheddar mash potatoes. | tensor([ 1.8487e+00, -2.0855e-03, -1.7508e+00,  6.8847e-02,  1.7406e+00,         2.3941e+00, -2.8948e+00, -1.1991e+00])
  Other than that, meh. | tensor([ 8.4398, -1.9035, -2.4664, -2.6480,  0.2959, -2.0626, -2.1782, -0.2651])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The food is pretty forgettable.   | tensor([ 8.0518, -1.9067, -0.8519, -1.6841, -1.9501, -1.2368, -1.8266, -1.2440])
@@ -2311,8 +2288,7 @@ I went to Rock Bottom this past weekend, and it was \"nice\" to see that nothing
 While the beer is pretty good, it has never outweighed the fact that the service isn't good and the food is average, at best.\n\nIt was even difficult to get beers at the bar...we tried to have the girls order, thinking they'd have better luck...when that failed, the men tried... | tensor([ 0.7733, -2.0878, -1.9180, -2.0064,  7.8907, -1.3608, -2.3777,  0.2288])
 that didn't work either. | tensor([ 8.0991, -2.1972, -2.0321, -2.3691,  0.1054, -1.3364, -1.9523, -0.7541])
 If we hadn't REALLY wanted a cold beer after a comedy show at The Improv, we would've just left. | tensor([ 8.5370, -1.7224, -2.3978, -2.2576, -0.5824, -2.7223, -1.8167,  0.0654])
-It definitely wasn't busy enough to be noticed and ignored by the bartender, so I can't overlook it. | tensor([ 8.6548e+00, -2.0995e+00, -2.5266e+00, -2.3289e+00, -6.0757e-03,
-        -2.1078e+00, -1.7289e+00, -5.6916e-01])
+It definitely wasn't busy enough to be noticed and ignored by the bartender, so I can't overlook it. | tensor([ 8.6548e+00, -2.0995e+00, -2.5266e+00, -2.3289e+00, -6.0757e-03,        -2.1078e+00, -1.7289e+00, -5.6916e-01])
 Of course, the service has always been spotty at Rock Bottom, so it was hardly surprising.\n\nCombine the weak food and poor service with Rock Bottom being too far from home for a night out just to drink, and you get the exact formula that's kept me from going there in the past...and will keep me from going often in the future. | tensor([ 8.5460, -1.6903, -2.2702, -2.3996, -0.9123, -1.9325, -1.9866, -0.0159])
 The only reason Rock Bottom gets 3 stars is because of the brews. | tensor([ 1.3962, -2.5718,  6.5075, -2.4281, -2.7890, -1.1159, -2.6081,  1.8156])
 Food was \"eh\", not many vegetarian options and hostesses who will ignore you because they are too busy chatting about who didn't text them back. | tensor([ 3.9030, -2.2446, -3.4206,  0.3239,  4.9522, -2.4199, -0.7416, -2.2335])
@@ -2396,8 +2372,7 @@ Went here last night to meet folks for a friend's birthday party. | tensor([ 8.4
 Docking one star due to a few unfortunate things that happened, otherwise I'd be fine giving this place a 3.\n\nOur waiter was very attentive and kept our water and soda cups refilled, the food was decent overall - I had a plain ol' burger and a delicious berry sangria - and the place overall had a nice vibe to it and was pretty comfortable and fun to be in... | tensor([ 8.5375, -1.8866, -2.4273, -1.7413, -0.6122, -2.0598, -1.8188, -0.7504])
 you'd think this would just be another average place not-great-but-not-bad | tensor([ 8.1773, -1.4251, -1.9939, -1.8304, -1.1262, -0.8140, -2.3248, -0.8913])
 and I'd be ready to go on to the next review | tensor([ 8.6800, -2.0754, -2.3073, -2.4750, -0.1229, -2.1151, -1.8192, -0.5778])
-right there.\n\nHere's where I ran into problems. | tensor([ 8.4482e+00, -1.9471e+00, -2.3810e+00, -2.6669e+00, -5.4175e-03,
-        -1.7989e+00, -2.1300e+00, -2.9664e-01])
+right there.\n\nHere's where I ran into problems. | tensor([ 8.4482e+00, -1.9471e+00, -2.3810e+00, -2.6669e+00, -5.4175e-03,        -1.7989e+00, -2.1300e+00, -2.9664e-01])
 I'd checked the website in advance to try and plan my meal since I do my best to pick items on menus that aren't, say, 2,000 calories in one sitting. | tensor([ 8.1633, -1.3853, -2.7026, -1.9135,  0.0858, -2.3349, -1.9446, -0.7169])
 Their website advertises that they make skinny drinks; when I asked my waiter he said it was possible but that they did not normally do this and that it's a hassle for the people at the bar, so he didn't recommend it. | tensor([ 7.7081, -0.9436, -2.0912, -0.5081, -0.0690, -2.5418, -2.2615, -1.4116])
 Then why tell us on your website that you'll do it??? | tensor([ 8.4934, -2.2259, -2.1927, -2.3171, -0.1103, -1.6993, -1.9679, -0.7811])
@@ -2417,8 +2392,7 @@ Our daughter got the root beer float which she love and I started with a Mango I
 It took at least 15 minutes to get them. | tensor([ 7.3593, -2.4924, -0.8952, -2.6448, -0.8929, -1.0648, -1.3422, -0.8452])
 You get three sliders and they were very good.\n\nMy wife got a small greenhouse salad with Jalapeno ranch dressing to start off with which she enjoyed and the lobster & shrimp enchiladas as her main entree. | tensor([ 1.1103, -2.2928, -2.3861, -2.7816,  6.9306,  1.2423, -1.8428, -0.3587])
 She complained about how salty it was and the fact that there was no lobster in it at all.\n\nOur daughter got the kids burger and fries. | tensor([ 1.3443,  4.1176, -1.1318, -3.6116, -0.6689, -0.4586, -1.4205,  3.0742])
-No surprise there.\n\nI ordered the New York Strip with mashed potatoes and it came with green bean as well. | tensor([-8.0217e-01, -2.8933e+00, -7.9960e-04, -3.0086e+00, -1.8586e+00,
-         4.9045e+00, -1.2196e+00,  4.6519e+00])
+No surprise there.\n\nI ordered the New York Strip with mashed potatoes and it came with green bean as well. | tensor([-8.0217e-01, -2.8933e+00, -7.9960e-04, -3.0086e+00, -1.8586e+00,         4.9045e+00, -1.2196e+00,  4.6519e+00])
 My strip was cooked perfectly and has a decent taste. | tensor([ 8.4846, -1.5235, -2.5387, -2.8620, -0.4550, -1.5784, -2.1300, -0.0193])
 Longhorn has a much, much better quality of steak though. | tensor([ 7.4551, -2.3738, -1.3752, -3.4546, -1.7008,  0.5000, -2.3109,  1.0266])
 The green beans were pretty good and my mashed potatoes very bland and pretty average. | tensor([ 7.9109, -1.5382, -2.2413, -2.3017, -0.9394, -0.4135, -1.6103, -1.1496])
@@ -2432,8 +2406,7 @@ My maid of honor reserved the banquet room which was very nice and separated fro
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 My MOH and mother said that the person they talked to about reservations and arrangements was wonderful and easy to get in touch with.   | tensor([ 8.6002, -2.4316, -2.0473, -2.2777, -0.2581, -2.0369, -1.7881, -0.6471])
 My shower was wonderful, the wait staff was great and kept everyone's glasses full.   | tensor([ 8.0984, -1.2739, -2.8948, -2.2577, -0.1560, -2.0307, -2.2983,  0.2287])
-It started pouring down rain and they let us stay a little longer | tensor([ 7.6354e+00, -2.1470e+00, -2.8455e-03, -3.4367e+00, -2.2508e+00,
-        -3.8186e-01, -1.4714e+00, -1.3166e-01])
+It started pouring down rain and they let us stay a little longer | tensor([ 7.6354e+00, -2.1470e+00, -2.8455e-03, -3.4367e+00, -2.2508e+00,        -3.8186e-01, -1.4714e+00, -1.3166e-01])
 so my gifts wouldn't get wet when taking them out to the car. | tensor([ 8.3974, -2.1708, -2.3739, -2.7190, -0.0848, -2.0045, -1.8487, -0.1910])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The only reason this place gets 4 stars is because we were not allowed to take our leftover food from the buffet home. | tensor([ 6.0957,  0.9889, -2.0547,  0.5689, -1.6791, -3.0840, -1.8164, -0.6917])
@@ -2476,8 +2449,7 @@ We put our names on the list and went shopping around the area. | tensor([ 8.604
 About 25 minutes later, our table was ready. | tensor([ 7.5994, -2.5434, -2.0034, -2.6414,  1.1641, -1.5595, -1.7466, -1.1580])
 Parking was a cluster since the lot is shared with Dave & Busters and a karaoke bar called Sing Sing. | tensor([ 8.1459, -1.7034, -2.0474, -1.5420, -1.5966, -1.9495, -2.1869,  0.3480])
 Tom dropped me off at the door so I could secure our table.\n\nOur server, Jackie, approached me almost immediately and brought two waters to the table to start. | tensor([ 8.5074, -1.9732, -2.6418, -2.9366,  0.6771, -2.4414, -1.4099, -0.6472])
-She was very attentive and funny, and probably the best part of our experience at the restaurant. | tensor([ 1.5256e+00, -3.5472e-03, -2.6023e+00, -1.7657e+00,  7.4643e+00,
-        -1.4247e+00, -3.0885e+00,  6.0143e-01])
+She was very attentive and funny, and probably the best part of our experience at the restaurant. | tensor([ 1.5256e+00, -3.5472e-03, -2.6023e+00, -1.7657e+00,  7.4643e+00,        -1.4247e+00, -3.0885e+00,  6.0143e-01])
 Tom ordered a Red Ale and to his surprise, didn't care for it. | tensor([ 8.5291, -2.1298, -2.4151, -2.2495, -0.0743, -2.3088, -1.9045, -0.3830])
 Jackie gave Tom three free samples of beers she thought he would like after talking to him about his beer drinking habits. | tensor([ 8.4123, -1.8668, -2.1967, -2.0452, -0.2935, -2.5532, -2.5623,  0.3697])
 He loved all three, and chose the most bizarre (and expensive) beer. | tensor([ 8.0827, -1.9106, -2.4108, -1.4518, -0.0623, -1.4084, -2.5686, -0.6571])
@@ -2620,8 +2592,7 @@ They need to implement a system where if you purchased tickets in advance you do
 Once inside you we were seated pretty quickly.\nSeating is first come first serve.\n\nThe Server was pretty quick to take our orders. | tensor([ 8.4912, -2.3565, -2.3981, -2.0745, -0.1093, -2.5364, -0.8948, -1.0050])
 I misread the menu description and didn't realize my BBQ sandwich came \nwith cheese. | tensor([ 8.0931, -1.2782, -2.7165, -2.0919,  0.6573, -2.1535, -2.3073, -0.8881])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I don't eat cheese, and had send my order back. | tensor([ 8.3370e+00, -1.7393e+00, -2.4813e+00, -1.8720e+00,  3.7372e-03,
-        -2.0427e+00, -2.1796e+00, -6.1013e-01])
+I don't eat cheese, and had send my order back. | tensor([ 8.3370e+00, -1.7393e+00, -2.4813e+00, -1.8720e+00,  3.7372e-03,        -2.0427e+00, -2.1796e+00, -6.1013e-01])
 The waiter was gracious and returned with my modified order in about 15 minutes. | tensor([ 5.6892, -2.9295, -1.6672, -1.1816,  2.0623, -1.5131, -1.3395, -1.4033])
 I've never heard of throwing cheese pulled pork sandwich, maybe it's a northern thing. | tensor([-1.2283, -2.8410,  6.4844, -2.5074, -1.6618,  1.4224, -0.6460, -0.5656])
 \nWe got our checks quickly, and without issue. | tensor([ 8.4121, -2.7003, -2.0979, -3.0025, -0.0853, -1.3598, -1.1270, -1.2686])
@@ -2638,8 +2609,7 @@ Beware if you sit in the very front, you KNOW what's going to happen!\n\nA coupl
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The lobby is so small you're forced to wait outside until the first show starts or the first show let's out. | tensor([ 7.4694, -2.0581, -2.5403, -0.5964, -1.3355, -2.3094, -1.2853,  0.6867])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-And if you want a good seat, you may be waiting in line for a while. | tensor([ 8.4611e+00, -2.3463e+00, -2.4626e+00, -2.2796e+00, -7.9340e-03,
-        -1.3348e+00, -1.3035e+00, -1.5187e+00])
+And if you want a good seat, you may be waiting in line for a while. | tensor([ 8.4611e+00, -2.3463e+00, -2.4626e+00, -2.2796e+00, -7.9340e-03,        -1.3348e+00, -1.3035e+00, -1.5187e+00])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 BURR!\n\nThe two drink minimum. | tensor([ 8.3172, -2.2567, -2.1781, -2.6635, -0.0414, -1.1892, -2.0250, -0.7202])
 I kinda get why they do it, to make money, of course. | tensor([ 8.4198, -1.6007, -2.1104, -2.3080, -0.8259, -1.4170, -2.3439, -0.4740])
@@ -2667,12 +2637,10 @@ Service has always been pleasant though they do automatically tack on the tip fo
 There's nothing like a Saturday night filled with some good laughs, a few chuckles and a couple of good guffaws thrown in for good measure. | tensor([ 7.0288,  1.0079, -2.2323, -2.9154, -1.0390, -1.4501, -2.5094,  0.2565])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 That's exactly what we enjoyed on Saturday night!\n\nWe hit the comedy club for an evening of Tammy Pescatelli - the hubby | tensor([ 7.9151, -0.6886, -3.1354, -2.2163,  0.5466, -1.9279, -2.1629, -0.5872])
-and I have enjoyed her routine on TV and on the occasional DVE morning show..   | tensor([ 8.5057e+00, -2.2109e+00, -2.3989e+00, -2.5699e+00, -6.0979e-03,
-        -1.8293e+00, -1.9149e+00, -3.2402e-01])
+and I have enjoyed her routine on TV and on the occasional DVE morning show..   | tensor([ 8.5057e+00, -2.2109e+00, -2.3989e+00, -2.5699e+00, -6.0979e-03,        -1.8293e+00, -1.9149e+00, -3.2402e-01])
 She didn't fail to give us a good evening of laughs! | tensor([ 8.4839, -1.9047, -2.2897, -2.9229,  0.0816, -1.9858, -1.3812, -0.6504])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-The big surprise, was Gene Collier - yep, of the Post-Gazette sports writer fame - as the opener. | tensor([ 8.1792e+00, -1.7827e+00, -2.8209e+00, -2.1329e+00, -5.7204e-01,
-        -1.5779e+00, -1.9270e+00,  4.5343e-03])
+The big surprise, was Gene Collier - yep, of the Post-Gazette sports writer fame - as the opener. | tensor([ 8.1792e+00, -1.7827e+00, -2.8209e+00, -2.1329e+00, -5.7204e-01,        -1.5779e+00, -1.9270e+00,  4.5343e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 What a great opening act!   | tensor([ 7.9889, -2.1179, -2.1903, -1.8492,  0.1022, -1.8242, -2.6671,  0.1655])
 He cracked wise about the perils of being 58 and a baby boomer. | tensor([ 8.5157, -1.6358, -2.2239, -2.4234, -0.5999, -2.1520, -1.8514, -0.5537])
@@ -2758,8 +2726,7 @@ Just because there's a 10 dollar refillable soda option on the menu doesn't mean
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Most patrons don't even bother reading the beverage section of the menu if all they want is a standard beverage offered almost everywhere (like a cola or diet cola), and the reading difficulties imposed by the darkness make them even less likely to browse the offerings. | tensor([ 5.1917, -1.3560, -2.3415,  2.0843, -2.6241, -1.5171, -0.4814, -0.7979])
 I love the Improv. | tensor([ 8.3584, -2.1468, -2.4509, -1.9865, -0.5769, -1.7497, -1.9611, -0.1676])
-I think its a great way to start or spend a night! | tensor([ 7.9388e+00, -2.2333e+00, -1.6635e+00, -1.7363e+00, -4.0627e-01,
-        -1.8752e+00, -2.4568e+00, -1.1814e-03])
+I think its a great way to start or spend a night! | tensor([ 7.9388e+00, -2.2333e+00, -1.6635e+00, -1.7363e+00, -4.0627e-01,        -1.8752e+00, -2.4568e+00, -1.1814e-03])
 Nothing like a laughter filled night. | tensor([ 8.3145, -1.5817, -1.9463, -2.1105, -1.2462, -2.1817, -2.2184,  0.5452])
 I think its great that we get so many great comedians coming our way (Owen Benjamin, Pablo Francisco super funny Tammy Pescatelli not so much.)\n\nThings you should be aware of: The staff is really strict on the 2 drink minimum so be prepared to spend money on the pricey food and drinks. | tensor([ 7.8493, -1.5837, -2.6399, -0.0213, -0.9841, -2.4268, -1.6643, -0.9392])
 I kinda wish their menu was a little bit more extensive. | tensor([ 8.6852, -2.3207, -1.9228, -2.5514, -0.4077, -1.9942, -1.6723, -0.8719])
@@ -2780,8 +2747,7 @@ When we received our check, they had added an 18% gratuity without permission or
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I will not be returning anytime soon. | tensor([ 8.6387, -2.2240, -1.7144, -2.8053, -0.5612, -1.2751, -2.0018, -0.8669])
 We came to the Improv for the first time on Friday night for my wife's work holiday party. | tensor([ 8.3540, -2.1518, -2.0883, -2.2108, -0.5423, -2.0483, -2.3016,  0.3696])
-We arrived early for dinner and drinks from a predetermined menu. | tensor([ 8.3439e+00, -2.4028e+00, -2.4003e+00, -2.4343e+00,  3.6183e-03,
-        -1.6281e+00, -1.9700e+00, -5.2626e-01])
+We arrived early for dinner and drinks from a predetermined menu. | tensor([ 8.3439e+00, -2.4028e+00, -2.4003e+00, -2.4343e+00,  3.6183e-03,        -1.6281e+00, -1.9700e+00, -5.2626e-01])
 Dinner started with a salad of clearly bagged, almost brown iceberg lettuce, with some croutons and frozen-then-thawed looking tomatoes that were pinkish at best. | tensor([ 2.3541,  0.9890, -2.0321,  1.0088,  0.8579,  1.5824, -2.2359, -1.6176])
 I took a few bites of this unappetizing poor excuse for a salad, and I can tell you it was downright tragic. | tensor([ 8.5831, -1.6446, -2.2768, -2.2967, -0.7118, -2.4203, -1.5147, -0.5847])
 Dinner arrived and since there wasn't any vegetarian options on this predetermined menu, we received a dish that was supposed to contain meat with the meat omitted. | tensor([ 7.5755, -1.9004, -2.6210, -2.4835,  1.0353, -1.1221, -2.1933, -1.0509])
@@ -2798,8 +2764,7 @@ The cheesecake was only a hair better, but it had obviously come out of the free
 I know people aren't coming here for the food, but if you are FORCING them to order things off of your menu to fulfill some outdated requirements (two drink/two menu item minimum) then at least make some halfway decent food. | tensor([ 8.6195, -2.2555, -1.9861, -1.9056, -0.7047, -1.9730, -1.4650, -1.3038])
 It doesn't even have to be memorable...just not OFFENSIVE. | tensor([ 8.2363, -2.0128, -2.3547, -2.5990, -0.1804, -1.3877, -2.4164,  0.2160])
 Which it was!! | tensor([ 8.2849, -2.3434, -2.1989, -2.9299,  0.3943, -1.3871, -2.0495, -0.5395])
-Had I paid for any of this I would have made a huge stink, but I tried to be polite and push my food around and make small talk. | tensor([ 7.4116e+00,  3.9746e-03, -2.5894e+00, -3.6537e-01, -1.2158e+00,
-        -2.4604e+00, -1.1891e+00, -1.3170e+00])
+Had I paid for any of this I would have made a huge stink, but I tried to be polite and push my food around and make small talk. | tensor([ 7.4116e+00,  3.9746e-03, -2.5894e+00, -3.6537e-01, -1.2158e+00,        -2.4604e+00, -1.1891e+00, -1.3170e+00])
 \n\nThe comedians were good. | tensor([ 2.3923, -0.1943, -2.5750,  4.8902, -0.4809, -3.9481, -0.7936, -0.3857])
 The venue was nice-ish and we got to sit in the front because we arrived early for our \"event\". | tensor([ 8.2147, -1.6595, -2.3828, -2.5205, -0.2976, -1.4126, -2.4771, -0.2227])
 Not always the best thing in a comedy club (we only got picked on a little bit). | tensor([ 7.9423, -0.8752, -2.7047, -1.0264, -0.5791, -2.3768, -2.6953, -0.0900])
@@ -3024,8 +2989,7 @@ The prices aren't anything to rave about. | tensor([ 8.5236, -2.0461, -2.0083, -
 I can buy the same movies online for a lot cheaper there's just the waiting period. | tensor([ 8.6238, -2.1391, -2.0659, -2.2292, -0.6220, -1.8643, -1.9738, -0.3310])
 I do shop here sometimes for there discount books. | tensor([ 8.3009, -1.4796, -1.9944, -2.3118, -0.8162, -1.5234, -2.4483, -0.1321])
 I found a lot of great recipe and mystery books for really cheap, like under $5. | tensor([ 7.8551, -1.0510, -2.0134, -1.8393, -0.7981, -1.9413, -2.6303,  0.1042])
-That's a pretty good deal but considering there is a half priced book store who has a great selection of books for literally half the price of retailers, how can you beat those prices. | tensor([ 7.9458e+00, -7.6366e-01, -2.6707e+00, -1.2675e+00, -1.2307e+00,
-        -2.2114e+00, -2.0298e+00,  4.4424e-03])
+That's a pretty good deal but considering there is a half priced book store who has a great selection of books for literally half the price of retailers, how can you beat those prices. | tensor([ 7.9458e+00, -7.6366e-01, -2.6707e+00, -1.2675e+00, -1.2307e+00,        -2.2114e+00, -2.0298e+00,  4.4424e-03])
 \n\nB&N is more of a hangout spot with books in case you want to buy one right there and then. | tensor([ 8.3042, -1.5685, -1.8732, -1.7151, -1.6326, -1.8427, -2.1154,  0.0209])
 But everything is kind of confusing you always need to ask where something is. | tensor([ 8.0350, -1.7150, -2.1062, -0.7357, -1.2641, -1.8126, -2.2132, -0.3205])
 I'd rather shop online for anything i really want. | tensor([ 8.5528, -2.0743, -2.1003, -2.3176, -0.7218, -1.8246, -1.9481, -0.4285])
@@ -3051,8 +3015,7 @@ I sampled Rob's long island tea and it was not that good way too much sours. | t
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The next one he ordered was much better after a little guidance to the bartender. | tensor([ 6.9099, -2.2750, -2.5179, -0.8019,  1.6721, -0.9747, -3.0405, -0.6345])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-The bartender herself was okay, not too friendly but quick enough with the pours. | tensor([ 4.4863e+00, -1.0975e+00, -4.0045e+00, -1.2904e+00,  5.6435e+00,
-        -2.3539e+00, -2.6098e+00,  3.3194e-03])
+The bartender herself was okay, not too friendly but quick enough with the pours. | tensor([ 4.4863e+00, -1.0975e+00, -4.0045e+00, -1.2904e+00,  5.6435e+00,        -2.3539e+00, -2.6098e+00,  3.3194e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I don't remember her name which is usually not a good sign. | tensor([ 8.2673, -1.1230, -2.2172, -2.8152,  0.1522, -2.1021, -2.5820,  0.3487])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -3129,8 +3092,7 @@ Service has always been good and the food consistent, we usually come for happy 
 Let me just say that this used to be a place I loved.\n\nRemember when you'd go somewhere and have good food, great service and a general pleasant experience and then a few months you'd go back and have it all again? | tensor([ 8.3155, -1.6099, -2.1718, -2.0531, -0.9191, -1.8444, -2.2867, -0.1614])
 Well one day you decide to go back and you realized everything has changed in a way that you can't describe and the place is no longer familiar. | tensor([ 8.5086, -2.2411, -1.1361, -2.2811, -1.4988, -1.4480, -2.0633, -0.4464])
 To me, that is Bar Louie\n\nI can't say the food is bad. | tensor([ 6.6559, -1.6211, -0.4199, -0.0854, -3.0176,  0.1154, -2.1206, -1.3347])
-I had an order of the pretzel sticks for an appetizer and the cinnamon sauce tasted like water and the pretzels were stale. | tensor([ 8.0488e+00, -9.9033e-01, -2.6449e+00, -2.4550e+00, -4.5806e-01,
-        -1.6377e+00, -2.2112e+00, -8.3041e-04])
+I had an order of the pretzel sticks for an appetizer and the cinnamon sauce tasted like water and the pretzels were stale. | tensor([ 8.0488e+00, -9.9033e-01, -2.6449e+00, -2.4550e+00, -4.5806e-01,        -1.6377e+00, -2.2112e+00, -8.3041e-04])
 I will say I still ate them so shame on me. | tensor([ 8.6840, -1.7783, -1.9279, -2.7278, -0.4991, -1.7299, -1.9635, -0.8013])
 My  sandwich (the Mario) as always was very good.\n\nNow here comes the bad:\n\n1. | tensor([ 7.8422, -1.1581, -2.2444, -1.2988, -1.0365, -1.7183, -2.7109, -0.0838])
 There were fruit flies EVERYWHERE. | tensor([ 8.0765, -1.5728, -2.4044, -1.7721, -0.4196, -2.0166, -1.3757, -0.7768])
@@ -3160,8 +3122,7 @@ He left, and another (different) waitress came to bring us our drinks.. | tensor
 they were wrong.. | tensor([ 8.5559, -2.4494, -1.7046, -2.8926, -0.3326, -1.6167, -1.3554, -1.1964])
 My date was given vodka on the rocks. | tensor([ 7.2257, -1.9522, -2.5693, -2.7508,  1.8138, -1.8719, -2.9151,  0.7085])
 and I was given a Sam Adams.. | tensor([ 8.3111, -1.9934, -2.5600, -2.0827, -0.1421, -1.9664, -2.2798,  0.1167])
-\nThey took these back, and another 10 minutes before the correct order was served.. | tensor([ 8.3015e+00, -2.4639e+00, -2.1853e+00, -2.4004e+00,  3.5405e-03,
-        -1.4388e+00, -1.4667e+00, -1.0981e+00])
+\nThey took these back, and another 10 minutes before the correct order was served.. | tensor([ 8.3015e+00, -2.4639e+00, -2.1853e+00, -2.4004e+00,  3.5405e-03,        -1.4388e+00, -1.4667e+00, -1.0981e+00])
 We told them to bring another round and the check. | tensor([ 8.3656, -1.8944, -1.9592, -2.8945, -0.5413, -1.4129, -2.2096, -0.2226])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 It was 20 minutes before they returned.. and they forgot the check.\n\nBy this time we had to go to be on time for the movie.. | tensor([ 8.5326, -1.8169, -2.0110, -2.5642, -1.1216, -1.7757, -1.9411, -0.1772])
@@ -3220,8 +3181,7 @@ In addition, their drinks are expensive! | tensor([ 8.2575, -1.6604, -2.2716, -2
 Just one cocktail could run between $10-$12 and they aren't very large.   | tensor([ 8.3432, -1.8865, -2.3948, -2.2044, -0.6298, -2.1614, -1.4295, -0.2899])
 Our waitress spent more time talking to her friends at the next table than actually tending to our needs. | tensor([ 3.8309, -1.1842, -3.4420, -2.1012,  5.7063, -1.2519, -2.5312,  0.3148])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-There are enough restaurants at the Waterfront that I don't know that I will come back here. | tensor([-2.0787e-03, -1.8685e+00, -1.0379e+00, -2.5767e+00, -1.7112e-01,
-         6.6656e-01, -1.5099e+00,  6.0809e+00])
+There are enough restaurants at the Waterfront that I don't know that I will come back here. | tensor([-2.0787e-03, -1.8685e+00, -1.0379e+00, -2.5767e+00, -1.7112e-01,         6.6656e-01, -1.5099e+00,  6.0809e+00])
 I personally enjoyed my recent visit to Bar Louie with a friend but completely understand the poor reviews on help. | tensor([ 8.5480, -2.1413, -2.0883, -1.8941, -1.0957, -2.1956, -1.1655, -0.6492])
 The restaurant is pricey for what it is, and our waitress was a bit lackluster.\n\nSo why does Bar Louie get 3 stars? | tensor([ 8.2611, -1.8395, -2.0961, -1.3301, -0.9084, -1.5272, -1.7400, -1.2568])
 Happy Hour and a nice | tensor([ 8.4060, -1.4548, -2.3690, -2.4775, -0.1291, -1.7427, -2.4795, -0.3710])
@@ -3416,8 +3376,7 @@ It was weird. | tensor([ 8.5196, -2.3036, -1.7260, -2.1971, -0.5740, -1.6367, -2
 Kinda awkward with the worker having to grab you and push you through. | tensor([ 1.2147, -0.5326, -2.4543, -3.2733,  1.1723,  0.7149,  1.9706,  0.0811])
 Although it was still fun. | tensor([ 8.5959, -1.8533, -2.1942, -2.5080, -0.3155, -1.7665, -2.4805, -0.2046])
 The last dude threw me in backwards! | tensor([ 8.5800, -1.4974, -2.4910, -2.3615, -0.1126, -2.4844, -2.3265,  0.1274])
-Scared the crap out of me but it was fun :)\n\nThe food here is surprisingly pretty affordable. | tensor([ 8.4234e+00, -1.5874e+00, -2.2617e+00, -2.3307e+00, -9.6309e-01,
-        -1.8349e+00, -2.2779e+00,  5.3168e-04])
+Scared the crap out of me but it was fun :)\n\nThe food here is surprisingly pretty affordable. | tensor([ 8.4234e+00, -1.5874e+00, -2.2617e+00, -2.3307e+00, -9.6309e-01,        -1.8349e+00, -2.2779e+00,  5.3168e-04])
 Plus, who wants to eat a huge meal while in your swim suit. | tensor([ 6.4347,  0.6902, -3.0977, -3.1530,  2.5283, -1.4426, -2.7754, -0.0892])
 Me don't want no pot belly. | tensor([ 8.5576, -2.1978, -2.2453, -2.7416, -0.0393, -1.6804, -1.6737, -0.9799])
 \n\nOverall I had such a fun time here. | tensor([ 8.3933, -2.0788, -1.6229, -2.4822, -0.7217, -1.3680, -2.5829, -0.3512])
@@ -3471,8 +3430,7 @@ Maybe I was just self-conscious about rolling around on a bunch of beds in a pub
 \n\nABD Mattress quickly alleviated any idiotic fears I may have had. | tensor([ 8.5915, -2.0550, -2.2275, -2.2974, -0.4908, -2.1568, -1.6872, -0.6899])
 The store was empty when I arrived on a Monday afternoon and I was attended to immediately and never felt pressured. | tensor([ 8.1283, -1.4669, -2.9278, -2.6620, -0.1340, -1.5391, -2.0013,  0.5204])
 ABD has a great selection of mattresses, and the prices cannot be beat. | tensor([ 8.4265, -2.2507, -2.0260, -2.5330, -0.4754, -2.1680, -1.4434, -0.5361])
-I picked up a full plush pillow-top mattress for a cool $375 (without a box spring or a frame, since I already had one). | tensor([ 7.8634e+00, -5.5932e-01, -2.9995e+00, -2.4549e+00,  7.7763e-04,
-        -2.3930e+00, -2.6110e+00,  6.7299e-01])
+I picked up a full plush pillow-top mattress for a cool $375 (without a box spring or a frame, since I already had one). | tensor([ 7.8634e+00, -5.5932e-01, -2.9995e+00, -2.4549e+00,  7.7763e-04,        -2.3930e+00, -2.6110e+00,  6.7299e-01])
 Better yet? | tensor([ 8.4761, -1.9861, -2.2683, -2.6273,  0.1474, -1.9318, -2.1722, -0.4392])
 Delivery is free AND prompt. | tensor([ 8.4012, -2.3968, -2.3488, -2.5195,  0.2765, -1.5854, -1.6526, -1.1907])
 You pick a three-hour timeframe, and the store will call you on the day of delivery to narrow it to a one-hour slot so you're not sitting around all afternoon. | tensor([ 4.2080,  0.3515, -1.9084, -2.0838,  0.6357, -0.7825, -0.0209, -0.9873])
@@ -3688,8 +3646,7 @@ Was just horrible. | tensor([ 8.4463, -2.1137, -2.2947, -2.7065,  0.0348, -1.898
 All in favor of a deep dish pizza say | tensor([ 8.4197, -2.6652, -1.6160, -2.3033, -0.7260, -2.1632, -0.5248, -1.6090])
 I!.......IIIIIII,  ok now that i have that out of my system. | tensor([ 8.6293, -2.1130, -2.1347, -2.4534, -0.3890, -2.3347, -1.4022, -0.6485])
 This place is such a great hangout/eat-in spot. | tensor([ 8.4734, -1.8022, -2.2081, -1.8386, -0.9476, -1.8677, -2.3196, -0.2155])
-I hadn't been here and years | tensor([ 8.3575e+00, -2.0625e+00, -1.3238e+00, -2.8142e+00, -1.0034e+00,
-        -1.5823e+00, -2.2578e+00,  4.3037e-03])
+I hadn't been here and years | tensor([ 8.3575e+00, -2.0625e+00, -1.3238e+00, -2.8142e+00, -1.0034e+00,        -1.5823e+00, -2.2578e+00,  4.3037e-03])
 and some friends invited us out for the evening. | tensor([ 8.2685, -2.2364, -1.5813, -2.0017, -0.7700, -1.1497, -2.3946, -0.8054])
 I was so glad they were paying cause   | tensor([ 8.7382, -2.0622, -2.0955, -2.8027, -0.3579, -2.1266, -1.5188, -0.7849])
 I was low on funds at the time.\n\nWe arrived on a friday night and of course it was busy there. | tensor([ 8.5461, -2.2272, -2.3039, -2.3313, -0.5207, -1.8350, -1.4736, -0.8144])
@@ -3801,8 +3758,7 @@ but they just seem to bore me now(FYI-love the lettuce wraps at the cheesecake f
 I had the Singapore rice noodles. | tensor([ 3.3797, -2.8676,  1.6370, -2.7513, -0.7288,  3.1953, -2.6892,  0.1330])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 This was so so as i thought immediately that lu lu noodles and asian cafe are better.   | tensor([ 2.1532, -2.2587, -0.8174, -2.2246, -0.1961,  6.8732, -2.7615, -1.3825])
-The fried rice was disappointing and the vegetables tasted raw.    | tensor([ 4.0858e-03, -5.0761e-01, -1.4895e+00,  6.6012e+00, -1.9454e-01,
-         2.8369e-01, -2.2415e+00, -1.8112e+00])
+The fried rice was disappointing and the vegetables tasted raw.    | tensor([ 4.0858e-03, -5.0761e-01, -1.4895e+00,  6.6012e+00, -1.9454e-01,         2.8369e-01, -2.2415e+00, -1.8112e+00])
 Some good notes were the Dynamite shrimp, plump, juicy, tangy with a small kick. | tensor([ 0.8768,  1.4704, -3.1184, -1.9042,  6.2451, -0.3425, -2.1008, -0.1728])
    Sweet and sour chicken was just the same minus the kick. | tensor([ 8.0838, -2.1137, -2.7048, -3.1677,  0.5184, -1.2745, -2.3242,  0.3553])
 \n\nThe service was annoying. | tensor([ 8.4425, -1.8419, -2.3541, -1.5462, -0.7024, -2.1884, -2.0157, -0.5472])
@@ -3849,8 +3805,7 @@ Definitely not!\n\nIt was 45 min from closing time when we (party of 6) rushed i
 We sampled everything from the the Szechuan shrimp to the Mongolian beef to the Dan Dan Noodles. | tensor([ 2.8834, -3.2802,  1.7552, -2.5733, -0.6402,  3.7190, -2.1568, -1.0795])
 Good flavors, nothing that stepped out in the crowd.\n\nI don't come here all that often but when I do, I invariably leave feeling satisfied and full. | tensor([ 7.8793, -1.6193, -2.8474, -2.2530,  0.7872, -0.5761, -2.3418, -1.1984])
 So I have never been to P.F. Chang's before since I'm Chinese | tensor([ 1.9670, -2.2928,  0.4104, -2.2693, -1.4063,  6.3372, -2.6478, -1.1102])
-and I'm not a huge fan of eating at Chinese/American restaurants when I can eat delicious authentic Chinese food at home (courtesy of my momma). | tensor([ 1.2158e+00, -1.9353e+00,  1.1279e-03, -2.1596e+00, -8.5492e-01,
-         7.3118e+00, -2.4715e+00, -1.5195e+00])
+and I'm not a huge fan of eating at Chinese/American restaurants when I can eat delicious authentic Chinese food at home (courtesy of my momma). | tensor([ 1.2158e+00, -1.9353e+00,  1.1279e-03, -2.1596e+00, -8.5492e-01,         7.3118e+00, -2.4715e+00, -1.5195e+00])
 My boyfriend and I were at Dave & Busters and weren't in the mood for American food, which was what we were all surrounded by | tensor([ 7.8796, -0.3878, -2.3882, -2.2181, -1.2801, -1.7724, -2.7420,  0.5688])
 so I decided to give P.F. Chang's a try. | tensor([ 8.3332, -1.8246, -2.4767, -1.9208, -0.9773, -1.9082, -1.6513, -0.1702])
 \n\nWe came on a Saturday night without reservations, so we had to wait 45min :( | tensor([ 8.2032, -2.1138, -2.4123, -2.6990,  0.3011, -1.5098, -1.9734, -0.7476])
@@ -4121,8 +4076,7 @@ I'm not rating it. | tensor([ 8.6675, -2.2920, -2.1572, -2.5272, -0.2765, -2.065
 It started well enough when we ordered lunch, but ended horribly when my daughter said we should get a treat for my husband. | tensor([ 3.2615, -1.4542, -2.7164, -3.0287,  7.3160, -1.9002, -2.4510,  0.6645])
 \n\nBetween being ignored by the girl at the counter, her not listening to the order, then arguing with me when I told her I did not ask for what she brought me, I really can't decide which is worse. | tensor([ 8.5059, -1.9392, -2.6260, -2.0105,  0.3167, -2.3907, -1.9465, -0.5341])
 I rather spend my money somewhere local where they appreciate my business, rather than take attitude from Panera employees. | tensor([ 8.5873, -2.1465, -1.7977, -2.6503, -1.1159, -1.7716, -0.9686, -1.1865])
-It was my first time here. | tensor([ 8.3777e+00, -1.9821e+00, -1.9196e+00, -3.0390e+00, -4.3515e-01,
-        -1.2188e+00, -2.4267e+00,  2.2577e-03])
+It was my first time here. | tensor([ 8.3777e+00, -1.9821e+00, -1.9196e+00, -3.0390e+00, -4.3515e-01,        -1.2188e+00, -2.4267e+00,  2.2577e-03])
  Was recommended by my coworker.   | tensor([ 8.5045, -2.1831, -2.3584, -2.4577,  0.1450, -2.1010, -2.0482, -0.3341])
 However, I was a little unsure as I've read some bad reviews about this place.\n\nThe first visit was great. | tensor([ 8.6816, -1.9100, -1.6942, -2.0811, -1.0452, -2.3359, -1.9642, -0.3592])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -4294,8 +4248,7 @@ Eat n Park is usually decent. | tensor([ 7.3168,  0.5507, -2.7166, -1.7574, -1.6
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 This location though has HORRIBLY SLOW service. | tensor([ 8.4764, -2.5434, -1.3840, -2.5784, -0.7670, -1.7654, -1.8159, -0.6702])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Seriously, we never wait less than 10 minutes for a server to acknowledge us, and we live near the Waterfront, so we've given this location the benefit of the doubt numerous times. | tensor([ 8.4922e+00, -2.2569e+00, -2.3267e+00, -2.4530e+00, -7.6704e-01,
-        -2.0154e+00, -1.4945e+00, -3.5429e-03])
+Seriously, we never wait less than 10 minutes for a server to acknowledge us, and we live near the Waterfront, so we've given this location the benefit of the doubt numerous times. | tensor([ 8.4922e+00, -2.2569e+00, -2.3267e+00, -2.4530e+00, -7.6704e-01,        -2.0154e+00, -1.4945e+00, -3.5429e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Each time hoping that the last was just a fluke, new staff, or something. | tensor([ 8.5694, -2.0231, -2.1884, -2.4316, -0.7234, -1.7076, -1.2810, -1.0336])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -4345,8 +4298,7 @@ All that to say, I consider shopping here a waste of time since I could just dri
 Sorry, Marshalls, but you're just OK to me. | tensor([ 8.5985, -2.4573, -2.0587, -1.8259, -0.3741, -2.3657, -1.4575, -1.0536])
 A very nice meal in a very nice restaurant\n\nPROS:\nVery good food\ninteresting choices--not your typical red lobster crap\nGreat service\nVery clean (restrooms, included)\n\nCONS:\nn/ | tensor([ 8.3850, -2.3353, -2.5819, -1.6808, -0.3685, -2.0850, -1.4952, -0.8557])
 Got lunch from here today. | tensor([ 8.6382, -2.1264, -2.2170, -2.8271, -0.0976, -1.5879, -1.9647, -0.8012])
-\n\nWhat I sampled: \nMaine | tensor([ 8.4399e+00, -2.2055e+00, -2.5399e+00, -2.7357e+00, -6.2083e-03,
-        -1.6936e+00, -1.4804e+00, -3.3012e-01])
+\n\nWhat I sampled: \nMaine | tensor([ 8.4399e+00, -2.2055e+00, -2.5399e+00, -2.7357e+00, -6.2083e-03,        -1.6936e+00, -1.4804e+00, -3.3012e-01])
 Lobster Bisque (delicious and the whole reason for getting lunch from here)\nCheeseburger (decent version I only ate about half, but I expect the other half won't last long)\n\nOverall I enjoy going here, though it is a bit overpriced, but sometimes I am just in the mood for that lobster bisque! | tensor([ 8.2508, -1.3097, -2.0996, -1.3139, -1.2418, -1.5312, -1.6294, -1.3768])
 Service was slow, but that was because one of our party insisted that the bartender, her favorite server, serve us in our private room for a party of 8.   | tensor([ 8.4058, -2.0869, -2.5300, -2.6435,  0.4411, -2.2085, -1.6604, -0.5084])
 The food and drinks were good and we woud return. | tensor([ 8.5645, -2.7272, -1.5420, -2.5610, -0.5508, -1.8117, -1.4951, -1.0930])
@@ -4406,8 +4358,7 @@ Potato skin had grit in the mashed. | tensor([ 7.8184, -1.7145, -2.1862, -3.5423
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Why 1 star? | tensor([ 8.6179, -2.4067, -2.0059, -2.3094, -0.1826, -2.2906, -1.5209, -0.9605])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-The price was close to Capital Grille, but far from the cuisine. | tensor([ 8.3354e+00, -2.2115e+00, -2.1659e+00, -2.4586e+00, -5.4790e-04,
-        -1.1373e+00, -1.7406e+00, -1.4150e+00])
+The price was close to Capital Grille, but far from the cuisine. | tensor([ 8.3354e+00, -2.2115e+00, -2.1659e+00, -2.4586e+00, -5.4790e-04,        -1.1373e+00, -1.7406e+00, -1.4150e+00])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I hope they spruce it up. | tensor([ 8.6223, -2.0050, -1.7819, -2.8648, -0.8221, -1.6240, -1.8720, -0.5069])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -4550,8 +4501,7 @@ But it was way over the top and felt more like,   | tensor([ 8.6534, -1.8958, -2
 Can I have a tip? | tensor([ 8.4742, -2.0990, -2.5364, -2.7985,  0.3294, -1.8739, -1.7936, -0.5719])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Can I have a tip? | tensor([ 8.4742, -2.0990, -2.5364, -2.7985,  0.3294, -1.8739, -1.7936, -0.5719])
-In the Homestead area of Pittsburgh. | tensor([ 8.3468e+00, -2.3890e+00, -2.1926e+00, -3.3283e+00, -7.2480e-03,
-        -7.2844e-01, -1.9131e+00, -4.7958e-01])
+In the Homestead area of Pittsburgh. | tensor([ 8.3468e+00, -2.3890e+00, -2.1926e+00, -3.3283e+00, -7.2480e-03,        -7.2844e-01, -1.9131e+00, -4.7958e-01])
 Seafood gumbo was very good.\nBroiled scallops were very good, partner had sea bass stuffed with lobster, also very good. | tensor([ 1.1238, -1.7076,  0.4996, -1.8506, -3.3420,  7.5193, -0.8556, -1.6041])
 Vegetable sides were not as good as the fish. | tensor([ 0.4068, -0.3860, -2.3318,  7.9681, -0.6152, -1.6856, -2.0286, -1.0856])
 With two glasses of wine the total was $83. | tensor([ 8.5655, -2.4280, -2.0949, -2.7135, -0.2011, -1.7635, -1.7066, -0.6746])
@@ -4638,8 +4588,7 @@ I'm kind of shy when I know that I don't really know what I'm doing, but I wasn'
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Even though my price range was pretty low, they still tried their hardest to find a bike that suited my needs, and they found a bike that fitted me perfectly (and gave me an *excellent* deal on the price). | tensor([ 8.5497, -1.3597, -2.3332, -2.4052, -0.6917, -1.9157, -2.1291, -0.4966])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-They take a lot of care to make sure you're properly fitted to the bike.\n\nAlso, this is one of the few bike stores I've been to where test riding is gleefully encouraged, rather than grudgingly allowed. | tensor([ 8.0370e+00, -6.7021e-01, -2.6637e+00, -1.2170e+00, -1.2076e+00,
-        -2.3191e+00, -2.3822e+00, -5.7354e-04])
+They take a lot of care to make sure you're properly fitted to the bike.\n\nAlso, this is one of the few bike stores I've been to where test riding is gleefully encouraged, rather than grudgingly allowed. | tensor([ 8.0370e+00, -6.7021e-01, -2.6637e+00, -1.2170e+00, -1.2076e+00,        -2.3191e+00, -2.3822e+00, -5.7354e-04])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Definitely it's the only bike store where they'll tell you \"You haven't tried it out enough, go climb up the hill on  it!\" -- they definitely put the emphasis on matching rider with bike, rather than making a quick sale.\n\nI would definitely recommend this place to anyone who's looking for a road bike, whether they're a seasoned racer or a neophyte rider like me. | tensor([ 4.5331,  1.2421, -2.9220,  2.3074, -2.2226, -2.4201,  0.7971, -2.1269])
 I've had mixed results here. | tensor([ 8.5806, -2.4097, -1.9404, -2.7336, -0.5713, -1.3435, -1.6576, -0.8198])
@@ -4650,8 +4599,7 @@ I think the days of simply bringing your bike in for a quick and relatively inex
 In their defense BBB does appear to carry some amazing brands of bike (ie Colnago) that you just don't find anywhere else in Pittsburgh. | tensor([ 8.5490, -2.5690, -2.0042, -2.0698, -0.8284, -1.9550, -1.1258, -0.8524])
 BBB I was charged $250 for a tune up and a few other things. | tensor([ 8.4852, -2.4788, -2.0488, -2.1069, -0.2190, -2.5705, -1.0868, -0.9935])
 Granted this included installing a sew up tire (which I can understand would cost approx $50), Swapping out a left side (big ring) shifter on my down tube (this should have cost approx. | tensor([ 8.2007, -1.2931, -2.7573, -2.6494,  0.1747, -2.0130, -1.6208, -0.8069])
-$20 at most) and installing new bar tape (cost of tape $20 and $20 to install?).. | tensor([ 1.0137e+00, -3.6479e+00, -4.3426e-01, -7.5345e-01, -1.8898e+00,
-         5.1228e+00,  4.2970e-03, -3.8415e-01])
+$20 at most) and installing new bar tape (cost of tape $20 and $20 to install?).. | tensor([ 1.0137e+00, -3.6479e+00, -4.3426e-01, -7.5345e-01, -1.8898e+00,         5.1228e+00,  4.2970e-03, -3.8415e-01])
 SO WHAT\"S WITH $140 FOR A TUNE UP? | tensor([ 6.3275, -1.7378, -1.9337, -1.2216,  0.6962, -0.0875, -1.8868, -1.6065])
 Well the story goes like this:\n\nI bring the bike into BBB prior to the nice weather hitting Pittsburgh in hopes of trying what people have said is a great bike shop and getting my OCLV TREK 5900 ready for the season. | tensor([ 8.4143, -1.7452, -2.2893, -1.9929, -0.8579, -2.5474, -1.2259, -0.3404])
 Turns out I don't hear from these guys. | tensor([ 8.6961, -2.1083, -2.2375, -2.5864, -0.0762, -2.0707, -1.8363, -0.6504])
@@ -4659,13 +4607,11 @@ A week goes by ...two weeks... | tensor([ 6.6623, -2.1590, -0.2509, -2.0976, -0.
 I think that's ok | tensor([ 8.7261, -2.3867, -1.9120, -2.6021, -0.1384, -1.7787, -2.0417, -0.8207])
 I have two or three other bike I can turn to for a ride. | tensor([ 8.5686, -2.0929, -2.2724, -1.6948, -0.4599, -2.0645, -2.0876, -0.7427])
 Then I wind up going out of town for a week thinking for sure I'll get a call from them re: my bike is ready to roll...but no dice. | tensor([ 8.6616, -2.0639, -2.1146, -2.0184, -0.5355, -2.5323, -1.4030, -1.0082])
-So I call. | tensor([ 8.5253e+00, -2.4796e+00, -2.3108e+00, -2.6741e+00,  4.4822e-03,
-        -1.5981e+00, -1.7799e+00, -6.0406e-01])
+So I call. | tensor([ 8.5253e+00, -2.4796e+00, -2.3108e+00, -2.6741e+00,  4.4822e-03,        -1.5981e+00, -1.7799e+00, -6.0406e-01])
 Turns out a screw snapped when the mechanic was re-installing the down tube shifter and it had to be tapped out (is that my fault?). | tensor([ 8.4153, -1.4204, -2.7032, -2.4293, -0.3940, -2.5333, -1.1919, -0.3077])
 He says \"Should be ready in a few days\". | tensor([ 8.3136, -2.5729, -1.2482, -2.1345, -0.9136, -1.4299, -2.2583, -0.6847])
 So I come in a few days later to this mammoth bill. | tensor([ 8.5411, -2.3803, -1.9298, -2.8539, -0.6160, -1.7067, -1.0516, -1.1278])
-I ask if I am paying for the labor of taping out the screw? | tensor([ 8.3125e+00, -1.7616e+00, -2.4150e+00, -2.7728e+00, -9.8302e-02,
-        -1.8291e+00, -2.0224e+00,  3.3515e-03])
+I ask if I am paying for the labor of taping out the screw? | tensor([ 8.3125e+00, -1.7616e+00, -2.4150e+00, -2.7728e+00, -9.8302e-02,        -1.8291e+00, -2.0224e+00,  3.3515e-03])
 I don't think I ever got a straight answer? | tensor([ 8.4554, -1.9095, -2.1433, -2.3751, -0.1212, -2.3942, -2.0760,  0.0241])
 I look at the bill and can't see a good breakdown of the charges. | tensor([ 7.2607, -2.2687, -1.6193, -2.9347, -0.7820, -1.8084, -0.0582, -0.5512])
 Normally I would \"duke it over\" a bill like this | tensor([ 7.8697, -2.8080, -1.7160, -2.4074, -0.9627, -1.8521,  0.4102, -1.7702])
@@ -5016,8 +4962,7 @@ If you have any common sense at all, please don't stay here. | tensor([ 8.4124, 
 Once, it almost burnt down...and I'm pretty sure most of the locals were chanting \"burn, baby, burn.\" | tensor([ 1.8991, -0.5780,  0.2324, -2.4535, -4.1678,  1.2139, -0.0391,  3.5127])
 Horrifying.   | tensor([ 8.3359, -2.4961, -2.1748, -2.3816, -0.0180, -1.9157, -1.9297, -0.0597])
 This place should be ashamed of itself. | tensor([ 8.6001, -2.2695, -1.7828, -2.2973, -0.8230, -2.2027, -1.2947, -1.0331])
- DO NOT STAY HERE. | tensor([ 7.7943e+00, -2.4915e+00, -2.1683e+00, -2.5842e+00, -1.6500e-03,
-        -2.4796e-01, -1.7735e+00, -1.2817e+00])
+ DO NOT STAY HERE. | tensor([ 7.7943e+00, -2.4915e+00, -2.1683e+00, -2.5842e+00, -1.6500e-03,        -2.4796e-01, -1.7735e+00, -1.2817e+00])
  Beyond dirty, just absolutely rank. | tensor([ 8.3917, -2.4701, -2.2337, -3.2803, -0.2414, -0.4067, -1.6178, -1.1077])
 came back to Pittsburgh for a wedding and couldn't find anything in my price range close to the city until i found this motel... | tensor([ 7.9982, -1.3725, -2.3990, -3.0935, -0.4549, -1.7625, -2.6256,  1.3698])
 it was very affordable....room was okay...cable tv and a/c worked fine.... | tensor([ 8.5687, -1.8371, -2.3427, -2.3671, -0.6978, -1.8781, -1.7512, -0.5276])
@@ -5181,8 +5126,7 @@ But the pastries I got were very good. | tensor([ 7.3905, -2.0610, -2.9683, -2.5
 I'd recommend checking it out. | tensor([ 8.4330, -2.0684, -1.9609, -2.5738, -0.7145, -1.4521, -2.0453, -0.2880])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I know if I'm ever in the neighborhood I will stop in for a treat myself. | tensor([ 8.5335, -1.8106, -1.9073, -2.2637, -1.2840, -1.7594, -2.0076, -0.1603])
-Cookies aren't bad. | tensor([ 2.0997e+00, -5.5266e-01, -2.4340e+00, -2.7755e+00,  7.4104e+00,
-        -9.6239e-01, -2.9687e+00,  5.7497e-03])
+Cookies aren't bad. | tensor([ 2.0997e+00, -5.5266e-01, -2.4340e+00, -2.7755e+00,  7.4104e+00,        -9.6239e-01, -2.9687e+00,  5.7497e-03])
  Haven't had a reason to buy cakes or other pastries. | tensor([ 7.9379, -2.4326, -1.6180, -1.7949, -0.3132, -2.2018, -1.8265, -0.8274])
  Staff is friendly and it smells like heaven. | tensor([ 8.6803, -2.1298, -2.1557, -2.5745, -0.4028, -1.6363, -1.7414, -0.8452])
 Lincoln Bakery makes very delicious donuts, pastries, and desserts. | tensor([ 8.1508, -2.2579, -2.0595, -1.7980, -0.6687, -1.9303, -2.3510,  0.0509])
@@ -5207,8 +5151,7 @@ This place is pretty large, and relatively clean, with a nice parking lot. | ten
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The racks are packed with clothes - and I mean, hard to move the hangers because there is so much stock, which can be a pro or a con depending on how you like it. | tensor([ 8.2939, -1.8931, -2.2300, -2.7432, -0.6416, -1.8780, -1.8816,  0.0962])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I found it a bit cumbersome since although the clothes are organized by type (dress vs. blouse) there is NO size separation. | tensor([ 7.3457e+00,  2.9012e-03, -2.3592e+00, -3.2245e+00, -2.5441e-01,
-        -1.6642e-01, -2.5685e+00, -2.1730e-01])
+I found it a bit cumbersome since although the clothes are organized by type (dress vs. blouse) there is NO size separation. | tensor([ 7.3457e+00,  2.9012e-03, -2.3592e+00, -3.2245e+00, -2.5441e-01,        -1.6642e-01, -2.5685e+00, -2.1730e-01])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 In a place this huge, it takes quite a long time to find what you're looking for without the size separation.   | tensor([ 6.1430,  2.4856, -1.7031, -1.6744, -1.6396, -1.7152, -2.8163,  0.0857])
 But, I'm not one to abandon a bargain because I don't want to look around (after all, that is what its all about), so I gave a good 30 min-45 and got a handful of garments to try on. | tensor([ 4.7468, -1.2470, -2.8450, -2.6082,  4.9696, -1.2421, -2.9185,  0.4299])
@@ -5457,8 +5400,7 @@ We were lucky that we went fairly early as a line developed shortly after we wer
 The Rusty Nail is prepared for this in a pretty cool way though as they have a list outside of the restaurant that you can sign into as well as some coffee to partake of while you wait.\n\nFor my entree | tensor([ 8.6110, -2.0002, -2.2470, -2.4895, -0.1406, -2.2578, -1.7035, -0.6698])
 I decided to go with one of the specials for the day which was the Rusty Nail omelet while my girlfriend decided on another special which was the a mushroom, spinach and feta junior omelet. | tensor([ 3.1292,  2.5421, -3.1785, -2.7119,  2.8142, -1.3311, -2.6558,  1.7706])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Her omelet is self explanatory while mine had in it some salami, cheese and three pieces of sliced pepperoni on top of it. | tensor([ 7.2244e+00, -2.1327e+00, -1.7095e+00, -2.4370e+00,  7.8533e-01,
-        -9.7651e-01, -2.9738e+00, -2.9761e-03])
+Her omelet is self explanatory while mine had in it some salami, cheese and three pieces of sliced pepperoni on top of it. | tensor([ 7.2244e+00, -2.1327e+00, -1.7095e+00, -2.4370e+00,  7.8533e-01,        -9.7651e-01, -2.9738e+00, -2.9761e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 It was readily apparent that the pepperoni was not the cheap kind that you get on most pizzas as it had more flavoring and tasted much better. | tensor([ 8.3514, -1.4640, -2.4514, -2.3974, -0.4362, -1.3496, -2.2435, -0.7106])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -5482,8 +5424,7 @@ And indeed, all IS fine.\n\nSo few of our local 'diners' are up to snuff when it
 It's a neighborhood family restaurant. | tensor([ 3.1614, -0.4873, -2.6084, -3.7955, -0.4830,  2.5449, -0.9306,  1.1365])
 Period.\n\nBurgers, meatloaf, pot roast, fish sammiches, salads, pastas...a varied but adequate menu. | tensor([ 6.6780, -1.9804, -2.6899, -2.1018,  1.9276, -0.4041, -2.2427, -1.6808])
 Fair and decent prices. | tensor([ 8.3965, -2.0920, -2.2855, -2.8677, -0.4267, -1.0389, -1.8668, -0.7948])
-Friendly and attentive service. | tensor([ 8.3115e+00, -2.3335e+00, -2.1653e+00, -2.2816e+00,  4.0711e-03,
-        -1.7995e+00, -2.0060e+00, -6.1284e-01])
+Friendly and attentive service. | tensor([ 8.3115e+00, -2.3335e+00, -2.1653e+00, -2.2816e+00,  4.0711e-03,        -1.7995e+00, -2.0060e+00, -6.1284e-01])
 A cozy enough atmosphere (although I have to say AGAIN in a review of a restaurant, if you've got multiple TVs in the space, for gods sake, can ONE of them NOT be showing SPORTS coverage??) and a pleasant crowd of patrons. | tensor([ 8.4792, -2.0715, -2.4970, -1.8789, -0.6508, -2.0228, -1.6482, -0.5434])
 \n\nDuring my last visit, there was a large family gathering at the next table. | tensor([ 8.2259, -1.1929, -1.9476, -2.6323, -1.2433, -2.3805, -2.1775,  0.7891])
 A nicely polished middle-class clan, ranging in age from gramps to granddaughter. | tensor([ 8.4403, -2.3307, -2.1381, -3.1935, -0.5231, -1.1329, -1.1066, -1.2862])
@@ -5543,8 +5484,7 @@ It is next to impossible to find anyone who can actually fix that type of clock 
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 They were so accommodating and really really helped me out during a hard time. | tensor([ 8.3651, -1.2448, -2.2982, -1.7414, -1.1894, -2.2298, -2.2944,  0.1799])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Much thanks to Lisa for spending the time to teach my about the clock & how to take care of it and her dad for fixing it up!   | tensor([ 8.5412e+00, -1.3151e+00, -2.3717e+00, -2.5133e+00, -9.6688e-02,
-        -2.1282e+00, -2.4574e+00,  2.7193e-03])
+Much thanks to Lisa for spending the time to teach my about the clock & how to take care of it and her dad for fixing it up!   | tensor([ 8.5412e+00, -1.3151e+00, -2.3717e+00, -2.5133e+00, -9.6688e-02,        -2.1282e+00, -2.4574e+00,  2.7193e-03])
 My Atmos clock is now working great and looks wonderful on my mantle! | tensor([ 8.1024, -1.8239, -0.6676, -2.0942, -1.7330, -1.4856, -1.9370, -0.8581])
 Good selection, but it will cost you.\nMultiple fridges of cold beer, but only the cheap beer is cold.\nNice in person, but rude on the phone.\nParking lot, but none of the customers understand how to park.\n\nEvery good thing about this place is equaled with a bad thing about this place - hence it probably deserves 3 stars. | tensor([ 8.5542, -2.2068, -2.4930, -1.9507, -0.2729, -2.0054, -1.5165, -0.8772])
 I would really give it a 3.5 if available as this is currently my beer distributor of choice, but since its not possible I have to go with 4.\n\nWhy 4 you ask, when I just went through all that 3 star crap? | tensor([ 8.6747, -1.9555, -2.2646, -2.2367, -0.4364, -2.3249, -1.8226, -0.5424])
@@ -5572,13 +5512,10 @@ I'm sure they have some nice stuff, but we just got a case of beer (I think one 
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Anyway, we had a good experience with this place and don't really have anything bad to say about them. | tensor([ 8.6940, -1.9777, -1.6992, -2.3050, -1.2364, -1.1941, -1.9410, -1.0056])
 Animal Elegance is not much on the outside but the owner was very nice & LISTENED to how I wanted my teacup poodle groomed and used the products that I requested.\nI was very happy with my services and I will return. | tensor([ 8.5836, -1.7764, -2.3967, -2.3483, -0.4819, -1.8427, -1.7067, -0.7963])
-My poodles groom was $50,including tip, which I think is very reasonable. | tensor([ 8.4543e+00, -1.8987e+00, -2.3884e+00, -2.7399e+00, -7.0851e-03,
-        -1.7982e+00, -1.9091e+00, -6.2115e-01])
+My poodles groom was $50,including tip, which I think is very reasonable. | tensor([ 8.4543e+00, -1.8987e+00, -2.3884e+00, -2.7399e+00, -7.0851e-03,        -1.7982e+00, -1.9091e+00, -6.2115e-01])
 I had a very unfortunate experience with this groomer. | tensor([ 8.5354, -1.9311, -2.4176, -2.9606,  0.1860, -1.7548, -1.9215, -0.5967])
-My dog  was not groomed to my specifications; infact she was butchered. | tensor([ 8.5964e+00, -1.7669e+00, -2.4858e+00, -2.7433e+00,  7.9255e-03,
-        -2.3392e+00, -1.8011e+00, -3.1367e-01])
-I went to the trouble of taking a photo of my dog with  the haircut that I wanted, as well as speaking with the woman who assured me she would be grooming my dog. | tensor([ 8.5459e+00, -1.5789e+00, -2.5442e+00, -2.8442e+00, -5.0730e-03,
-        -2.0746e+00, -2.0229e+00, -3.0227e-01])
+My dog  was not groomed to my specifications; infact she was butchered. | tensor([ 8.5964e+00, -1.7669e+00, -2.4858e+00, -2.7433e+00,  7.9255e-03,        -2.3392e+00, -1.8011e+00, -3.1367e-01])
+I went to the trouble of taking a photo of my dog with  the haircut that I wanted, as well as speaking with the woman who assured me she would be grooming my dog. | tensor([ 8.5459e+00, -1.5789e+00, -2.5442e+00, -2.8442e+00, -5.0730e-03,        -2.0746e+00, -2.0229e+00, -3.0227e-01])
 The owner groomed my dog, not the woman that I spoke with and she looked nothing like my dog when I picked her up. | tensor([ 8.2514, -1.4865, -2.8952, -3.1945,  1.5803, -2.2032, -2.2318, -0.1418])
 The owner was rude and did not even apologize for the horrible service. | tensor([ 8.5450, -2.2916, -2.1095, -2.5969, -0.1199, -2.0120, -1.1990, -1.0990])
 Do not take your dog there to be groomed! | tensor([ 8.3783, -1.4035, -2.3930, -2.9158, -0.0532, -1.6689, -2.1255, -0.5741])
@@ -5676,8 +5613,7 @@ I have had lunch at Pinos's several times probably at least 5 times. | tensor([ 
 Usually I am there  for a business lunch when I am in the area. | tensor([ 7.4049, -1.5532, -2.8979, -3.2633,  0.3441,  0.7900, -2.5795, -0.1701])
 I find that we are well served, not rushed and the noise level is not too loud at lunch We have several times asked the Chef to make us some special version of his menu and we are always accommodated. | tensor([ 5.1376,  0.8639, -2.2100,  1.4697, -0.1691, -2.3499, -1.7945, -1.8638])
 To me this is excellent service. | tensor([ 8.4619, -2.4783, -1.9652, -2.6544, -0.2135, -1.2543, -1.8249, -0.9974])
-Makes you feel like coming back.\nI would have to admit that I usually order the garlic fries which are really great. | tensor([ 7.7515e+00, -1.6947e+00, -2.5300e+00, -1.7696e+00,  3.7919e-03,
-        -2.0091e+00, -2.0365e+00, -2.9931e-01])
+Makes you feel like coming back.\nI would have to admit that I usually order the garlic fries which are really great. | tensor([ 7.7515e+00, -1.6947e+00, -2.5300e+00, -1.7696e+00,  3.7919e-03,        -2.0091e+00, -2.0365e+00, -2.9931e-01])
 I do this if I am not going back to the office or out to meet a client.\nNormally | tensor([ 8.6283, -2.1784, -2.5052, -2.5286,  0.2867, -2.2081, -1.4411, -0.6995])
 I would add a soup of the day which are always nice, and a sandwich of the day. | tensor([ 7.9180, -0.5552, -2.4386, -1.5615, -1.2169, -1.4202, -2.4405, -0.2860])
 \nI have never been disappointed and certainly would continue to conduct business lunches here. | tensor([ 8.4268, -2.6609, -1.8665, -1.9818, -0.5811, -1.8542, -1.0871, -1.4957])
@@ -5719,8 +5655,7 @@ The tacos were a bit sloppy/wet but had some nice flavors (cilantro, aoili and p
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 My mac n cheese came out in its own little cast iron type pot and was good. | tensor([ 8.4930, -1.4652, -2.5165, -2.4734, -0.2344, -1.7985, -2.3488, -0.3056])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-There was an adequate amount of cheese throughout | tensor([ 8.5111e+00, -1.7163e+00, -2.2763e+00, -2.3746e+00,  8.2025e-04,
-        -2.1261e+00, -2.1948e+00, -6.4790e-01])
+There was an adequate amount of cheese throughout | tensor([ 8.5111e+00, -1.7163e+00, -2.2763e+00, -2.3746e+00,  8.2025e-04,        -2.1261e+00, -2.1948e+00, -6.4790e-01])
 and I liked that they even had some ricotta buried inside the dish. | tensor([ 3.4276, -2.5859, -0.2797, -2.4659, -0.0235,  5.0040, -2.3938, -1.4556])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I was also able to try the Arrabbita that one of our dining companions had ordered. | tensor([ 7.6348, -2.7905, -1.0799, -2.0630, -0.9333, -0.8267, -1.8877, -0.3673])
@@ -5824,8 +5759,7 @@ All of it was overpriced and below mediocre. | tensor([ 8.4279, -1.6657, -2.2438
 I wasted my money, and I will never, ever go back there. | tensor([ 8.6063, -2.2146, -2.0978, -2.8570, -0.3699, -1.7311, -1.5022, -0.7553])
 I went to Pino's recently, only to be disappointed by the owner himself. | tensor([ 8.5422, -1.8504, -2.1338, -1.7317, -1.0001, -2.1457, -1.8664, -0.3279])
 I guess I should have read the reviews on here before going, seeing as a lot of people echo the sentiments that | tensor([ 8.6845, -2.0522, -2.2518, -2.1209, -0.7559, -2.3148, -1.1049, -0.8969])
-I feel.\n\nAfter my mother sent back her extremely oversalted steak, the chef came out to \"apologize\". | tensor([ 8.4254e+00, -1.9191e+00, -2.5811e+00, -2.3959e+00, -2.7719e-03,
-        -2.2594e+00, -1.7965e+00, -1.9517e-01])
+I feel.\n\nAfter my mother sent back her extremely oversalted steak, the chef came out to \"apologize\". | tensor([ 8.4254e+00, -1.9191e+00, -2.5811e+00, -2.3959e+00, -2.7719e-03,        -2.2594e+00, -1.7965e+00, -1.9517e-01])
 It was very embarrassing how he chastised her for not enjoying her meal. | tensor([ 8.5608, -1.9839, -2.4065, -2.4148,  0.3634, -2.4864, -1.9703, -0.4165])
 He then snidely commented, as walking away, that he would \"never salt his steak again\". | tensor([ 8.2500, -2.4382, -1.8488, -1.7691, -0.7716, -1.6480, -1.0414, -1.5698])
 I don't really take kindly to people speaking so rudely to my mother. | tensor([ 8.3990, -1.1739, -2.3983, -2.5356, -0.5098, -2.2847, -2.3635,  0.2068])
@@ -5860,12 +5794,10 @@ He kept  loudly requesting a credit card  and the women did not have one. | tens
   Another customer provided them with change as the chef crumbled the check. | tensor([ 4.6564, -1.2411, -1.9150, -0.8776,  2.4567, -1.6880, -0.8319, -2.5971])
 I think I would have just left and not paid....give the lady great for dealing with such a lunatic.\n\nLong story short.... | tensor([ 8.5838, -1.9176, -2.4629, -2.3071, -0.0685, -2.4560, -1.4053, -0.7673])
 if you want to eat below average food and watch a chef loose it.... | tensor([ 7.9384, -1.2366, -2.7726, -1.7217,  0.0803, -1.9103, -1.8444, -1.0052])
-this is your place! | tensor([ 8.4490e+00, -2.6117e+00, -1.8146e+00, -2.8785e+00,  1.7745e-03,
-        -1.4045e+00, -1.4372e+00, -1.4663e+00])
+this is your place! | tensor([ 8.4490e+00, -2.6117e+00, -1.8146e+00, -2.8785e+00,  1.7745e-03,        -1.4045e+00, -1.4372e+00, -1.4663e+00])
 This was the place I brought friends visiting from out of town when I wanted to show them the classy Italian  spots in Pittsburgh. | tensor([ 0.6390, -2.8090,  3.1732, -2.5014, -2.9441,  6.1818, -1.3334, -1.3941])
 After my visit last night, I have no desire to ever go again. | tensor([ 8.6792, -2.3768, -1.7141, -2.2255, -0.8818, -2.0454, -1.8512, -0.6721])
-\n\nI don't know the owner, Joe, personally but he has stopped by our table a few times and said \"dish looks beautiful.\" He was always confident in his food which I guess is a good thing if the good is delicious,  which it usually is  \n\nThe table next to ours had a two women, a mother and daughter. | tensor([ 7.4383e+00, -4.9641e-01, -2.2002e+00, -2.5070e+00, -7.7400e-01,
-        -6.2595e-01, -2.7363e+00,  3.1532e-03])
+\n\nI don't know the owner, Joe, personally but he has stopped by our table a few times and said \"dish looks beautiful.\" He was always confident in his food which I guess is a good thing if the good is delicious,  which it usually is  \n\nThe table next to ours had a two women, a mother and daughter. | tensor([ 7.4383e+00, -4.9641e-01, -2.2002e+00, -2.5070e+00, -7.7400e-01,        -6.2595e-01, -2.7363e+00,  3.1532e-03])
 The mother asked the server for a new steak as hers was a bit salty (I've never had the steak as I'm vegetarian but my guests have mentioned the abundance of salt). | tensor([ 8.1341, -1.8492, -1.8876, -2.4321, -0.9133, -0.9563, -2.1733, -0.6109])
 The server apologizes and returns to the kitchen. | tensor([ 0.6658, -2.8281, -1.3909, -1.7090,  7.3221, -1.4558, -1.1972, -0.5217])
 The owner comes out and fakes an apology claiming his steaks are perfect. | tensor([ 8.3804, -2.3874, -2.2691, -3.0316, -0.1174, -0.6842, -1.5295, -1.1911])
@@ -5936,8 +5868,7 @@ Parts of this store are diagonal and that causes you to go in every direction po
 Here is a quick summary of the setup as it can be classified as a maze:\n\n1.) | tensor([ 8.2469, -2.2389, -2.2852, -1.5767, -0.1316, -2.0748, -1.6121, -0.7966])
 When you enter the store through the slow wide door, you go to the left and walk past the front registers to produce. | tensor([-0.7893,  2.5293, -2.4970, -0.2445, -0.3800,  2.8805,  1.2701, -0.9176])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Normal enough.\n\n2.) | tensor([ 8.4285e+00, -2.3019e+00, -2.3817e+00, -2.5238e+00, -6.0700e-03,
-        -1.5494e+00, -1.8199e+00, -7.3979e-01])
+Normal enough.\n\n2.) | tensor([ 8.4285e+00, -2.3019e+00, -2.3817e+00, -2.5238e+00, -6.0700e-03,        -1.5494e+00, -1.8199e+00, -7.3979e-01])
 From produce in front of you (a quasi L-shaped department), you take a quick left and go diagonally to the right to walk past the pharmacy. | tensor([ 7.8360,  0.1184, -3.2484, -1.5542, -0.0744, -2.4166, -1.3079, -1.0825])
  Take a hard right down aisle 1 and then you hit the bakery. | tensor([ 1.4888,  1.6093, -1.3441, -3.0264,  4.2947, -2.8317, -0.2265,  0.0841])
   \n\n3.) | tensor([ 8.2674, -2.3372, -2.2584, -2.6870,  0.0552, -1.1120, -1.8238, -0.8726])
@@ -6095,8 +6026,7 @@ I will say, though, that the sauce was very tasty - enough to seal the deal for 
 It tasted good, but it was tough, and small... | tensor([ 3.9655,  2.3678, -1.9034, -3.4565, -0.9139,  3.1400, -2.6384, -0.0595])
 This probably won't be in my future order, however with the $10 minimum I do need to order something else with my tofu... | tensor([ 8.6042, -2.0549, -2.0846, -2.4140, -0.4283, -2.1039, -1.6577, -0.7205])
 I hope the soup is good.\n\nThe lady behind the counter was friendly and was decent on the phone and didn't once mention that they were closing so close to when I ordered. | tensor([ 0.6718,  1.6306, -3.5888,  0.3701,  6.2387, -0.8923, -1.1335, -1.7398])
-Portion size was good, for the $10.44 it cost me, I'll definitely be able to make a lunch out of what is left. | tensor([ 8.4735e+00, -1.5659e+00, -1.9333e+00, -2.9881e+00, -9.7465e-01,
-        -1.7928e+00, -1.9669e+00,  1.9713e-03])
+Portion size was good, for the $10.44 it cost me, I'll definitely be able to make a lunch out of what is left. | tensor([ 8.4735e+00, -1.5659e+00, -1.9333e+00, -2.9881e+00, -9.7465e-01,        -1.7928e+00, -1.9669e+00,  1.9713e-03])
 My wife and I have been going here for as long as we have lived in Pittsburgh, which is about 10 years. | tensor([ 6.8336, -1.3437, -2.0977, -3.6053, -0.1187,  0.2666, -3.1553,  1.0797])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 This is our go-to Chinese restaurant, even after we moved out of the neighborhood. | tensor([-0.1196, -2.2525,  0.9193, -2.0120, -1.5903,  7.8330, -2.1740, -0.6120])
@@ -6309,8 +6239,7 @@ They gave me a paper with his vaccinations, but it was in vet-speak, so I took t
 \n\nFurthermore, the shelter staff put my kitten in my roommate's name mistakenly (and claimed that if we just called in that they would fix this mistake, but then wouldn't), so when he got sick, no one from their clinic would return my calls--I'm guessing this was since I wasn't the owner according to their records. | tensor([ 7.9881, -1.4045, -2.3506, -2.6454, -0.9821, -2.7844, -0.9181,  0.7124])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I had to email them to get a response, which basically said sorry that we didn't return your calls | tensor([ 8.6059, -2.3225, -2.0618, -2.3732, -0.2783, -2.4106, -1.4280, -0.6086])
-but this is your problem now. | tensor([ 8.5853e+00, -2.5747e+00, -2.0462e+00, -2.8502e+00, -1.4582e-04,
-        -1.4798e+00, -1.4016e+00, -1.3685e+00])
+but this is your problem now. | tensor([ 8.5853e+00, -2.5747e+00, -2.0462e+00, -2.8502e+00, -1.4582e-04,        -1.4798e+00, -1.4016e+00, -1.3685e+00])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 They never apologized for the kitten's health or asked if he was feeling better. | tensor([ 8.4658, -0.9795, -2.0914, -2.2199, -0.9424, -2.3063, -2.3896, -0.0954])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -6453,8 +6382,7 @@ Nevermind that online published hours are from 7AM to 7PM. | tensor([ 8.6208, -2
 Furthermore, their own system sent me a confirmation email for my 5:30PM appointment. | tensor([ 8.6367, -2.1641, -2.2500, -2.5464, -0.2770, -2.1288, -1.3729, -0.8039])
 Finally, this building is an absolute dump... | tensor([ 8.5821, -2.1515, -2.0774, -2.6960, -0.6457, -2.2340, -1.3771, -0.2114])
 Goodyear should be ashamed to have the brand attached to it. | tensor([ 8.5724, -2.1538, -2.2315, -2.2986, -0.3581, -2.2471, -1.4454, -0.8487])
-Tire replacement, was told it would take about 1.5 hours (when I had an existing appointment). | tensor([ 8.6117e+00, -2.3275e+00, -2.2952e+00, -2.4671e+00, -4.4025e-03,
-        -2.1549e+00, -1.4532e+00, -8.3788e-01])
+Tire replacement, was told it would take about 1.5 hours (when I had an existing appointment). | tensor([ 8.6117e+00, -2.3275e+00, -2.2952e+00, -2.4671e+00, -4.4025e-03,        -2.1549e+00, -1.4532e+00, -8.3788e-01])
 It's almost been 2.5 hours and I'm still waiting. | tensor([ 8.5720, -1.5389, -2.4718, -2.9144, -0.0137, -2.1493, -2.1398,  0.0316])
 I was just there this morning for a 10am appointment to get my summer tires swapped out for my winter tires. | tensor([ 8.6559, -1.5522, -2.0580, -2.8580, -0.7596, -1.7952, -2.1351, -0.1746])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -6563,8 +6491,7 @@ I'll try it again and may change my review in the future. | tensor([ 8.6684, -2.
 Accidents (no matter how horrible) do happen, and as such I'm not as angry about the actual accident;  but to just drive away and leave people severely injured by the side of the road is pretty wretched behavior. | tensor([ 8.2118, -1.2399, -2.6960, -1.5759, -0.7228, -2.5129, -2.5196,  0.4845])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 At this point, i only hope that if you are the person who did this, you will at least dedicate the rest of your life to doing good to balance your to-date lousy behavior.\n\nIt's never too late. | tensor([ 8.5674, -2.2121, -2.0587, -2.1207, -0.6198, -1.9197, -1.4692, -0.9925])
-I think the lattes have improved since my last review and their soy cappuccinos are the best I've ever had, in fact, I never even cared for them until trying Tazza D'oro's. | tensor([ 5.9135e+00, -2.1011e+00, -2.7851e+00, -4.8748e-03,  2.3797e+00,
-        -1.8758e+00, -2.6635e+00, -6.1779e-01])
+I think the lattes have improved since my last review and their soy cappuccinos are the best I've ever had, in fact, I never even cared for them until trying Tazza D'oro's. | tensor([ 5.9135e+00, -2.1011e+00, -2.7851e+00, -4.8748e-03,  2.3797e+00,        -1.8758e+00, -2.6635e+00, -6.1779e-01])
 I still hold their teas in high regard. | tensor([ 8.5741, -2.2099, -1.8309, -2.4635, -0.6349, -1.6324, -1.8769, -0.7864])
 However, the food here sucks. | tensor([ 8.5195, -1.7658, -1.9589, -2.6288, -0.8410, -1.5177, -1.9606, -0.8308])
 They've always had a limited sandwich menu, but at some point even that has been reduced to three choices. | tensor([ 7.2630, -0.9271, -2.0724, -1.1932, -1.0949, -1.1440, -2.2365, -0.8868])
@@ -6598,8 +6525,7 @@ The clientele is, as folks said, eclectic and invigorating. | tensor([ 8.4912, -
 Still one of the best places to get soy capps, but they no longer have an extensive tea list. | tensor([ 0.4740,  0.5815,  3.2599,  0.4454, -3.3867, -0.4655, -0.4998, -0.9174])
 What's left is not a bad selection, but there are dramatically less choices, so it's no longer where I would go to sample new varieties of tea. | tensor([ 8.4040, -1.8736, -1.9706, -2.4237, -1.0901, -1.9638, -1.7676, -0.2566])
 Sandwich menu is even more severely limited and it seems that pretty much all the food is provided by U.S. Foods, or the like; nothing is local. | tensor([ 7.8172, -3.4132, -0.9635, -2.9784, -0.6976, -0.4585, -0.6124, -1.8656])
-It'd be way cool if they would source their pastries and bread locally. | tensor([ 2.1304e+00, -2.1250e+00,  6.4524e+00, -2.6064e+00, -2.8200e+00,
-        -5.2071e-01, -2.3405e+00,  6.5128e-04])
+It'd be way cool if they would source their pastries and bread locally. | tensor([ 2.1304e+00, -2.1250e+00,  6.4524e+00, -2.6064e+00, -2.8200e+00,        -5.2071e-01, -2.3405e+00,  6.5128e-04])
 Until then, it is simply a great place to get coffee and espresso, with nice vibes and pleasant service. | tensor([ 8.3878, -2.3838, -2.1516, -1.7829, -1.2705, -1.3736, -1.7202, -0.5640])
 Great variety of coffee and methods (press, Chemex, pour-over). | tensor([ 8.1607, -2.0978, -2.3614, -2.3903, -0.2028, -1.5417, -2.1452, -0.1670])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -6651,8 +6577,7 @@ one.\n\nSo I got home aired myself out and drove myself to Enrico's since a prev
 There was easy street parking right out front and I really liked that it was nestled in the middle of a neighborhood and not a loud crowded street. | tensor([ 7.7377, -0.2155, -3.0369, -2.9455, -1.1289, -0.4026, -2.1903,  0.2486])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Tables are large enough for good work space and folks had their laptops out inside enjoying the free wifi while the tables outside were filled with friends.\n\nSo why the 3 stars?   | tensor([ 8.6396, -2.0338, -2.3635, -1.8661, -0.2141, -2.5198, -1.6282, -0.8792])
-Well the iced caffe mocha was a bit subpar. | tensor([ 8.4149e+00, -2.0328e+00, -2.5253e+00, -2.3258e+00, -4.1479e-03,
-        -1.5637e+00, -1.4112e+00, -1.5241e+00])
+Well the iced caffe mocha was a bit subpar. | tensor([ 8.4149e+00, -2.0328e+00, -2.5253e+00, -2.3258e+00, -4.1479e-03,        -1.5637e+00, -1.4112e+00, -1.5241e+00])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The syrup was all at the bottom leaving my first couple sips very watery. | tensor([ 8.5533, -1.6100, -2.0831, -2.2460, -0.6874, -2.2868, -2.1197, -0.0504])
  Could have been a better mix.   | tensor([ 8.2349, -2.4407, -1.8089, -2.9670, -0.2118, -0.8962, -2.1008, -0.4443])
@@ -6870,8 +6795,7 @@ Buffalo Blues, though it is a sports bar, is not the place that would sway me to
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 And, judging it as a sports bar, it didn't do anything to justify my giving it anything but \"just fine.\"   | tensor([ 8.4407, -2.2117, -2.7909, -2.3418,  0.1146, -1.9795, -1.5709, -0.5528])
 But I'm sure I'll go back there for happy hour again sometime. | tensor([ 8.6837, -2.0373, -1.7971, -2.4909, -0.8676, -1.8320, -2.0076, -0.4685])
-When Hotlick's died, Buffalo blues was born. | tensor([ 8.0506e+00, -2.4047e+00, -2.0475e+00, -2.7830e+00, -5.6026e-01,
-        -5.1625e-01, -2.2734e+00,  7.5066e-03])
+When Hotlick's died, Buffalo blues was born. | tensor([ 8.0506e+00, -2.4047e+00, -2.0475e+00, -2.7830e+00, -5.6026e-01,        -5.1625e-01, -2.2734e+00,  7.5066e-03])
 It really is a Pittsburgh staple but come on....\n\nFood is really, really average. | tensor([ 6.9516, -0.9719, -2.3727, -2.3928, -2.3646, -0.2802, -1.9571,  1.5214])
 I love the ribs and wings, but it's about the same as any other rib place in the city, only they charge an arm and a leg for it. | tensor([ 2.0753, -1.8390, -2.8449,  1.1558, -2.0055,  0.5811, -0.5073,  1.9593])
 This place is for the people that feel that they are at a real rib place, but don't want to cross Centre or Penn Ave. | tensor([ 8.4985, -2.6060, -2.0288, -1.7085, -0.8295, -2.3055, -0.6158, -1.4392])
@@ -7070,14 +6994,12 @@ WE also tried garlic parm, honey teriyaki & gold rush. | tensor([ 1.5548, -3.545
 All were ok.\n\n | tensor([ 8.6473, -2.4541, -1.6965, -2.1419, -0.7892, -1.8369, -1.9217, -0.6412])
 The boozy buffalo is a good drink. | tensor([ 0.7407, -2.2501,  0.6158, -2.5480, -0.5862,  7.2629, -1.8326, -1.4708])
 It consist of smirnoff orange, tanquery, jose cuervo, captain, triple sec, OJ, fresh squeezed lemon and a splash of Coke. | tensor([ 8.5237, -2.4939, -2.2839, -2.4679, -0.0091, -1.7074, -1.3417, -1.0757])
-I seriously felt fabulous after one. | tensor([ 8.6988e+00, -1.8583e+00, -2.4133e+00, -2.5755e+00,  5.1994e-03,
-        -2.3792e+00, -1.9558e+00, -2.9580e-01])
+I seriously felt fabulous after one. | tensor([ 8.6988e+00, -1.8583e+00, -2.4133e+00, -2.5755e+00,  5.1994e-03,        -2.3792e+00, -1.9558e+00, -2.9580e-01])
 It's served in a mason jar. | tensor([ 5.6053, -2.5029, -0.4135, -1.7717, -0.5133,  0.8332, -2.1017, -1.0858])
 ($12)\n\nLauren was a nice server even though the table in front of us put her through some bs-- they ate all of their food then complained to the server and asked for the manager complaining that what they got it wasn't what they ordered... | tensor([ 6.2457, -0.5583, -3.7477, -2.6276,  3.0907, -1.1706, -2.0139, -0.5736])
 no idea why they waited until every scrap of food was gone to complain | tensor([ 2.9572, -1.0571,  2.7651, -0.8832, -3.9239,  0.1438,  0.2986, -1.8665])
 but you know, you'll have that. | tensor([ 8.1077, -2.0685, -2.3618, -3.0524,  0.7406, -0.7833, -2.3330, -1.0063])
-kudos to Lauren for keeping a smile on her face. | tensor([ 8.3189e+00, -2.0693e+00, -2.2625e+00, -3.0207e+00,  2.8985e-01,
-        -1.7708e+00, -2.1607e+00,  6.1346e-03])
+kudos to Lauren for keeping a smile on her face. | tensor([ 8.3189e+00, -2.0693e+00, -2.2625e+00, -3.0207e+00,  2.8985e-01,        -1.7708e+00, -2.1607e+00,  6.1346e-03])
 I've been to Buffalo Blues a few times at Happy Hour, and met my daughter there last night for Happy Hour specials as advertised on the web site. | tensor([ 3.5937, -1.7394, -2.0725, -2.8258, -1.0844,  3.0553, -2.8613,  3.4316])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 First clue:  no Happy Hour promos mentioned in the bar except for the Yeungs and Wings (which was not what we were looking for). | tensor([ 8.2517, -1.8303, -2.3374, -1.7997, -0.4510, -1.9588, -2.1320, -0.3253])
@@ -7127,8 +7049,7 @@ This is basically a nice place to go for lunch that won't ruin your appetite for
 Brushed my teeth an hour before w/ Tom's of Maine fluoride-free peppermint & still had minty fresh breath an hour after eating) | tensor([ 8.4478, -1.7744, -2.1160, -1.5134, -1.2414, -2.2858, -1.9957, -0.1054])
 The location is convenient but I was not a fan of the food. | tensor([ 8.5495, -1.5880, -2.0781, -2.1445, -0.8977, -2.1269, -2.2664, -0.2605])
 I had shrimp and Chinese veggies and crab Rangoon. | tensor([ 0.8909, -2.4088,  0.7192, -1.5396, -0.7927,  6.3381, -2.2631, -1.1208])
-They cut the veggies way too big and the sauce was bland. | tensor([ 5.4446e-03,  2.9201e-01, -2.1110e+00,  6.6104e+00,  8.3248e-01,
-        -1.0254e+00, -3.0242e+00, -1.2344e+00])
+They cut the veggies way too big and the sauce was bland. | tensor([ 5.4446e-03,  2.9201e-01, -2.1110e+00,  6.6104e+00,  8.3248e-01,        -1.0254e+00, -3.0242e+00, -1.2344e+00])
 I won't go back for food but the crab Rangoon was ok. | tensor([ 5.5933, -2.4185,  0.7129, -1.6082, -2.5824,  1.8716, -2.2716, -0.5400])
 They didn't give any sauce. | tensor([ 8.1525, -2.1445, -1.8407, -2.5216, -0.2513, -1.7286, -1.6387, -0.6582])
 You have to ask for it. | tensor([ 8.1500, -2.1288, -2.3991, -2.7150,  0.3673, -1.2451, -2.2813, -0.5384])
@@ -7197,8 +7118,7 @@ It may save you $100's.\n\nThis place will rob you blind.\n\nNever have work don
 I knew I needed new tires and an alignment | tensor([ 8.6981, -2.1366, -2.2411, -2.9092, -0.2228, -1.8958, -1.3665, -0.9105])
 so I ordered the tires ahead so I could be in-and-out as quickly as possible to make it to class. | tensor([ 6.4904,  0.1695, -3.5139, -2.5813,  0.9520, -2.6299, -2.2911,  2.4720])
 Showed up noone had ordered the tires but they said they'd split the difference of a different brand. | tensor([ 8.6623, -2.1313, -2.1716, -2.6421, -0.1990, -1.8790, -1.7315, -0.8860])
-I was a little irritated but agreed and thought this was going to be a bad decision coming here (I'm from out of town); however, I was pleasantly surprised by the service. | tensor([ 8.7101e+00, -2.2952e+00, -2.1740e+00, -2.4651e+00, -5.4720e-04,
-        -2.2974e+00, -1.7096e+00, -7.3948e-01])
+I was a little irritated but agreed and thought this was going to be a bad decision coming here (I'm from out of town); however, I was pleasantly surprised by the service. | tensor([ 8.7101e+00, -2.2952e+00, -2.1740e+00, -2.4651e+00, -5.4720e-04,        -2.2974e+00, -1.7096e+00, -7.3948e-01])
 The mechanics noticed the car's bushings were what was causing the problems it took awhile and they offered a little extra discount which was much appreciated. | tensor([ 8.5602, -1.7581, -2.3583, -2.3227, -0.2475, -1.7738, -1.8779, -1.0319])
 Overall, it took 2 and 1/2 hours, had front aligned, bushings replaced, two new tires, and an oil change....cost $606. | tensor([ 8.4889, -1.5367, -2.3652, -3.2442, -0.0634, -1.5294, -1.6755, -0.8855])
 So, I still believe it was a little pricey but the guys were great and I can definitely note an overall difference in my car. | tensor([ 8.7038, -1.8676, -2.4213, -2.5963, -0.0088, -2.0722, -1.9514, -0.6171])
@@ -7264,8 +7184,7 @@ I thought I would try some of the world famous cuisine so I pulled up on a Thurs
 I was then treated to a relaxing 15 minute wait as nobody moved in line. | tensor([ 8.6544, -1.6174, -2.3413, -2.3709, -0.7254, -1.9290, -1.8510, -0.2911])
 Perhaps it was the clientele, a 1992 minivan filled with some savvy locals. | tensor([ 8.0236, -1.8188, -2.0312, -3.0834, -1.0670, -0.5653, -1.4894, -0.7245])
 Perhaps it was the professional waitstaff, whom I could hear laughing and socializing through my window. | tensor([ 8.2919, -1.9783, -2.4087, -1.6915, -0.4737, -1.7199, -1.9641, -0.5602])
-Whatever it was, the dining experience was filled with culinary magic and spa-like service. | tensor([ 8.2734e+00, -1.9164e+00, -2.6504e+00, -1.5883e+00,  5.6088e-03,
-        -1.9470e+00, -1.8296e+00, -1.0468e+00])
+Whatever it was, the dining experience was filled with culinary magic and spa-like service. | tensor([ 8.2734e+00, -1.9164e+00, -2.6504e+00, -1.5883e+00,  5.6088e-03,        -1.9470e+00, -1.8296e+00, -1.0468e+00])
 After some deep meditation, I realized that perhaps tonight was not the best night to sample such fine delicacies so I pulled away. | tensor([ 8.0862, -1.7188, -2.1721, -1.9238,  0.0263, -2.6471, -2.3660,  0.2160])
 I cannot wait to return to this location and try my luck at trying these elusive fries. | tensor([ 3.3944, -2.4930, -1.8940, -2.6090,  6.2435, -1.3176, -3.3655,  0.7369])
 I highly recommend this palace of excellence. | tensor([ 8.6025, -2.0885, -2.2160, -2.4936, -0.4134, -1.6702, -1.8176, -0.7224])
@@ -7525,8 +7444,7 @@ ok, so we arrived shortly before the opening act and ordered beers. | tensor([ 8
 $4 for a yuengling bottle isn't ideal, but whatever. | tensor([ 3.5602,  2.4652, -3.4488,  1.0476, -0.1916, -3.4327, -2.9203,  2.4454])
 we snagged a table with stools near the door before too many people got there. | tensor([ 6.5837, -2.2949, -2.2955,  1.6750, -0.3441, -2.7368, -1.3065, -1.7116])
 by the time the opener was over, the place was packed shoulder to shoulder, and whether we stood or remained on our stools, it was nearly impossible to see the stage.\ni liked that it was an intimate venue, but that many people packed into such a small space, with expensive drinks, and not even a good view? | tensor([ 8.2140, -1.5655, -2.9031, -1.2416, -0.7000, -2.4288, -1.8434, -0.0285])
-not the best venue i've ever been to... | tensor([ 8.5946e+00, -2.2332e+00, -2.1345e+00, -2.1043e+00, -7.5058e-01,
-        -2.3741e+00, -1.8916e+00,  3.1139e-03])
+not the best venue i've ever been to... | tensor([ 8.5946e+00, -2.2332e+00, -2.1345e+00, -2.1043e+00, -7.5058e-01,        -2.3741e+00, -1.8916e+00,  3.1139e-03])
 It's surprising how long it took me to get here, then I hear a rumor they're moving soon anyway! | tensor([ 6.4490, -1.7720,  1.3021, -3.1172, -2.6962, -1.3407, -0.7960, -0.3550])
 Geez... way to be behind the times Rachel!\n\nI've been interested in a bunch of the nights they've hosted before, but have never made way way over. | tensor([ 8.7117, -1.7525, -2.2118, -2.3138, -0.4523, -2.4041, -1.7902, -0.6179])
 I went to celebrate one | tensor([ 8.5537, -2.0136, -2.0895, -2.6573, -0.2843, -1.9113, -2.0851, -0.3427])
@@ -7565,8 +7483,7 @@ I had the vacuum's name and number written down, as well as the belt style, and 
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Yet, each of these men acted like I was some stupid girl. | tensor([ 8.6604, -2.3179, -2.1156, -2.5527, -0.0596, -2.1336, -1.3412, -1.0674])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-\"Did you unplug the vacuum before you removed the old belt?\" one asked me.   | tensor([ 6.8803e+00,  2.8638e-01, -1.9483e+00, -2.5978e+00, -2.3045e+00,
-        -1.0453e+00, -8.8539e-01, -1.6479e-03])
+\"Did you unplug the vacuum before you removed the old belt?\" one asked me.   | tensor([ 6.8803e+00,  2.8638e-01, -1.9483e+00, -2.5978e+00, -2.3045e+00,        -1.0453e+00, -8.8539e-01, -1.6479e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I'm not an idiot. | tensor([ 8.5923, -2.0720, -2.3460, -2.8127, -0.1871, -1.8330, -1.8129, -0.4182])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -7575,8 +7492,7 @@ The other later asked, \"Do you always wear bright yellow rainboots when you're 
 Look, all I said to both gentlemen was \"I'm just looking for the correct style number. | tensor([ 8.6385, -2.2262, -2.3425, -2.4437, -0.0952, -2.2893, -0.8845, -1.2543])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 But thanks.\"\n\nI received similar treatment I stopped by to buy a new set of bits for my drill.   | tensor([ 8.5521, -2.1793, -2.2561, -2.6599, -0.2377, -2.0427, -1.4743, -0.6053])
-\"You know drills come in more than one kind, right?\" I was asked. | tensor([ 8.5243e+00, -1.9364e+00, -2.3187e+00, -2.6800e+00, -6.4624e-01,
-        -1.8572e+00, -1.8269e+00,  2.3398e-03])
+\"You know drills come in more than one kind, right?\" I was asked. | tensor([ 8.5243e+00, -1.9364e+00, -2.3187e+00, -2.6800e+00, -6.4624e-01,        -1.8572e+00, -1.8269e+00,  2.3398e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 And when I needed a new bag of dirt of my cacti, I was question about why I wanted succulent dirt over potting soil. | tensor([ 8.0607, -2.2608, -0.5872, -2.9168, -1.4154, -0.7425, -1.6887, -1.1699])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -7602,8 +7518,7 @@ I mean I know how to swing a hammer and push a button to start a machine, but al
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I feel bad for the lady that works the paint counter. | tensor([ 2.5565,  0.3195, -3.8023, -1.9518,  7.2052, -1.5187, -1.0594, -1.4376])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Each time I'm in there she always seems to be by herself with a line of customers all wanting there base paint tinted. | tensor([ 8.5075e+00, -1.3358e+00, -2.5786e+00, -2.5464e+00,  1.0993e-02,
-        -2.5968e+00, -1.8008e+00, -7.5415e-03])
+Each time I'm in there she always seems to be by herself with a line of customers all wanting there base paint tinted. | tensor([ 8.5075e+00, -1.3358e+00, -2.5786e+00, -2.5464e+00,  1.0993e-02,        -2.5968e+00, -1.8008e+00, -7.5415e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I don't believe there was ever a time I could just walk up to the counter and have my paint mixed for me. | tensor([ 7.7382, -0.1759, -3.1104, -1.7588, -0.6756, -1.3273, -1.9948,  0.0337])
  Give that woman a hand. | tensor([ 3.4950, -1.3016, -3.0007, -3.1140,  7.9112, -1.4193, -2.1143, -0.8904])
@@ -7639,8 +7554,7 @@ Yes my dog, who i have brought into this store several times. | tensor([ 8.5394,
 They allow pets i'm assuming because i've never been asked to leave and I've seen others with their pets as well. | tensor([ 8.6084, -1.9844, -1.7784, -2.4310, -1.1820, -2.0122, -1.8840, -0.2570])
 \n\nThat's the best part about the store is the animal policy and the fact that they offer enough supplies for you to practically build a house. | tensor([ 3.7561,  0.3544, -1.7706, -2.8433, -1.4433,  0.2791,  2.0757, -2.2204])
 Some things are cost efficient while others are kinda breaking the bank. | tensor([ 8.1634, -2.0399, -1.7328, -2.4486, -1.2922, -1.2620, -0.7497, -1.4175])
-There not as modern as lowes | tensor([ 7.4228e+00,  5.8330e-03, -3.3130e+00, -1.2620e+00, -1.4916e-01,
-        -3.0276e+00, -1.5074e+00, -3.8414e-01])
+There not as modern as lowes | tensor([ 7.4228e+00,  5.8330e-03, -3.3130e+00, -1.2620e+00, -1.4916e-01,        -3.0276e+00, -1.5074e+00, -3.8414e-01])
 but they have alot of the same products. | tensor([ 8.5264, -2.4674, -1.7495, -2.6498, -0.3354, -1.8326, -1.5608, -0.9534])
 I recently built my own in home bar. | tensor([ 8.2734, -1.7236, -2.6744, -2.4902,  0.4763, -1.4768, -2.7188, -0.1837])
 t's 8 by 2, a long bar that i (a girl) built by hand. | tensor([ 0.6581, -0.3429, -2.4826, -2.7237,  8.3635, -1.2147, -2.3713,  0.9696])
@@ -7660,8 +7574,7 @@ I came away with NONE of it. | tensor([ 8.4268, -2.2731, -2.1569, -2.7782, -0.14
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Everything we wanted was OUT OF STOCK!   | tensor([ 8.5343, -2.0106, -2.1599, -2.4478, -0.5139, -1.7547, -1.6024, -0.7985])
 When I asked if I could order it and have it delivered to the store (to save the shipping costs) | tensor([ 7.8484, -2.0360, -2.4363, -3.4416,  0.1033, -0.2968, -1.5768, -0.3094])
-I was told that the items I wanted were not \"qualified\" for delivery to the store. | tensor([ 8.5051e+00, -2.1974e+00, -2.4284e+00, -2.5209e+00, -7.9216e-03,
-        -1.8628e+00, -1.7214e+00, -5.9202e-01])
+I was told that the items I wanted were not \"qualified\" for delivery to the store. | tensor([ 8.5051e+00, -2.1974e+00, -2.4284e+00, -2.5209e+00, -7.9216e-03,        -1.8628e+00, -1.7214e+00, -5.9202e-01])
  \"When will the items be restocked?\"  \"Don't know.\"   | tensor([ 7.9802, -2.1485, -1.4925, -2.0240, -1.5009, -2.3303, -1.7911,  0.1169])
 \"Would it be possible to get the items delivered from another store in the region?\"  \"No, that 'messes with' our inventory controls.\"   | tensor([ 7.6221, -3.1657, -0.1659, -2.8279, -1.5432, -0.7662, -1.1308, -1.1832])
 Oh, but I was told I could haul my sorry butt out to Monroeville where the stock of everything I wanted was plentiful. | tensor([ 7.9112, -2.3801, -1.9060, -2.9088, -1.5566,  0.5024, -0.8631, -1.1425])
@@ -7725,8 +7638,7 @@ Got my hair done in an updo (for only $25!!!!) | tensor([ 3.9906, -0.2221, -2.66
  yesterday for my wedding. | tensor([ 8.3362, -1.7786, -2.3787, -3.3374,  0.1898, -1.8077, -2.1419,  0.2676])
  they did amazing! | tensor([ 8.1672, -1.7450, -1.8291, -2.5589, -0.7332, -1.7363, -2.5327,  0.4961])
  they listened to what i wanted and although it took quite a while (i have really long hair) | tensor([ 8.1639, -0.7952, -2.4960, -1.9057, -0.4294, -1.5930, -2.8764, -0.1567])
-she spent the time to do it right | tensor([ 8.0940e+00, -1.6926e+00, -2.9584e+00, -3.2143e+00,  1.1839e+00,
-        -1.5331e+00, -2.2208e+00, -7.6094e-03])
+she spent the time to do it right | tensor([ 8.0940e+00, -1.6926e+00, -2.9584e+00, -3.2143e+00,  1.1839e+00,        -1.5331e+00, -2.2208e+00, -7.6094e-03])
 and exactly how i wanted it. | tensor([ 8.2337, -2.0198, -2.5909, -2.9604,  0.8201, -1.2995, -2.4314, -0.4389])
  great service!! | tensor([ 8.1625, -2.3981, -1.8866, -2.7050, -0.0587, -0.9464, -1.9751, -1.0473])
    | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -7749,8 +7661,7 @@ Great Hoagies! | tensor([ 1.5470, -1.6032, -2.4710, -2.2101,  7.9877, -0.5450, -
 \n\nI always get the Steak Deluxe hoagie and my wife gets the Italian Deluxe and then we give each other half of the other ones hoagie because we can never decide on with one to get. | tensor([ 5.5677, -2.4814, -0.7517, -3.3150,  2.8501,  0.6247, -3.1103, -1.2100])
 Ahh, the only place near the train station that is open past 9 PM, isn't overpriced and/or full of people who are way too jolly for such an early hour. | tensor([ 6.6817, -0.0340, -2.7606,  1.0457, -2.4746, -2.4703, -1.2231, -0.3062])
 I got a slice of cheese pizza and onion rings. | tensor([ 8.3034, -2.5431, -1.8875, -2.4284, -0.1058, -1.6732, -1.7431, -1.0306])
-The pizza was decent. | tensor([ 8.5940e+00, -2.1615e+00, -2.2947e+00, -2.8485e+00,  3.8484e-03,
-        -1.8368e+00, -1.8340e+00, -7.1186e-01])
+The pizza was decent. | tensor([ 8.5940e+00, -2.1615e+00, -2.2947e+00, -2.8485e+00,  3.8484e-03,        -1.8368e+00, -1.8340e+00, -7.1186e-01])
 There was nothing flavorful about the sauce and the grease would not stop oozing out of the cheese. | tensor([ 8.0098, -0.7448, -2.1872, -2.0564, -0.2493, -1.0026, -2.7392, -1.0325])
 I felt sick before I got halfway through it. | tensor([ 8.4735, -1.4514, -2.2015, -2.3273, -0.5679, -2.4970, -2.2480,  0.5226])
 That reminds me - the slices are HUGE, and are $2. | tensor([ 8.1732, -2.1674, -2.3520, -2.6344, -0.1348, -1.2205, -1.6128, -0.9593])
@@ -8200,11 +8111,9 @@ Don't know what causes everyone to behave badly in their lot (myself included) b
 Just wanted to write a review based on my experience today.\n\nEverything I went for was in stock today (which doesn't always happen). | tensor([ 8.2428, -1.8065, -2.3618, -1.6740, -1.1820, -2.2074, -1.6586, -0.0705])
 The place was crowded, as usual, but the line went fairly quickly. | tensor([ 7.7969, -2.3736, -2.3282, -2.2980, -0.2119, -0.6287, -1.1251, -1.5196])
 On my way in, I saw a $5 fish sandwich with creamy coleslaw advertised outside. | tensor([ 0.5955, -3.2195,  1.2663, -2.2932, -1.9455,  7.6085, -0.8260, -1.5950])
-Three guys were there cooking. | tensor([ 3.2157e+00, -1.6051e+00, -2.4119e+00, -2.0534e+00,  5.9730e+00,
-        -1.4445e+00, -3.0530e+00, -4.7403e-03])
+Three guys were there cooking. | tensor([ 3.2157e+00, -1.6051e+00, -2.4119e+00, -2.0534e+00,  5.9730e+00,        -1.4445e+00, -3.0530e+00, -4.7403e-03])
 Looked and smelled delicious, so I paid inside with my groceries. | tensor([ 7.0248, -1.8629, -2.8464, -3.0259,  1.5517, -0.6504, -2.0312, -0.6889])
-When I came out, I told the guys I bought one. | tensor([ 8.5399e+00, -1.7636e+00, -2.3022e+00, -2.6520e+00,  4.8805e-03,
-        -2.2106e+00, -2.1919e+00, -1.4702e-01])
+When I came out, I told the guys I bought one. | tensor([ 8.5399e+00, -1.7636e+00, -2.3022e+00, -2.6520e+00,  4.8805e-03,        -2.2106e+00, -2.1919e+00, -1.4702e-01])
 They were really nice and asked me what kind of bread I wanted and what I wanted on the sandwich.\n\nSome lady that was \"in a rush\" was upset her sandwich wasn't ready when she came out (but they explained the fish was cooked, but they couldn't set up the sandwich without knowing what bread or toppings she wanted). | tensor([ 0.9143,  1.7787, -3.0619, -1.0171,  6.6008, -0.7522, -2.0101, -1.6053])
 Just watching the way they dealt with this customer was great for me. | tensor([ 8.7102, -1.6767, -2.4696, -2.6662, -0.1629, -2.1699, -1.7138, -0.5934])
 The guys were so friendly and patient.\n\nAlso, the sandwich was delicious! | tensor([ 7.9751, -0.8554, -2.6505, -1.2683,  0.0804, -1.6338, -2.5251, -1.3493])
@@ -8348,8 +8257,7 @@ I went here to get my serpentine belt replaced and a transmission flushed and th
 They took the time to explain things to me and I felt comfortable that they were making the appropriate recommendations without trying to charge me for things I didn't need.   | tensor([ 8.7499, -2.0666, -2.1349, -2.4510, -0.4445, -2.1116, -1.7046, -0.7572])
 It was ready in just a few hours as promised so I was able to pick it up same day. | tensor([ 8.6562, -1.8964, -2.4322, -2.7749,  0.1773, -2.0405, -1.9830, -0.4755])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Only complaint is that they left my transmission fluid dipstick out of place under the hood so it was just laying on top, but fortunately it didn't fall down and screw up anything since it was laying flat on the top, but if it had that could've been a more serious problem.   | tensor([ 8.5995e+00, -1.5358e+00, -2.4926e+00, -2.5649e+00, -5.2625e-01,
-        -2.3321e+00, -1.8141e+00, -6.2705e-03])
+Only complaint is that they left my transmission fluid dipstick out of place under the hood so it was just laying on top, but fortunately it didn't fall down and screw up anything since it was laying flat on the top, but if it had that could've been a more serious problem.   | tensor([ 8.5995e+00, -1.5358e+00, -2.4926e+00, -2.5649e+00, -5.2625e-01,        -2.3321e+00, -1.8141e+00, -6.2705e-03])
 So I subtracted a star for that since it seemed a bit careless. | tensor([ 8.6034, -2.1826, -1.9679, -2.2082, -0.7482, -2.0111, -1.6815, -0.5567])
 If I could give them zero stars, I would. | tensor([ 8.5698, -2.1042, -1.7206, -2.4254, -1.0544, -1.5530, -1.4545, -1.1237])
 My car wouldn't start so I called the tow and he managed to get it started, but it's been acting up so I brought it in anyways. | tensor([ 8.4853, -2.1426, -2.0057, -1.5064, -1.4382, -1.8780, -1.4496, -0.5501])
@@ -8463,8 +8371,7 @@ Selection by the glass is limited. | tensor([ 8.4376, -2.6052, -2.0755, -1.9793,
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I haven't really been disappointed yet! | tensor([ 8.6907, -1.9292, -2.1196, -2.7548, -0.4018, -1.7514, -1.9672, -0.5180])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-The appetizers/small plates all pretty good, I really like the chevre croquettes ($7). | tensor([ 8.0500e+00, -1.5969e+00, -2.6815e+00, -2.1264e+00,  4.4153e-03,
-        -1.4191e+00, -2.2397e+00, -5.7949e-01])
+The appetizers/small plates all pretty good, I really like the chevre croquettes ($7). | tensor([ 8.0500e+00, -1.5969e+00, -2.6815e+00, -2.1264e+00,  4.4153e-03,        -1.4191e+00, -2.2397e+00, -5.7949e-01])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The salads are good and although I haven't gotten the soup anytime lately, I hear great things from my friends. | tensor([ 8.5047, -1.7040, -2.1380, -1.6474, -0.7283, -2.0523, -2.3108, -0.5685])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -8493,8 +8400,7 @@ And for entree, we both got the Casbah benedict. | tensor([ 6.6715, -2.7762,  1.
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I have to admit that neither of us was blown away, but it was good and filling. | tensor([ 7.5338, -0.9707, -2.5879, -3.6764,  0.4287, -0.7218, -2.8314,  0.8672])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I think that we will both be back to try other things on the menu! | tensor([ 8.4243e+00, -1.9712e+00, -2.1767e+00, -2.7652e+00,  8.0955e-04,
-        -9.8095e-01, -2.2338e+00, -9.7858e-01])
+I think that we will both be back to try other things on the menu! | tensor([ 8.4243e+00, -1.9712e+00, -2.1767e+00, -2.7652e+00,  8.0955e-04,        -9.8095e-01, -2.2338e+00, -9.7858e-01])
 As the reviews of Casbah appear to be particularly long-winded ... the place is nice, fancy, organic-ish, alternating menu, nice atmosphere. | tensor([ 8.4794, -1.9884, -2.4576, -2.1439, -0.3833, -2.1516, -1.7546, -0.4642])
 Good date restaurant. | tensor([ 8.4944, -2.2962, -2.2138, -2.6489,  0.5909, -1.8785, -2.2433, -0.7096])
 Good food-lovers restaurant. | tensor([ 8.5901, -2.4608, -1.9390, -2.4695, -0.2786, -2.2310, -1.6571, -0.6461])
@@ -8529,8 +8435,7 @@ Perfect for a larger group of people. | tensor([ 8.4763, -1.9328, -2.4650, -2.55
 but it is good. | tensor([ 8.3919, -2.5271, -1.5978, -2.4252, -0.5207, -1.0693, -2.2651, -0.8385])
 The hummus here was actually the first hummus that I had ever had and I am sorry to say it is what I compare all other to, few match up.\n\nThe wine list is extensive, but if you are going for an upscale bar this isn't the place, for that you'll want to go down the road to Soba.   | tensor([ 8.5040, -2.1988, -2.0417, -2.0765, -0.5481, -1.9969, -1.9493, -0.5598])
 If you want a nice place to have a drink and a conversation, Casbah is it. | tensor([ 8.4798, -2.0357, -2.4117, -2.3372, -0.1098, -2.0988, -2.0257, -0.3403])
-Meh.   | tensor([ 8.0119e+00, -2.1664e+00, -1.4522e+00, -2.4470e+00,  6.4216e-03,
-        -1.0411e+00, -2.4849e+00, -1.0023e+00])
+Meh.   | tensor([ 8.0119e+00, -2.1664e+00, -1.4522e+00, -2.4470e+00,  6.4216e-03,        -1.0411e+00, -2.4849e+00, -1.0023e+00])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 What?   | tensor([ 7.8602, -2.1862, -2.0274, -2.3248,  0.7716, -2.0472, -2.3384, -0.2650])
@@ -8565,8 +8470,7 @@ I just need to make plans to go back for dinner. | tensor([ 8.5838, -2.1869, -1.
 There is a disconnect here between this name, the decor and the food. | tensor([ 8.5819, -2.3321, -2.2959, -2.4510,  0.1322, -1.8497, -1.8104, -0.8767])
 That said, I had the best pork chop I've ever had here and for that I was endlessly thankful. | tensor([ 8.6218, -1.7966, -2.1737, -2.6456, -0.4489, -1.8075, -1.8630, -0.6022])
 Good salad, delicious bread and hummus. | tensor([ 8.2449, -2.4033, -2.4811, -2.3785,  0.8150, -1.5419, -1.9871, -1.2948])
-Great service. | tensor([ 8.3756e+00, -2.2263e+00, -1.7519e+00, -2.7550e+00,  3.7598e-03,
-        -1.6333e+00, -2.1371e+00, -8.4621e-01])
+Great service. | tensor([ 8.3756e+00, -2.2263e+00, -1.7519e+00, -2.7550e+00,  3.7598e-03,        -1.6333e+00, -2.1371e+00, -8.4621e-01])
 For Pittsburgh, top notch. | tensor([ 8.5593, -2.1864, -2.1346, -2.7963, -0.0128, -2.0150, -1.8056, -0.5512])
 This is my favorite Big Burrito restaurant and definitely one of my favorite restaurants in the country. | tensor([ 5.4815, -2.0992, -1.0910, -3.0234, -1.8925,  3.9039, -2.7249, -0.1600])
 \n\nGotta be honest, though. | tensor([ 8.4891, -2.3371, -2.3263, -2.7475,  0.0213, -1.2511, -1.7045, -1.0400])
@@ -8700,8 +8604,7 @@ Each little detail of the dish was well-chosen - honestly, even the grilled baby
 It's just squash!   | tensor([ 8.0084, -1.4037, -2.0723, -2.3233, -0.2241, -1.4139, -2.4070, -0.3301])
 But somehow, it was heavenly. | tensor([ 8.4567, -2.4388, -2.0760, -2.6976,  0.1034, -1.2324, -2.1855, -0.7121])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-My friend enjoyed her Cioppino, and my boyfriend liked his veal tortellini, complete with rich pieces of lobster.   | tensor([ 7.2047e+00, -1.3184e+00, -2.3362e+00, -2.2591e+00, -3.9860e-03,
-        -9.1345e-01, -2.9969e+00,  4.9627e-01])
+My friend enjoyed her Cioppino, and my boyfriend liked his veal tortellini, complete with rich pieces of lobster.   | tensor([ 7.2047e+00, -1.3184e+00, -2.3362e+00, -2.2591e+00, -3.9860e-03,        -9.1345e-01, -2.9969e+00,  4.9627e-01])
 I tried a little bit, and it was tasty - very herbal and really bursting with flavor.   | tensor([ 6.1200, -1.1931, -1.3765,  0.2144, -0.8392, -2.2527, -2.7223, -0.0374])
 The only dish that fell a little flat was the potato gnocchi - my friend's boyfriend ordered it.   | tensor([ 7.9570, -1.9806, -1.9924, -2.3364, -0.4727, -1.2058, -2.3105, -0.5761])
 Actually he liked most of it very much, but he couldn't get past the aggressive bitterness of the turnip greens.   | tensor([ 4.0082, -1.4835, -1.0963, -3.6390, -1.1962,  5.7322, -1.1199, -1.7839])
@@ -8913,8 +8816,7 @@ The portions were actually fine for lunch, not overly filling (by any stretch of
 She seemed to enjoy it very much, so there it is.\n\nThe Farm Lamb mac n cheese was tasty. | tensor([ 7.6340, -0.5550, -2.7032, -2.4503, -0.1155, -1.8343, -2.5549,  0.5082])
 The lamb was tender and moist, and the mac n cheese was a tiny tube pasta with a very nice creamy cheesy sauce, all topped with a bread crumb covering when it was broiled until crispy.   | tensor([ 5.9753, -0.1320, -2.3596, -1.5140,  0.8293, -0.6204, -2.6291, -1.0682])
 It was accompanied by a 'pinch' of mesclun salad topped with another pinch of fried onions.\n\nBasically - take one large spoonful of mac n cheese with a higher end cheese sauce and a fancier noodle than comes in the average box - mix in about four cubes of roast lamb, sprinkle on a layer of bread crumbs and toss it in the broiler until the crumbs are toasted - then using your index finger and thumb, pick up a pinch of mesclun and sit it on the plate next to the mac n cheese bowl - and you have a bistroid expensive art project on a plate.\n\nSeriously? | tensor([ 8.0022, -1.5663, -2.5961, -1.2942, -0.7957, -2.0229, -0.6284, -1.4958])
-$15 for lunch? | tensor([ 6.9431e+00, -1.6544e+00, -2.0406e+00, -1.9326e+00, -2.3449e-01,
-        -3.3830e-01, -2.2959e+00, -5.2285e-03])
+$15 for lunch? | tensor([ 6.9431e+00, -1.6544e+00, -2.0406e+00, -1.9326e+00, -2.3449e-01,        -3.3830e-01, -2.2959e+00, -5.2285e-03])
 It's mac n cheese people!\n\nI also have to call into question the name and theme. | tensor([ 2.9572,  1.3280, -3.1123,  0.1017,  1.6126,  0.3496,  0.2223, -3.2957])
  Mad Mex is bistroid Tex Mex. | tensor([ 8.5352, -2.3902, -2.2667, -1.7321, -0.6474, -2.0939, -1.3912, -0.8954])
  Soba is bistroid Asian.   | tensor([ 5.0623, -2.5861, -1.5866, -2.7750,  0.0865,  4.2813, -2.2944, -2.0933])
@@ -9060,8 +8962,7 @@ I want to stand on top of rooftops and shout my love for these eggs all over tow
 \n\nJ, H | tensor([ 8.2284, -2.3763, -2.2623, -2.7646,  0.4964, -1.3411, -1.9756, -0.8138])
 and I went there a few Sundays ago. | tensor([ 6.4329, -2.2570,  0.0814, -2.8619, -0.8080, -2.3063, -2.6102,  2.0101])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-We all got the same thing. | tensor([ 8.5212e+00, -2.3774e+00, -2.2973e+00, -2.7289e+00,  2.0775e-04,
-        -1.5441e+00, -1.5797e+00, -1.0045e+00])
+We all got the same thing. | tensor([ 8.5212e+00, -2.3774e+00, -2.2973e+00, -2.7289e+00,  2.0775e-04,        -1.5441e+00, -1.5797e+00, -1.0045e+00])
 When was the last time you went to a meal and all three people ordered the same thing.   | tensor([ 4.1668,  0.8475, -2.8848,  3.6997, -1.2101, -3.0311, -2.3698, -0.0546])
 It was that good.   | tensor([ 8.5722, -2.3277, -2.1796, -2.6610,  0.0202, -1.6776, -1.8228, -0.8067])
 The scallop breakfast is out of this world. | tensor([ 4.3842, -3.1878,  3.8649, -2.0374, -2.7708,  0.1791, -1.2940, -1.7815])
@@ -9089,8 +8990,7 @@ Hey do I really need to review this place? | tensor([ 8.6680, -2.0628, -2.0001, 
 Look at the previous reviews but I will let you know that they have a great lunch deal, the piccolo gusto menu. | tensor([ 8.4810, -2.1891, -2.2279, -1.9062, -1.0079, -2.1437, -0.7358, -1.0878])
 I highly recommend it because it is a heck of a deal and you can have tastes of a few different items so it pairs well with my self diagnosis of A.D.D. no offense to anyone who has A.D.D but it definitely kept my attention throughout my lunch experience. | tensor([ 8.4942, -1.6896, -2.6267, -1.7287, -0.3860, -2.3497, -2.0232, -0.3156])
 First off the service was excellent very attentive server who was really a foodie, which I really appreciated. | tensor([ 8.4482, -1.7640, -2.7594, -2.1963,  0.4618, -2.2949, -1.9827, -0.7069])
-She knew a heck of a lot about the seemingly simple dishes I had ordered. | tensor([ 8.1800e+00, -1.0014e+00, -2.6879e+00, -2.4529e+00,  8.0544e-01,
-        -2.4903e+00, -2.4604e+00,  2.1942e-03])
+She knew a heck of a lot about the seemingly simple dishes I had ordered. | tensor([ 8.1800e+00, -1.0014e+00, -2.6879e+00, -2.4529e+00,  8.0544e-01,        -2.4903e+00, -2.4604e+00,  2.1942e-03])
 The Piccolo Forno allows for a choice of Salad or soup, a pasta or risotto, half sandwich. | tensor([ 6.5283, -3.0681, -0.5906,  0.1036, -1.2710, -1.4756, -1.9279, -0.7758])
 I went with a taste of the Pea Tendrils and Frisee Salad, while slightly complex to eat, it had a savory flavor from the light dressing and blue cheese crumbles, then I went with cauliflower risotto which was riculous. | tensor([ 3.4091,  2.4946, -3.2636,  3.0796, -0.2758, -1.5961, -2.8686, -0.9929])
 That is how you make risotto people. | tensor([ 8.1040, -2.5441, -2.0081, -1.7374, -0.8429, -0.8467, -1.6046, -0.9023])
@@ -9125,8 +9025,7 @@ We have been to several business dinners in their space downstairs, and it reall
 staff were very attentive, and really made our experiences here great. | tensor([ 8.4746, -1.7806, -2.5161, -2.1280, -0.8639, -1.6075, -1.9422, -0.1730])
 Food was served efficiently for large groups, and arrived at the correct temperature. | tensor([ 7.5134, -1.7554, -1.7357, -2.2295, -0.8283, -1.4770, -2.2179, -0.2085])
 They have a great wine list, and overall offer a comfortable space with delicious food and drinks. | tensor([ 8.5182, -2.4107, -1.8310, -1.8946, -0.8170, -1.9864, -1.6214, -1.0102])
-Try the lamb loin, chicken, and cioppino - my three current favorites. | tensor([ 7.3635e+00, -2.0616e+00, -1.9951e+00, -1.4730e+00, -8.4486e-01,
-        -3.4306e-03, -2.1241e+00, -5.2779e-01])
+Try the lamb loin, chicken, and cioppino - my three current favorites. | tensor([ 7.3635e+00, -2.0616e+00, -1.9951e+00, -1.4730e+00, -8.4486e-01,        -3.4306e-03, -2.1241e+00, -5.2779e-01])
 Their pork chops are the specialty of the house, I'm told.\n\nWill definitely be back. | tensor([ 6.1490,  1.2169, -2.1667, -2.6004,  0.6899, -0.4232, -1.8710, -1.6939])
 Oh I love this place. | tensor([ 8.4412, -1.5482, -1.7150, -2.7137, -0.8882, -1.0651, -2.8129, -0.1486])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -9224,8 +9123,7 @@ The short rib ravioli melts in your mouth. | tensor([ 6.2191,  0.7314, -2.4849, 
 I'd highly recommend any of those.\n\nThe dark chocolate raspberry bread pudding is worth unbuttoning your pants for...and if you like dessert wines, you'll be in heaven for sure! | tensor([ 1.3978,  0.9682, -2.8462, -0.5153,  3.7896,  1.1098, -2.7678, -0.4543])
 I am definitely the salt queen. | tensor([ 8.4480, -1.4406, -2.4490, -2.9308, -0.1438, -1.5790, -1.9651, -0.5845])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-I literally salt everything from pizza, McDonalds French Fries (even though I know that they already have tons of salt on them). | tensor([ 7.2765e+00, -1.6572e+00, -1.2301e+00, -2.8799e+00, -2.5573e-01,
-        -2.0977e+00, -2.2015e+00, -4.1690e-03])
+I literally salt everything from pizza, McDonalds French Fries (even though I know that they already have tons of salt on them). | tensor([ 7.2765e+00, -1.6572e+00, -1.2301e+00, -2.8799e+00, -2.5573e-01,        -2.0977e+00, -2.2015e+00, -4.1690e-03])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I also salt ham and processed foods. | tensor([ 0.7938, -0.6687, -0.3322,  0.1528,  2.1265,  2.1206, -2.8304, -0.9670])
   I always salt food before even tasting it. | tensor([ 7.3148, -0.8898, -2.1231, -2.2332, -0.7425, -1.6165, -2.5454,  0.3386])
@@ -9432,8 +9330,7 @@ The texture of the short rib in the ravioli wasn't quite right, sort of dry, may
 We had a bread pudding for dessert, which was probably the best part of the meal. | tensor([ 6.5258, -0.9144, -2.5159, -1.4507,  1.0807, -1.7071, -2.8138, -0.1997])
 I expect a better overall experience for the money. | tensor([ 8.6333, -2.2126, -2.1672, -2.7736, -0.2704, -1.5703, -1.7239, -0.8701])
 Though I didn't get a chance to visit this place when I visited last month, I really do love Quiet Storm and I will be sure I hit it up next time I'm in town visiting my friends there. | tensor([ 8.5128, -1.6739, -2.0537, -2.0630, -1.2035, -1.4522, -2.2717, -0.2553])
-The decor is adorable. | tensor([ 8.5262e+00, -2.3893e+00, -2.1269e+00, -2.7918e+00,  4.1767e-03,
-        -1.3993e+00, -1.9823e+00, -7.5417e-01])
+The decor is adorable. | tensor([ 8.5262e+00, -2.3893e+00, -2.1269e+00, -2.7918e+00,  4.1767e-03,        -1.3993e+00, -1.9823e+00, -7.5417e-01])
 The prices are reasonable. | tensor([ 8.4871, -2.3085, -2.0093, -2.6982, -0.4421, -1.3132, -1.7403, -0.8937])
 It was an intimate place to see a show and it's too bad they are no longer doing them here. | tensor([ 8.6248, -2.0478, -1.8572, -2.1769, -1.2127, -1.9662, -1.9719, -0.0546])
 I really feel like this place was one of the first things that made me heart Pittsburgh. | tensor([ 8.7039, -2.0997, -1.8710, -2.4524, -0.6712, -1.9867, -2.0665, -0.4161])
@@ -9522,11 +9419,9 @@ It was savory, spicy and just the perfect compliment to the cold snowy night. | 
     | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 This is one storm i will enjoy braving from time to time. | tensor([ 8.5728, -2.2084, -1.9240, -2.4263, -0.7129, -2.0478, -1.6280, -0.4128])
 Quiet Storm is, perhaps, the most expensive vegetarian diner I have ever been to, even by big city standards! | tensor([ 7.6176, -1.3450, -2.1909, -1.3284, -1.5281, -1.9144, -2.4525,  0.6622])
-Cash-only makes this even more difficult. | tensor([ 8.5151e+00, -2.2140e+00, -2.3523e+00, -2.7860e+00, -8.2336e-03,
-        -1.8750e+00, -1.8048e+00, -5.3984e-01])
+Cash-only makes this even more difficult. | tensor([ 8.5151e+00, -2.2140e+00, -2.3523e+00, -2.7860e+00, -8.2336e-03,        -1.8750e+00, -1.8048e+00, -5.3984e-01])
 Tofu wings appetizer was simply not very good; and I usually love these things! | tensor([ 8.4956, -1.5489, -2.5480, -1.8128, -0.5108, -2.5728, -2.0840, -0.0899])
-I tried the gyro wrap which was also a big disappointment. | tensor([ 8.2659e+00, -2.1432e+00, -2.3510e+00, -2.5758e+00, -5.9038e-03,
-        -1.2867e+00, -2.0990e+00, -4.4924e-01])
+I tried the gyro wrap which was also a big disappointment. | tensor([ 8.2659e+00, -2.1432e+00, -2.3510e+00, -2.5758e+00, -5.9038e-03,        -1.2867e+00, -2.0990e+00, -4.4924e-01])
 As far as I know, gyros are supposed to be pretty meaty, but this was mostly lettuce with sporadic chunks of seitan and cucumber,along  with dreaded diced unripe tomato. | tensor([ 5.4332,  0.1747, -3.1735,  0.6427, -0.1533, -1.7926, -2.1414, -0.4925])
 The wrap was dry and upon looking at the menu again, I see that the sauce that it probably requires costs an extra $.50. | tensor([ 8.3987, -1.8363, -2.5017, -2.5836,  0.1704, -1.6987, -2.0884, -0.6625])
 The tortilla itself was very white and seemingly unnatural compared to those found at most veggie establishments. | tensor([ 7.0574, -2.5318, -2.2610, -1.1461, -0.6523, -0.2433, -1.3175, -0.9987])
@@ -9590,8 +9485,7 @@ I came back a couple weeks later, and it was bland and unappetizing. | tensor([ 
 Maybe there is someone who works in the kitchen who doesn't know where the spice rack is-- I don't know.\n\nThe 'waitstaff' is hit-or-miss, too. | tensor([-1.0308, -0.5475, -1.8127, -1.4542,  7.1232, -1.0705, -0.6773, -0.2905])
 Sometimes, they're great. | tensor([ 7.8610, -1.5863, -2.4165, -2.5084, -0.2194, -0.8285, -2.8187, -0.0358])
 Other times, I've waited for ages just for a menu. | tensor([ 7.1162, -1.7614, -2.2952, -0.6763, -0.0876, -1.3781, -1.9828, -1.0334])
-One guy actually snapped at me for asking for a breakfast item at lunch. | tensor([ 8.3230e+00, -1.4113e+00, -2.4339e+00, -2.0230e+00, -7.8056e-01,
-        -1.4920e+00, -2.4953e+00, -1.2177e-03])
+One guy actually snapped at me for asking for a breakfast item at lunch. | tensor([ 8.3230e+00, -1.4113e+00, -2.4339e+00, -2.0230e+00, -7.8056e-01,        -1.4920e+00, -2.4953e+00, -1.2177e-03])
 \n\nThat said, there are some good dishes, like the Black & Gold. | tensor([ 0.8778, -1.2581, -1.9618, -1.3631,  0.0851,  6.7299, -1.8260, -1.2860])
 I like that in some dishes you can replace rice with salad. | tensor([ 1.2729, -0.2694, -2.0231,  0.4450, -0.0325,  0.6310,  0.3014, -0.4215])
 A lot of people I've eaten with here have raved about the quesadillas. | tensor([ 8.4192, -1.8954, -2.4144, -2.0734, -0.3540, -1.7956, -2.1149, -0.3975])
@@ -9643,8 +9537,7 @@ As those of you who have read my other Yelp reviews know, the atmosphere of publ
 It's got a retro cool '50s diner vibe and a more modern but equally cool soundtrack that entices customers to stick around. | tensor([ 3.6935,  1.5242, -2.5180,  1.5644,  0.5480, -1.1567, -1.9348, -2.2822])
 The wait staff encourages this practice, giving diners plenty of space to hang out long after they've finished eating.\n\nThe one downside of Quiet Storm is its location, floating among gas stations and abandoned houses in Garfield, an area sandwiched between the more pedestrian friendly neighborhoods of Bloomfield and East Liberty, but not quickly accessible from either. | tensor([ 7.8973, -1.3243, -3.0819, -1.9313, -1.1419, -1.0309, -1.7382,  0.3155])
 It has to be a pre-determined destination rather than a drop in for random passersby. | tensor([ 8.5027, -2.5821, -1.9086, -2.5029, -0.3641, -1.9454, -1.5331, -0.7707])
-But that might just be OK. | tensor([ 8.5917e+00, -1.9784e+00, -2.2548e+00, -2.7243e+00, -4.4320e-03,
-        -1.6791e+00, -2.1016e+00, -6.5403e-01])
+But that might just be OK. | tensor([ 8.5917e+00, -1.9784e+00, -2.2548e+00, -2.7243e+00, -4.4320e-03,        -1.6791e+00, -2.1016e+00, -6.5403e-01])
 Daniel Fast friendly restaurant with good food. | tensor([ 8.5592, -2.1004, -1.9911, -1.9433, -0.4389, -2.5036, -1.9304, -0.4945])
 Stopped for an early supper before Saturday night church service after searching Yelp for vegan restaurant options. | tensor([ 8.2063, -2.2620, -1.1236, -2.6602, -1.3029, -2.5139, -2.2187,  0.8159])
 Food was good, service was good, price was very reasonable. | tensor([ 8.3694, -2.2013, -1.9086, -2.4774, -0.5240, -1.4345, -2.1241, -0.7163])
@@ -9663,12 +9556,10 @@ It's never too loud or aggressive. | tensor([ 7.9338, -0.7618, -2.5883, -2.5141,
 Free wi-fi helps and the milkshakes are slammin! | tensor([-0.2962, -0.2551, -1.5535,  0.1977,  5.0747, -1.7663, -0.2007, -1.5990])
 The food is inconsistent, but often good. | tensor([ 8.3883, -2.6183, -1.3148, -2.0660, -1.2904, -1.3385, -1.6996, -1.0648])
 The Black-a-dilla is my favorite. | tensor([ 2.0865, -1.8658, -1.6797, -2.8488, -0.6792,  7.7170, -2.1942, -0.4477])
-\n\nI really want to like Quiet Storm, but it only merits 2 stars. | tensor([ 8.3779e+00, -1.6142e+00, -2.4196e+00, -1.9348e+00, -1.4332e+00,
-        -1.7372e+00, -1.7013e+00, -4.2462e-03])
+\n\nI really want to like Quiet Storm, but it only merits 2 stars. | tensor([ 8.3779e+00, -1.6142e+00, -2.4196e+00, -1.9348e+00, -1.4332e+00,        -1.7372e+00, -1.7013e+00, -4.2462e-03])
 Their food, service, and hours are inconsistent. | tensor([ 8.2967, -2.4908, -2.0912, -2.1839, -0.1358, -1.7404, -1.6687, -0.9042])
 It seems they often close early. | tensor([ 8.5650, -2.1382, -1.8368, -2.3450, -0.5234, -2.3656, -1.6862, -0.4758])
-\n\nOwners, please stick to your business hours. | tensor([ 8.5492e+00, -2.0307e+00, -2.4983e+00, -2.8214e+00, -7.5282e-03,
-        -1.6198e+00, -7.4116e-01, -1.7017e+00])
+\n\nOwners, please stick to your business hours. | tensor([ 8.5492e+00, -2.0307e+00, -2.4983e+00, -2.8214e+00, -7.5282e-03,        -1.6198e+00, -7.4116e-01, -1.7017e+00])
 It's not like you're open that late to begin with! | tensor([ 8.6363, -2.1232, -2.3618, -2.2632, -0.4540, -2.0689, -1.8515, -0.3655])
 Perhaps everybody wants to go home, I don't blame them for that, and you may have run out of a few things, but try to imagine the disappointment of trekking out there to enjoy your favorite shake or snack and then being turned away. | tensor([ 8.1836, -2.0084, -1.5471, -0.7215, -2.1410, -2.1597, -1.3035, -0.9075])
  \n\nOR, If you believe this is an acceptable business practice, it would be less infuriating if you simply changed your hours to '9am - until we feel like it.'   | tensor([ 8.6127, -2.2112, -2.3393, -2.3944, -0.3552, -2.1302, -1.1458, -1.0764])
@@ -9710,8 +9601,7 @@ First it's a vegan/veggie cafe, I am a complete carnivore. | tensor([ 8.3449, -1
 Secondly, it's like hipster brunch paradise, I'm super preppy (a heavily tattoed preppy person but still). | tensor([ 6.5216,  1.3860, -3.4647, -1.8360,  0.8559, -1.5990, -1.7935, -1.5783])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Yet this was one of the only places open on Labor Day and I walked in with my vegan friend, she immediately recognized her people and practically jizzed in her pants over the menu. | tensor([ 5.4755, -0.6444, -2.5160, -2.0406, -0.6254, -2.0618,  0.9257, -0.4353])
-OMG seitan gravy and cheez?\n\nWTF is seitan gravy and cheez? | tensor([ 8.5243e+00, -2.0507e+00, -2.3274e+00, -1.8874e+00,  4.5937e-03,
-        -2.6863e+00, -1.3384e+00, -1.0928e+00])
+OMG seitan gravy and cheez?\n\nWTF is seitan gravy and cheez? | tensor([ 8.5243e+00, -2.0507e+00, -2.3274e+00, -1.8874e+00,  4.5937e-03,        -2.6863e+00, -1.3384e+00, -1.0928e+00])
 Why does she keep calling vegan cheese, \"cheez\" anyway? | tensor([ 5.0589,  0.0723, -3.9118, -0.9935,  2.1550, -2.8595, -0.1692, -0.6107])
 I decided to go with the flow and order the Home Fries Ranchero. | tensor([ 7.8825, -2.6006, -1.9706, -3.5698,  0.5086, -0.0139, -2.0278, -0.8043])
 Basically their \"famous\" home fries, chili, sour cream, eggs or tofu and cheez. | tensor([ 7.2925, -1.8385, -1.8636, -2.7930, -0.1896,  0.2739, -1.9518, -1.3537])
@@ -9764,8 +9654,7 @@ We asked the staff what was going on.   | tensor([ 8.4818, -1.7202, -2.2955, -2.
 Apparently someone was filming their submission/application to be on a reality show. | tensor([ 8.4772, -2.3255, -2.1221, -2.3901, -0.4417, -2.0305, -1.5461, -0.4649])
  \"Oh cool,\" we thought. | tensor([ 7.6249, -2.6196, -0.8973, -2.3669, -1.5833, -0.1359, -1.2710, -1.4589])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-\"What reality show?\" we asked. | tensor([ 8.0281e+00, -1.6446e+00, -1.3785e+00, -2.2618e+00, -1.5862e+00,
-        -1.6132e+00, -2.0840e+00,  4.3579e-03])
+\"What reality show?\" we asked. | tensor([ 8.0281e+00, -1.6446e+00, -1.3785e+00, -2.2618e+00, -1.5862e+00,        -1.6132e+00, -2.0840e+00,  4.3579e-03])
  \"Not sure, something on the Golf Channel,\" they replied. | tensor([ 0.0856, -0.8847,  3.1599, -3.1647, -2.0343,  1.2585, -2.4585,  3.8244])
  HAHAHAHA! | tensor([ 6.7791, -2.2834, -1.7773, -2.6947,  0.9355,  0.3229, -2.3590, -0.9901])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
@@ -9857,8 +9746,7 @@ It tasted like nothing. | tensor([ 8.5232, -2.0951, -2.1888, -2.5514, -0.1772, -
 I thought it'd be moister with a creamy consistency that might come from silken tofu, but it was hard, dry, and chewy. | tensor([ 2.3477, -2.4495,  1.5521, -3.0695, -2.4099,  5.8434, -1.7340, -0.5132])
 Hubby got a country burrito that was much better in comparison to my plate... | tensor([ 8.0072, -1.8898, -1.4907, -2.5557, -1.5608,  0.2296, -2.4947, -0.8390])
 But that might have been due to the fact that his whole plate was doused in gravy. | tensor([ 8.4802, -1.7283, -2.5444, -2.7904,  0.1647, -1.7937, -1.4634, -1.2967])
-Anything will taste better drenched in gravy. | tensor([ 5.0959e+00, -3.1198e-03, -2.4051e+00, -8.0480e-01,  2.2433e+00,
-        -9.7793e-01, -3.3615e+00, -3.3001e-01])
+Anything will taste better drenched in gravy. | tensor([ 5.0959e+00, -3.1198e-03, -2.4051e+00, -8.0480e-01,  2.2433e+00,        -9.7793e-01, -3.3615e+00, -3.3001e-01])
 We think the gravy tastes like the powdered packet kind where you just add water. | tensor([-0.4584, -0.5497,  1.2629, -1.5741, -0.9887,  1.5416, -0.6909,  0.2668])
 On top of all this service wasn't the greatest. | tensor([ 8.6269, -2.1259, -2.0710, -2.5408, -0.5953, -1.9858, -1.9896, -0.2410])
 I had to fish around for my own ketchup and they didn't even bother to ask me what kind of toast (3 options on the menu)I wanted when I ordered the toast option for my meal. | tensor([ 6.7350, -1.4940, -1.6754, -0.6796, -0.2349, -2.6528, -2.3103,  0.0353])
@@ -9866,8 +9754,7 @@ Then they didn't bother to ask hubby if he wanted anything to drink after he had
 We had to tell someone else to get it for us. | tensor([ 8.5136, -2.0698, -2.2544, -2.7740, -0.0712, -1.9436, -1.8965, -0.3311])
 Also they don't really wash their cups. | tensor([ 5.4187, -1.5469, -0.9648,  0.3046, -1.8837, -0.4633, -1.5254, -0.7049])
 There are 2 sink basins at the front where they just dunk the cups in one soapy basin then dunk the cups in a second water basin and then stack them next to the sink. | tensor([-1.6657,  0.7044, -1.5861,  3.0651,  0.8082, -2.7927, -0.9966,  3.1694])
-It made me not want to drink my water even though I was thirsty. | tensor([ 8.5293e+00, -1.6413e+00, -2.1365e+00, -2.0503e+00, -6.3949e-01,
-        -1.9934e+00, -2.4573e+00,  5.1160e-03])
+It made me not want to drink my water even though I was thirsty. | tensor([ 8.5293e+00, -1.6413e+00, -2.1365e+00, -2.0503e+00, -6.3949e-01,        -1.9934e+00, -2.4573e+00,  5.1160e-03])
 Good idea, but poorly executed food. | tensor([ 8.4222, -2.5737, -1.7228, -2.4962, -0.9139, -1.5132, -1.2941, -1.0272])
 I've had good vegan and vegetarian food before that's consisted of a lot of fresh greens, avocados, and more. | tensor([ 7.0304, -1.7448, -2.4983, -1.7932, -0.2305, -0.9149, -1.9393, -0.1768])
 For a vegetarian place, there was nothing green on our plates. | tensor([ 3.3691, -2.1874, -1.0181,  2.6956, -3.0689, -0.9427,  1.1317, -1.7770])
@@ -10008,8 +9895,7 @@ but somehow it doesn't happen. | tensor([ 7.7160, -2.3932, -1.7773, -2.6480, -0.
 I've turned on three of my friends to Quiet Storm too, and they love it just as much. | tensor([ 8.4636, -1.5656, -2.3539, -2.5418, -0.8883, -1.8384, -1.8809, -0.0334])
 The first time I visited I ordered a tofu hash. | tensor([ 7.5808, -2.9103,  0.7663, -2.3012, -1.8996, -1.7745, -1.6678, -0.8040])
 It was an amazing blend of seasonal vegetables, including some I would never eat otherwise. | tensor([ 0.0896, -0.5847, -1.7572,  7.9784, -0.4325, -1.4523, -2.2327, -1.4265])
-The tofu was nice and firm, the seisage was spicy and perfectly chewy. | tensor([ 7.6979e+00, -2.4370e+00, -1.4476e+00, -3.0155e+00, -8.0023e-01,
-         5.8014e-03, -1.5698e+00, -9.9443e-01])
+The tofu was nice and firm, the seisage was spicy and perfectly chewy. | tensor([ 7.6979e+00, -2.4370e+00, -1.4476e+00, -3.0155e+00, -8.0023e-01,         5.8014e-03, -1.5698e+00, -9.9443e-01])
 The vegan \"cheese\" sauce was also rich and delicious.   | tensor([ 7.6871, -1.4688, -2.6031, -2.1872,  0.0207, -1.5055, -2.3048, -0.4880])
 The portion was so huge, I couldn't finish it. | tensor([ 8.5885, -1.8678, -2.1911, -2.6792, -0.7596, -1.9113, -1.7668, -0.0922])
 Leftovers are rarely as good as when the meal is fresh, but I was pleasantly surprised to find that my leftovers were even BETTER than the fresh meal. | tensor([ 7.7104, -1.5807, -2.5780, -1.6237, -1.0599, -2.7535, -0.9702,  0.1693])
@@ -10078,8 +9964,7 @@ I'd stick with something like the hot sausage or chicken parm. | tensor([ 6.3053
  and they are huge. | tensor([ 8.2808, -1.6231, -1.9117, -2.5539, -0.2912, -1.0997, -2.5553, -0.7946])
  like 16\" for a whole.\n\nthe calzones are massive and tasty as well. | tensor([ 2.6075, -2.7056,  1.7180, -2.9205, -2.7204,  3.6539, -0.2724, -0.6502])
  go with heavy veg or a combination of meat and veg. | tensor([ 8.2166, -1.6295, -2.4671, -2.3363, -0.2334, -1.6729, -1.9632, -0.9447])
- the breaks up the bread and cheese flavor. | tensor([ 8.6449e+00, -2.2597e+00, -2.0896e+00, -2.5261e+00,  2.7639e-03,
-        -1.5902e+00, -1.9460e+00, -1.0093e+00])
+ the breaks up the bread and cheese flavor. | tensor([ 8.6449e+00, -2.2597e+00, -2.0896e+00, -2.5261e+00,  2.7639e-03,        -1.5902e+00, -1.9460e+00, -1.0093e+00])
  well at least I've found them to be better anyway.\n\nthe pasta is expensive as heck and is average. | tensor([ 7.8132, -0.2758, -2.8837, -2.1988, -1.0619, -1.0623, -1.9809, -0.3307])
  not a place to order pasta from unless its one of those lazy nights where you need that craving filled.\n\nsalads are typical.\n\nall in all not a bad place. | tensor([ 8.1720, -1.5464, -2.5954, -0.8657, -1.1420, -1.8735, -2.0381, -0.6544])
  better than other pizza places in the area. | tensor([ 7.8108, -2.3393, -1.9948, -2.9284,  0.0158, -1.0489, -1.8150, -0.9245])
@@ -10098,8 +9983,7 @@ Perfectta\nAiello's (Murray Street)\nBeto's\n\nSave for Beto's, I thought they w
 Wish I had a chance to try Mineo's.   | tensor([ 8.4400, -2.0974, -1.5431, -2.4106, -1.2777, -1.4195, -2.0860, -0.2377])
 A Pittsburgh native friend of mine calls this his favorite but they were closed July 5th when I went by their place on Murray... | tensor([ 7.9577, -2.3261, -1.5021, -2.5220, -1.9355, -0.4250, -1.9205,  0.0893])
 I'll try them next time I'm in the 'burgh.\n\nPizza Perfectta has a few stools and a counter | tensor([ 8.2829, -2.0248, -2.6118, -1.0979, -0.0718, -2.2195, -1.5142, -1.1186])
-but really it is a take-out place. | tensor([ 8.2799e+00, -2.1849e+00, -1.8535e+00, -2.8339e+00, -7.3432e-01,
-        -1.1936e+00, -2.2364e+00, -9.4379e-04])
+but really it is a take-out place. | tensor([ 8.2799e+00, -2.1849e+00, -1.8535e+00, -2.8339e+00, -7.3432e-01,        -1.1936e+00, -2.2364e+00, -9.4379e-04])
 In all fairness, I went to this place after stuffing myself at Vincent's Pizza Park. | tensor([ 8.5483, -1.6956, -2.3981, -2.3845, -0.8236, -2.3177, -1.7735,  0.0669])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 Still, I know a good pizza when I see one, and this place is totally passable, but great or even good it is not.   | tensor([ 8.5250, -1.9383, -2.3386, -2.0416, -0.2418, -1.9367, -2.0534, -0.6977])
@@ -10115,8 +9999,7 @@ Breeze/Pittsburgh East End. | tensor([ 8.5627, -2.2132, -2.2600, -2.5670, -0.419
 Flat New York style, not greasy, timely delivery, they know my orders! | tensor([ 8.5461, -1.7284, -2.2385, -2.7658, -0.8372, -1.6502, -1.2271, -1.0352])
 Great pizza, reasonable prices, fast service - cant ask for much more! | tensor([ 8.5669, -1.8237, -2.3944, -2.3966, -0.2624, -2.1034, -1.7877, -0.7126])
 This Valentines Day I ordered a pizza for my boyfriend and asked that they make a heart on it out of green peppers. | tensor([ 2.2577, -1.4583, -2.1604, -2.2592,  6.6973, -1.6605, -3.0724,  0.5643])
-The pizza was great, the heart was perfect, and he loved it! | tensor([ 8.4396e+00, -1.9970e+00, -2.4023e+00, -2.3694e+00, -6.1016e-03,
-        -1.7940e+00, -2.2896e+00, -3.0716e-01])
+The pizza was great, the heart was perfect, and he loved it! | tensor([ 8.4396e+00, -1.9970e+00, -2.4023e+00, -2.3694e+00, -6.1016e-03,        -1.7940e+00, -2.2896e+00, -3.0716e-01])
 By far my favorite Pizza place in the east end. | tensor([ 8.4829, -1.3831, -1.9384, -1.9524, -0.8517, -2.4126, -2.6379, -0.0844])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The buffalo chicken pizza here is fantastic, and very unique. | tensor([ 1.3938, -3.0411,  0.5228, -2.9860, -1.1141,  7.6654, -1.7764, -1.1805])
@@ -10238,8 +10121,7 @@ The sandwiches were good and prepared with genuine care and attention to detail,
 Get the soft pretzels, toss 'em in the microwave and eat them with mustard. | tensor([ 4.3148, -0.0846, -2.4687,  2.9908, -0.9235, -2.7026, -2.1051, -0.3144])
 As a displaced west-coaster, I appreciate a store like this in Pittsburgh. | tensor([ 8.4838, -1.9347, -2.1411, -2.2091, -0.8391, -1.9039, -1.6007, -0.6658])
 \n\nI like the bulk goods and spices because you can take as much as you need, you get the spices whole and they put them in big jars so you can sniff them if you want before you buy (the downside to that is that every time the jars get opened the spices probably lose some oils), and there's a huge selection. | tensor([-0.7559, -3.7819,  5.3080, -0.6794, -1.8028,  2.0089, -0.6052, -1.4512])
-\n\nThis place has my quinoa, pearled barley, spelt flour, and nutritional yeast. \n\nSome of the vegetables pop out at me and I'm tempted to buy a lemon or some really ripe piece of fruit. | tensor([-6.9157e-03, -1.1338e+00, -1.0765e+00,  7.4522e+00, -4.0858e-01,
-        -8.9418e-01, -1.6836e+00, -2.0051e+00])
+\n\nThis place has my quinoa, pearled barley, spelt flour, and nutritional yeast. \n\nSome of the vegetables pop out at me and I'm tempted to buy a lemon or some really ripe piece of fruit. | tensor([-6.9157e-03, -1.1338e+00, -1.0765e+00,  7.4522e+00, -4.0858e-01,        -8.9418e-01, -1.6836e+00, -2.0051e+00])
 Usually I don't though. | tensor([ 8.4862, -1.7370, -2.3924, -2.7129, -0.1672, -1.6728, -2.4174, -0.0503])
 During the summer they were selling fresh herbs in pots. | tensor([ 4.3765, -2.6125,  2.7033, -0.8898, -2.5236, -1.4082, -1.0535, -1.2590])
 That was really tempting. | tensor([ 8.6376, -2.0202, -2.2699, -2.5545, -0.2058, -2.1322, -1.7396, -0.6668])
@@ -10302,8 +10184,7 @@ Your mea l(of veggies, tofu and kale) could end up costing $20 easily. | tensor(
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 I usually grab a hot meal and play on my computer 1-2 hours. | tensor([ 7.7449, -0.7471, -2.7405, -0.5060, -1.4294, -2.1745, -2.3075,  0.1441])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
-Love the carrott juice with ginger YUM!   | tensor([ 7.7547e+00, -5.5807e-01, -2.5108e+00, -2.2991e+00, -1.9942e-03,
-        -1.8530e+00, -2.5705e+00, -6.4172e-02])
+Love the carrott juice with ginger YUM!   | tensor([ 7.7547e+00, -5.5807e-01, -2.5108e+00, -2.2991e+00, -1.9942e-03,        -1.8530e+00, -2.5705e+00, -6.4172e-02])
 A small is $4.30 ouch! | tensor([ 7.3871, -1.1107, -2.9159, -3.3863,  1.0536, -0.7525, -2.5536, -0.1306])
  Just found out they won't charge you for bags if you bring your own.... | tensor([ 8.5194, -1.9942, -2.1053, -2.6172, -0.3712, -1.9491, -1.9779, -0.4598])
 Ooooppss...update time. | tensor([ 8.3884, -2.1631, -2.2343, -2.6442,  0.2370, -1.7440, -1.7984, -0.8010])
@@ -10390,8 +10271,7 @@ I find myself buying less items than I used to. | tensor([ 7.6521, -1.4330, -2.2
 I think if the prices were more reasonable, they would sell more.\nA new \"reuse\" store has opened in the area nearby. | tensor([ 7.7238, -1.5132, -1.8906, -3.2116, -1.0454, -0.6291, -2.1596,  0.4022])
 They have more reasonble prices and thier building is heated. | tensor([ 7.6685, -0.8228, -2.0879, -2.9746, -0.7716, -1.9494, -1.5800,  0.2538])
 just got off the phone with a lady from construction junction. | tensor([ 8.5783, -1.8087, -2.4449, -3.3584,  0.8587, -2.0333, -1.2329, -1.0806])
- normally, i have had the best experiences there. . . | tensor([ 7.3756e+00, -2.2222e+00, -1.8947e-03, -2.9507e+00, -2.0502e+00,
-        -1.1170e+00, -2.8668e+00,  1.1759e+00])
+ normally, i have had the best experiences there. . . | tensor([ 7.3756e+00, -2.2222e+00, -1.8947e-03, -2.9507e+00, -2.0502e+00,        -1.1170e+00, -2.8668e+00,  1.1759e+00])
 all have been very cooperative and helpful.   | tensor([ 8.3729, -2.7691, -1.6256, -2.0106, -0.5957, -1.2550, -1.4407, -1.4171])
 but, i guess they are so successful that they are becoming arrogant. | tensor([ 8.6059, -1.9124, -1.8258, -2.2082, -1.1990, -1.4424, -1.5973, -1.2077])
  here's the rub:  my hubby sent me a picture of a chandelier they had; i did not see the picture until 30 minutes later; by then he had left the store. | tensor([ 6.6068, -0.9841, -3.0681, -2.0864, -0.6049,  0.1208, -0.2080, -1.0220])
@@ -10561,8 +10441,7 @@ There were a lot of different volumes, nice routes, some top outs, and a good ca
 I might be back to bolder once in a blue moon. | tensor([ 8.6621, -1.3527, -2.4108, -2.6188, -0.4194, -1.6864, -1.7447, -0.9722])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The other climbers here were pretty cool, so the place might have a good vibe/community aspect. | tensor([ 8.6308, -1.9590, -2.0841, -2.1191, -1.1112, -1.7620, -1.8265, -0.6375])
-\n\n\nNow the downsides. | tensor([ 8.1717e+00, -2.4217e+00, -2.3159e+00, -2.7019e+00,  8.1169e-03,
-        -1.3473e+00, -1.1312e+00, -1.1433e+00])
+\n\n\nNow the downsides. | tensor([ 8.1717e+00, -2.4217e+00, -2.3159e+00, -2.7019e+00,  8.1169e-03,        -1.3473e+00, -1.1312e+00, -1.1433e+00])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
 The staff wasn't very helpful. | tensor([ 8.4786, -1.3844, -2.8059, -2.4667, -0.0741, -1.8811, -1.8404, -0.6741])
   | tensor([ 8.0307, -2.2688, -2.1217, -2.9378, -0.1605, -0.4471, -2.3397, -0.4265])
