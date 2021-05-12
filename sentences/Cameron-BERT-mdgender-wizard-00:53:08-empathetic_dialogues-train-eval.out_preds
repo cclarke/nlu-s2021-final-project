@@ -1,0 +1,66 @@
+
+                                                               sentence      prediction0     prediction1      prediction2
+85093   Give it some time and I am sure you will meet some new people.   tensor(-4.4032)  tensor(0.9947)   tensor(2.5002)
+36110                                      and I feel so bad about it.   tensor(-4.3192)  tensor(0.1547)   tensor(3.8349)
+168979                                                     boy or girl   tensor(-4.2819)  tensor(2.3269)   tensor(1.5850)
+116008               Maybe its time to save up for your own dream car?   tensor(-4.1739)  tensor(2.6506)   tensor(0.6509)
+4968                                    Last year we went on vacation.   tensor(-4.1205)  tensor(4.5472)  tensor(-0.6621)
+64294       and they already have a little boy so they'll be brothers!   tensor(-4.0885)  tensor(4.8264)  tensor(-0.9661)
+69692                            Yeah_comma_ I've considered it_comma_   tensor(-4.0706)  tensor(0.8289)   tensor(2.7817)
+49358                                   i wish i had that kind of will   tensor(-4.0375)  tensor(4.0653)   tensor(0.1367)
+186498        Dairy Queen_comma_ it was the only restaurant in my town   tensor(-4.0289)  tensor(1.2651)   tensor(2.2189)
+180292                                 If you can and have time_comma_   tensor(-4.0277)  tensor(3.2649)   tensor(0.2284)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
+
+                                                                  sentence     prediction0      prediction1     prediction2
+99794                                                           ,478,I do   tensor(2.9211)  tensor(-5.4130)  tensor(1.5055)
+74482                                                     17 catagories!!   tensor(1.3270)  tensor(-5.2195)  tensor(2.9763)
+131404                                           I wish you all the best.   tensor(2.8023)  tensor(-5.2095)  tensor(1.2672)
+27721        It was the first time I traveled at night_comma_ I loved it.   tensor(1.7144)  tensor(-5.2056)  tensor(2.8751)
+82025                                   Dang dogs lol We love them_comma_   tensor(2.5538)  tensor(-5.2004)  tensor(1.6198)
+34979                                      Still makes you think I guess.   tensor(3.0903)  tensor(-5.1952)  tensor(1.1456)
+3257                    Not for now_comma_ decided to finish up my PhD...   tensor(2.8317)  tensor(-5.1770)  tensor(1.6025)
+155345               Im having a hard time trying to concentrate on work.   tensor(2.1510)  tensor(-5.1583)  tensor(1.9429)
+69608   I spilled all my coffee on my shirt in front of the cute barista.   tensor(2.1539)  tensor(-5.1541)  tensor(2.5331)
+189535                             I love traveling and seeing the world.   tensor(2.5093)  tensor(-5.1511)  tensor(1.7299)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
+
+                                                                                                                        sentence     prediction0     prediction1      prediction2
+156000                                                     My husband is the one to get more embarrassed over things like that.   tensor(3.8037)  tensor(1.1906)  tensor(-4.5909)
+153735                                                                                                           oh damn_comma_   tensor(2.6939)  tensor(1.6290)  tensor(-4.5091)
+181969  Sometimes we mom's get a bit forgotten_comma_ so to have an entire day where we are just loved is such a great feeling.   tensor(3.6749)  tensor(0.7547)  tensor(-4.5076)
+184158                                                                                                        Where did she go?   tensor(4.0155)  tensor(0.0725)  tensor(-4.4988)
+174847                                                                                         Thats terrible i am so sorry. :(   tensor(3.6468)  tensor(0.4796)  tensor(-4.4791)
+27938                                                                             I am glad that you had such a wonderful time.   tensor(3.7666)  tensor(0.8168)  tensor(-4.4778)
+108464                                                                                                                            tensor(3.6046)  tensor(0.5253)  tensor(-4.4753)
+178731                                                                                                   I bet you cant wait.     tensor(2.9837)  tensor(1.4560)  tensor(-4.4642)
+122740                                                                                                                            tensor(3.9358)  tensor(0.2942)  tensor(-4.4174)
+73869                                                                                                   MY summer was so boring   tensor(3.6375)  tensor(0.3788)  tensor(-4.4143)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN

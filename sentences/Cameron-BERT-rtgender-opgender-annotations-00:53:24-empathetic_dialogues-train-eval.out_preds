@@ -1,0 +1,44 @@
+
+                                                                                                          sentence      prediction0     prediction1
+116831                                               hit:9083_conv:18167,4,excited,I'm stoked for my next payday.   tensor(-2.8821)  tensor(2.7125)
+48929                   I have really been shocked at how cool some of the people I have met on the internet are.   tensor(-2.8736)  tensor(2.6249)
+179803                                                                                                              tensor(-2.8736)  tensor(2.6249)
+180379                                                            and i'm scared people aren't even realising it.   tensor(-2.8736)  tensor(2.6249)
+142018         i do not know what to say_comma_ i guess the best thing to do is let them work it out on their own   tensor(-2.8387)  tensor(2.3456)
+138087                                                                     I am feeling so proud of my dog today.   tensor(-2.8219)  tensor(2.7973)
+2791                                                                                                                tensor(-2.8158)  tensor(2.7108)
+193106  They voted for high taxes and now people are abandoning the state beacuse the cost of living is too high.   tensor(-2.8063)  tensor(2.3889)
+91645                                                          Yes I think I am more excited than her_comma_ LOL.   tensor(-2.8041)  tensor(2.7588)
+117260                                                                               Its going to be so much fun.   tensor(-2.7982)  tensor(2.4956)                                                             sentence prediction0 prediction1
+202519                                did you call the exterminator?          NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN
+202525                                          What is the test on?          NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN
+
+                                                                                                                         sentence     prediction0      prediction1
+127417  I really wish those people who get fined just like those traffic cameras that send you tickets in the mail for speeding.   tensor(2.8040)  tensor(-3.2069)
+141122                                                                                                          Who is the band?   tensor(2.7668)  tensor(-3.2063)
+122060            hit:9490_conv:18981,1,afraid,I went to take the trash out last night and there was a stray dog in my driveway.   tensor(2.7668)  tensor(-3.2063)
+154521                                                                 It certainly is a great feeling_comma_ financial freedom!   tensor(2.8837)  tensor(-3.1941)
+29902                                                                                                          THat sounds cool.   tensor(2.6839)  tensor(-3.1865)
+90032                                                                                          I am ready for the Fall Festival.   tensor(2.8140)  tensor(-3.1748)
+24280     We got into a huge argument about me using the car earlier and then he said my punishment was i can't go to the party!   tensor(2.8264)  tensor(-3.1747)
+66048                                                                                                                 Thank you.   tensor(2.5430)  tensor(-3.1588)
+156683                                                         I was an awkward teenager and was super scared to talk to girls..   tensor(2.6677)  tensor(-3.1584)
+111970                                                                                                                             tensor(2.6338)  tensor(-3.1581)                                                             sentence prediction0 prediction1
+202519                                did you call the exterminator?          NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN
+202525                                          What is the test on?          NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN

@@ -1,0 +1,66 @@
+
+                                                                                                                                        sentence      prediction0     prediction1     prediction2
+105168                                                                                                                                            tensor(-6.0724)  tensor(3.4310)  tensor(2.7900)
+129589  hit:10032_conv:20064,2,surprised,I just got a check for 100_comma_000 dollars from a relative,366,Wow_comma_ that is a big inheritance.   tensor(-6.0675)  tensor(3.6255)  tensor(2.4532)
+123963                                                    ,59,I hope so_comma_ right now I am just sad and have been crying in my dorm all day.   tensor(-6.0537)  tensor(3.1092)  tensor(2.9404)
+52719                                                                                  Well_comma_ maybe it's an opportunity for introspection.   tensor(-6.0429)  tensor(2.8096)  tensor(3.2346)
+141150                                                                                                                                            tensor(-6.0392)  tensor(3.5528)  tensor(2.3994)
+110653                                                                                                               I wish i had one like that   tensor(-6.0338)  tensor(2.7571)  tensor(3.1930)
+80762                                                                                                                                             tensor(-6.0305)  tensor(3.6655)  tensor(2.4269)
+115672              Being able to take the little victories will go a long way toward the goal you want in terms of how you treat your husband.   tensor(-6.0282)  tensor(3.1058)  tensor(2.8718)
+107144                                                          No I just knew exactly what I wanted_comma_ and how much I wanted to pay for it   tensor(-6.0256)  tensor(3.0688)  tensor(2.9826)
+63620                                                                                              As long as at gets you where you need to go.   tensor(-6.0218)  tensor(3.2516)  tensor(2.6846)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
+
+                                                                                   sentence     prediction0      prediction1     prediction2
+67382                                              Reminds me of when I was younger_comma_   tensor(3.1687)  tensor(-5.6673)  tensor(2.6877)
+23993                                                            Maybe I will try one day.   tensor(3.2447)  tensor(-5.6442)  tensor(2.5864)
+126562                                              My nephew starts 10th grade this year!   tensor(3.0325)  tensor(-5.5857)  tensor(2.7194)
+180896                                               Hopefully you didn't get hurt though!   tensor(3.3713)  tensor(-5.5803)  tensor(2.3683)
+140928                                                I'm feeling pretty lucky this month.   tensor(3.4897)  tensor(-5.5778)  tensor(2.2626)
+134905                                                  she is one of my favorite singers.   tensor(3.1947)  tensor(-5.5629)  tensor(2.5574)
+89859                                                           but it was a lonesome time   tensor(2.6088)  tensor(-5.5481)  tensor(3.0978)
+56958                                          scratcher ticket_comma_ i was quite envious   tensor(3.5105)  tensor(-5.5442)  tensor(2.2114)
+42604   I'm not afarid of them in real life though_comma_ but the movies are super creepy!   tensor(3.3223)  tensor(-5.5350)  tensor(2.4118)
+129813                                It reminded me of being home living with my parents.   tensor(3.0110)  tensor(-5.5286)  tensor(2.7662)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
+
+                                                                                                                             sentence     prediction0     prediction1      prediction2
+49735                                                                 she did excellent_comma_ and a lot better than the other kids.   tensor(2.8796)  tensor(3.2087)  tensor(-6.3585)
+43013                             I decided to simply defend myself and there was a verbal back-and-forth witnessed by a few people.   tensor(3.2702)  tensor(2.7383)  tensor(-6.2989)
+11933                                                                                                  I had to study hard to do it.   tensor(4.9989)  tensor(0.5151)  tensor(-6.1540)
+26945                                                                                 Someone scratched my car and slashed my tires.   tensor(4.1224)  tensor(1.4761)  tensor(-6.0305)
+1681    Do girls not understand that men also want to be valued over some random guys that they meet or even just see on the street?   tensor(4.7720)  tensor(0.7557)  tensor(-5.9876)
+142252                                                                                     I got some bad news from my doctor today.   tensor(3.7026)  tensor(2.0092)  tensor(-5.9296)
+141986                                                                      but i'm also getting nervous about meeting my new class.   tensor(4.0093)  tensor(1.5399)  tensor(-5.8672)
+77453           I work with a commercial bank_comma_the place was burgled my criminals _comma_i was the one on duty that fateful day   tensor(3.9499)  tensor(1.5470)  tensor(-5.8357)
+182323                                                                             Extremely_comma_ but it passed after a day or so.   tensor(3.7825)  tensor(1.7219)  tensor(-5.8138)
+91512                                                                                                               Were you scared?   tensor(4.1169)  tensor(1.2687)  tensor(-5.7891)                                                             sentence prediction0 prediction1 prediction2
+202519                                did you call the exterminator?          NaN         NaN         NaN
+202520                               Not yet since it's the weekend.          NaN         NaN         NaN
+202521          We live in Texas so they are common but still gross!          NaN         NaN         NaN
+202522                       I'm glad I haven't see any in my house.          NaN         NaN         NaN
+202523                      I live in Texas to so i know those feels          NaN         NaN         NaN
+202524           I have a big test on Monday_comma_ I am so nervous.          NaN         NaN         NaN
+202525                                          What is the test on?          NaN         NaN         NaN
+202526                                  It's for my Chemistry class.          NaN         NaN         NaN
+202527  I haven't slept much because I'm worried so I keep studying.          NaN         NaN         NaN
+202528     Chemistry is quite difficult_comma_have you studied hard?          NaN         NaN         NaN
