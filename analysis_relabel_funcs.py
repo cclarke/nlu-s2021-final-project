@@ -40,3 +40,43 @@ def return_mdgender_convai_binary(predictions):
     softmax_preds, category = _softmax_and_relabel(predictions, categorical_labels)
 
     return softmax_preds[1] - softmax_preds[0], category
+
+
+def return_mdgender_convai_ternary(predictions):
+    
+    categorical_labels = ["female", "male", "neutral"]
+    softmax_preds, category = _softmax_and_relabel(predictions, categorical_labels)
+    
+    if category == "neutral":
+        return 0, category
+    else:
+        return softmax_preds[1] - softmax_preds[0], category
+
+
+def return_mdgender_wizard(predictions):
+
+    categorical_labels = ["neutral", "female", "male"]
+    softmax_preds, category = _softmax_and_relabel(predictions, categorical_labels)
+
+    if category == "neutral":
+        return 0, category
+    else:
+        return softmax_preds[2] - softmax_preds[1], category
+
+
+
+'BERT-SBIC-targetcategory': ['none', 'body', 'culture', 'disabled', 'gender', 'race', 'social', 'victim'], # not used
+'BERT-eec-emotion': ['none', 'anger','fear', 'joy', 'sadness'], # not used
+
+
+
+
+
+
+
+
+
+
+
+
+
