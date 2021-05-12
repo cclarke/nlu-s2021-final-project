@@ -65,8 +65,6 @@ def return_mdgender_wizard(predictions):
 
 
 
-'BERT-SBIC-targetcategory': ['none', 'body', 'culture', 'disabled', 'gender', 'race', 'social', 'victim'], # not used
-'BERT-eec-emotion': ['none', 'anger','fear', 'joy', 'sadness'], # not used
 
 
 
