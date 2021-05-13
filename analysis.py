@@ -47,6 +47,7 @@ def read_outfile(outfile_name, delimiter="|", skiprows=2, split_tensor=True):
         names=["sentence", "predictions"],
     )
     df = df.dropna()
+    df = df[df["sentence"].str.len() > 20]
     try:
         df["predictions"] = df["predictions"].apply(
             lambda x: x.replace("tensor(", "").replace(")", "").strip()
@@ -65,8 +66,12 @@ def read_outfile(outfile_name, delimiter="|", skiprows=2, split_tensor=True):
 
 def read_dfs(file1, file2, suffixes=("_df1", "_df2"), split_tensor=False):
     df1 = read_outfile(file1, split_tensor=split_tensor)
+    df1.drop_duplicates(subset="sentence", inplace=True)
+    
     df2 = read_outfile(file2, split_tensor=split_tensor)
-    combined_df = df1.merge(df2, on="sentence", suffixes=suffixes)
+    df2.drop_duplicates(subset="sentence", inplace=True)
+
+    combined_df = df1.merge(df2, on="sentence", suffixes=suffixes, validate="one_to_one")
     return df1, df2, combined_df
 
 
