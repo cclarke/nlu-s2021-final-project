@@ -1,0 +1,11 @@
+Description of scores (unscaled) for data at: 
+count    101806.000000
+mean         -0.971707
+std           0.215638
+min          -0.999955
+25%          -0.999937
+50%          -0.999782
+75%          -0.999460
+max           0.998524
+Name: scores_1, dtype: float64
+
